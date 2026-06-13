@@ -1,0 +1,501 @@
+p_partkey,p_name,p_mfgr,p_brand,p_type,p_size,p_container,p_retailprice,p_comment
+1,Part#000000001,Manufacturer#1,Brand#51,PROMO PLATED NICKEL,2,SM BOX,1670.84,unusual special unusual
+2,Part#000000002,Manufacturer#4,Brand#11,PROMO PLATED NICKEL,49,MED BAG,1490.18,carefully final special
+3,Part#000000003,Manufacturer#1,Brand#44,MEDIUM ANODIZED COPPER,33,LG BOX,1376.22,silent quickly carefull
+4,Part#000000004,Manufacturer#5,Brand#32,PROMO PLATED NICKEL,25,LG BOX,1900.95,express unusual quickly
+5,Part#000000005,Manufacturer#5,Brand#55,STANDARD BURNISHED TIN,14,LG BOX,1035.12,slyly carefully quickly
+6,Part#000000006,Manufacturer#2,Brand#44,MEDIUM ANODIZED COPPER,24,JUMBO CAN,965.19,unusual quickly quickly
+7,Part#000000007,Manufacturer#2,Brand#41,STANDARD BURNISHED TIN,47,MED BAG,1449.0,blithely pending regula
+8,Part#000000008,Manufacturer#2,Brand#13,PROMO PLATED NICKEL,7,SM BOX,1922.36,special special express
+9,Part#000000009,Manufacturer#1,Brand#12,MEDIUM ANODIZED COPPER,14,LG BOX,2064.16,quickly special regular
+10,Part#000000010,Manufacturer#2,Brand#14,SMALL BRUSHED STEEL,31,LG BOX,917.2,carefully regular quick
+11,Part#000000011,Manufacturer#5,Brand#24,MEDIUM ANODIZED COPPER,2,WRAP CASE,1475.19,carefully unusual final
+12,Part#000000012,Manufacturer#1,Brand#44,SMALL BRUSHED STEEL,43,SM BOX,2050.36,carefully carefully unu
+13,Part#000000013,Manufacturer#2,Brand#23,STANDARD BURNISHED TIN,1,SM BOX,1947.35,silent carefully slyly 
+14,Part#000000014,Manufacturer#1,Brand#45,MEDIUM ANODIZED COPPER,30,JUMBO CAN,1552.96,blithely final silent p
+15,Part#000000015,Manufacturer#3,Brand#34,LARGE POLISHED BRASS,38,JUMBO CAN,1346.16,slyly pending carefully
+16,Part#000000016,Manufacturer#4,Brand#32,STANDARD BURNISHED TIN,6,WRAP CASE,1203.59,express final regular s
+17,Part#000000017,Manufacturer#2,Brand#12,MEDIUM ANODIZED COPPER,33,LG BOX,1617.95,blithely carefully quic
+18,Part#000000018,Manufacturer#4,Brand#13,STANDARD BURNISHED TIN,8,WRAP CASE,1552.25,pending special furious
+19,Part#000000019,Manufacturer#3,Brand#41,SMALL BRUSHED STEEL,21,MED BAG,1557.59,silent slyly unusual fi
+20,Part#000000020,Manufacturer#1,Brand#23,STANDARD BURNISHED TIN,10,LG BOX,1758.73,slyly regular quickly c
+21,Part#000000021,Manufacturer#2,Brand#43,SMALL BRUSHED STEEL,13,SM BOX,919.45,pending unusual slyly s
+22,Part#000000022,Manufacturer#1,Brand#34,MEDIUM ANODIZED COPPER,43,JUMBO CAN,912.67,express final unusual r
+23,Part#000000023,Manufacturer#1,Brand#52,STANDARD BURNISHED TIN,3,JUMBO CAN,1283.24,express regular slyly
+24,Part#000000024,Manufacturer#5,Brand#55,SMALL BRUSHED STEEL,28,WRAP CASE,1643.66,furiously carefully fur
+25,Part#000000025,Manufacturer#1,Brand#41,MEDIUM ANODIZED COPPER,35,SM BOX,999.47,slyly blithely pending 
+26,Part#000000026,Manufacturer#5,Brand#55,STANDARD BURNISHED TIN,14,WRAP CASE,1392.32,carefully blithely care
+27,Part#000000027,Manufacturer#1,Brand#42,STANDARD BURNISHED TIN,5,WRAP CASE,1117.3,carefully final furious
+28,Part#000000028,Manufacturer#5,Brand#14,PROMO PLATED NICKEL,32,LG BOX,1981.81,quickly special blithel
+29,Part#000000029,Manufacturer#1,Brand#22,STANDARD BURNISHED TIN,32,LG BOX,906.83,slyly quickly slyly spe
+30,Part#000000030,Manufacturer#2,Brand#53,STANDARD BURNISHED TIN,45,SM BOX,1021.74,pending furiously blith
+31,Part#000000031,Manufacturer#4,Brand#32,STANDARD BURNISHED TIN,2,WRAP CASE,1976.33,blithely pending regula
+32,Part#000000032,Manufacturer#4,Brand#13,SMALL BRUSHED STEEL,6,MED BAG,1952.46,final final furiously q
+33,Part#000000033,Manufacturer#2,Brand#35,PROMO PLATED NICKEL,24,WRAP CASE,1215.35,furiously blithely sile
+34,Part#000000034,Manufacturer#1,Brand#43,SMALL BRUSHED STEEL,15,LG BOX,1076.72,carefully final final s
+35,Part#000000035,Manufacturer#1,Brand#14,PROMO PLATED NICKEL,43,MED BAG,1602.1,express slyly express
+36,Part#000000036,Manufacturer#2,Brand#41,LARGE POLISHED BRASS,13,JUMBO CAN,1473.45,pending final blithely 
+37,Part#000000037,Manufacturer#1,Brand#15,LARGE POLISHED BRASS,33,LG BOX,1932.56,regular furiously speci
+38,Part#000000038,Manufacturer#2,Brand#23,STANDARD BURNISHED TIN,41,MED BAG,2024.19,final slyly special exp
+39,Part#000000039,Manufacturer#2,Brand#52,MEDIUM ANODIZED COPPER,26,JUMBO CAN,1627.12,carefully pending blith
+40,Part#000000040,Manufacturer#4,Brand#51,LARGE POLISHED BRASS,16,WRAP CASE,1524.99,slyly regular special s
+41,Part#000000041,Manufacturer#2,Brand#55,SMALL BRUSHED STEEL,24,MED BAG,1371.53,blithely furiously fina
+42,Part#000000042,Manufacturer#4,Brand#42,STANDARD BURNISHED TIN,25,WRAP CASE,1733.6,blithely blithely silen
+43,Part#000000043,Manufacturer#1,Brand#24,MEDIUM ANODIZED COPPER,18,MED BAG,1612.73,express quickly quickly
+44,Part#000000044,Manufacturer#3,Brand#25,LARGE POLISHED BRASS,22,WRAP CASE,1710.64,express regular blithel
+45,Part#000000045,Manufacturer#2,Brand#55,MEDIUM ANODIZED COPPER,13,MED BAG,1754.43,express slyly silent un
+46,Part#000000046,Manufacturer#2,Brand#45,MEDIUM ANODIZED COPPER,12,JUMBO CAN,1349.62,regular express silent 
+47,Part#000000047,Manufacturer#3,Brand#14,STANDARD BURNISHED TIN,36,JUMBO CAN,903.92,slyly express regular f
+48,Part#000000048,Manufacturer#5,Brand#44,MEDIUM ANODIZED COPPER,33,WRAP CASE,1404.17,special regular furious
+49,Part#000000049,Manufacturer#4,Brand#31,SMALL BRUSHED STEEL,9,LG BOX,1047.38,special special pending
+50,Part#000000050,Manufacturer#5,Brand#24,LARGE POLISHED BRASS,7,JUMBO CAN,1145.67,silent special final bl
+51,Part#000000051,Manufacturer#5,Brand#55,MEDIUM ANODIZED COPPER,36,MED BAG,1908.08,special blithely slyly 
+52,Part#000000052,Manufacturer#4,Brand#22,PROMO PLATED NICKEL,40,SM BOX,2044.41,silent blithely furious
+53,Part#000000053,Manufacturer#4,Brand#14,SMALL BRUSHED STEEL,16,JUMBO CAN,1164.95,blithely quickly furiou
+54,Part#000000054,Manufacturer#4,Brand#44,PROMO PLATED NICKEL,25,JUMBO CAN,1155.85,quickly final regular
+55,Part#000000055,Manufacturer#2,Brand#54,STANDARD BURNISHED TIN,40,JUMBO CAN,927.61,unusual carefully regul
+56,Part#000000056,Manufacturer#1,Brand#41,PROMO PLATED NICKEL,40,JUMBO CAN,1905.02,unusual pending special
+57,Part#000000057,Manufacturer#2,Brand#31,MEDIUM ANODIZED COPPER,26,MED BAG,1198.27,quickly final quickly f
+58,Part#000000058,Manufacturer#5,Brand#23,SMALL BRUSHED STEEL,29,SM BOX,1366.25,final special regular r
+59,Part#000000059,Manufacturer#4,Brand#24,MEDIUM ANODIZED COPPER,15,MED BAG,1339.55,regular unusual quickly
+60,Part#000000060,Manufacturer#2,Brand#12,STANDARD BURNISHED TIN,24,SM BOX,1812.09,carefully pending blith
+61,Part#000000061,Manufacturer#5,Brand#12,MEDIUM ANODIZED COPPER,6,WRAP CASE,2017.48,pending pending regular
+62,Part#000000062,Manufacturer#2,Brand#42,SMALL BRUSHED STEEL,15,SM BOX,1644.51,blithely slyly furiousl
+63,Part#000000063,Manufacturer#2,Brand#23,SMALL BRUSHED STEEL,13,WRAP CASE,1754.32,slyly express slyly
+64,Part#000000064,Manufacturer#5,Brand#14,STANDARD BURNISHED TIN,36,MED BAG,1767.13,silent unusual slyly ex
+65,Part#000000065,Manufacturer#2,Brand#55,MEDIUM ANODIZED COPPER,33,SM BOX,1500.59,final unusual regular
+66,Part#000000066,Manufacturer#2,Brand#23,PROMO PLATED NICKEL,24,WRAP CASE,1839.01,unusual unusual pending
+67,Part#000000067,Manufacturer#1,Brand#33,LARGE POLISHED BRASS,1,MED BAG,1452.47,carefully final silent 
+68,Part#000000068,Manufacturer#5,Brand#32,PROMO PLATED NICKEL,37,JUMBO CAN,1801.21,furiously unusual quick
+69,Part#000000069,Manufacturer#3,Brand#14,PROMO PLATED NICKEL,27,JUMBO CAN,1350.76,special regular slyly u
+70,Part#000000070,Manufacturer#2,Brand#35,PROMO PLATED NICKEL,49,LG BOX,1678.24,final pending quickly q
+71,Part#000000071,Manufacturer#4,Brand#35,STANDARD BURNISHED TIN,24,LG BOX,1455.5,furiously unusual pendi
+72,Part#000000072,Manufacturer#3,Brand#35,STANDARD BURNISHED TIN,42,JUMBO CAN,993.67,final silent regular fu
+73,Part#000000073,Manufacturer#4,Brand#13,MEDIUM ANODIZED COPPER,22,LG BOX,1272.1,pending furiously pendi
+74,Part#000000074,Manufacturer#5,Brand#32,SMALL BRUSHED STEEL,29,JUMBO CAN,1300.52,regular blithely expres
+75,Part#000000075,Manufacturer#4,Brand#34,PROMO PLATED NICKEL,3,WRAP CASE,1773.67,silent furiously pendin
+76,Part#000000076,Manufacturer#3,Brand#15,LARGE POLISHED BRASS,49,LG BOX,1011.73,express unusual special
+77,Part#000000077,Manufacturer#2,Brand#34,LARGE POLISHED BRASS,28,WRAP CASE,1581.26,special special quickly
+78,Part#000000078,Manufacturer#4,Brand#13,LARGE POLISHED BRASS,30,LG BOX,2008.86,pending carefully slyly
+79,Part#000000079,Manufacturer#4,Brand#24,PROMO PLATED NICKEL,36,WRAP CASE,1966.12,express blithely silent
+80,Part#000000080,Manufacturer#2,Brand#23,SMALL BRUSHED STEEL,28,JUMBO CAN,1226.35,express furiously furio
+81,Part#000000081,Manufacturer#2,Brand#43,LARGE POLISHED BRASS,15,LG BOX,1456.75,furiously carefully sil
+82,Part#000000082,Manufacturer#4,Brand#34,PROMO PLATED NICKEL,22,MED BAG,997.27,blithely furiously blit
+83,Part#000000083,Manufacturer#1,Brand#34,STANDARD BURNISHED TIN,28,LG BOX,1396.65,final final express
+84,Part#000000084,Manufacturer#4,Brand#41,STANDARD BURNISHED TIN,38,LG BOX,1385.98,express blithely pendin
+85,Part#000000085,Manufacturer#3,Brand#44,STANDARD BURNISHED TIN,6,SM BOX,998.43,special silent regular 
+86,Part#000000086,Manufacturer#1,Brand#41,LARGE POLISHED BRASS,3,LG BOX,1249.42,carefully furiously car
+87,Part#000000087,Manufacturer#2,Brand#25,MEDIUM ANODIZED COPPER,7,SM BOX,2094.58,furiously blithely slyl
+88,Part#000000088,Manufacturer#2,Brand#21,STANDARD BURNISHED TIN,32,SM BOX,1220.53,blithely silent slyly e
+89,Part#000000089,Manufacturer#5,Brand#24,LARGE POLISHED BRASS,42,WRAP CASE,1015.25,unusual express final f
+90,Part#000000090,Manufacturer#5,Brand#25,MEDIUM ANODIZED COPPER,42,JUMBO CAN,1401.15,slyly quickly blithely 
+91,Part#000000091,Manufacturer#4,Brand#15,LARGE POLISHED BRASS,3,SM BOX,970.44,pending furiously pendi
+92,Part#000000092,Manufacturer#1,Brand#25,MEDIUM ANODIZED COPPER,45,MED BAG,1594.55,regular final furiously
+93,Part#000000093,Manufacturer#4,Brand#51,SMALL BRUSHED STEEL,24,LG BOX,1368.56,special special quickly
+94,Part#000000094,Manufacturer#4,Brand#35,STANDARD BURNISHED TIN,46,MED BAG,1439.09,carefully carefully bli
+95,Part#000000095,Manufacturer#2,Brand#11,LARGE POLISHED BRASS,17,JUMBO CAN,1011.77,pending quickly unusual
+96,Part#000000096,Manufacturer#2,Brand#54,LARGE POLISHED BRASS,27,SM BOX,1824.26,final final blithely fi
+97,Part#000000097,Manufacturer#2,Brand#31,PROMO PLATED NICKEL,18,WRAP CASE,1368.44,furiously blithely blit
+98,Part#000000098,Manufacturer#5,Brand#43,MEDIUM ANODIZED COPPER,35,JUMBO CAN,953.37,special blithely furiou
+99,Part#000000099,Manufacturer#4,Brand#35,PROMO PLATED NICKEL,37,LG BOX,2006.78,unusual express quickly
+100,Part#000000100,Manufacturer#4,Brand#24,SMALL BRUSHED STEEL,34,LG BOX,948.61,unusual special special
+101,Part#000000101,Manufacturer#5,Brand#34,SMALL BRUSHED STEEL,33,MED BAG,1821.91,special furiously unusu
+102,Part#000000102,Manufacturer#5,Brand#54,MEDIUM ANODIZED COPPER,12,WRAP CASE,1686.67,carefully special blith
+103,Part#000000103,Manufacturer#4,Brand#11,SMALL BRUSHED STEEL,9,MED BAG,1102.66,carefully final quickly
+104,Part#000000104,Manufacturer#1,Brand#55,MEDIUM ANODIZED COPPER,20,WRAP CASE,1729.18,special furiously quick
+105,Part#000000105,Manufacturer#3,Brand#21,SMALL BRUSHED STEEL,49,JUMBO CAN,1304.7,slyly slyly regular pen
+106,Part#000000106,Manufacturer#1,Brand#32,LARGE POLISHED BRASS,25,LG BOX,1553.82,carefully quickly blith
+107,Part#000000107,Manufacturer#1,Brand#21,LARGE POLISHED BRASS,22,LG BOX,1525.98,silent regular furiousl
+108,Part#000000108,Manufacturer#5,Brand#55,STANDARD BURNISHED TIN,14,LG BOX,1127.98,regular blithely carefu
+109,Part#000000109,Manufacturer#5,Brand#55,STANDARD BURNISHED TIN,25,MED BAG,1670.39,quickly special unusual
+110,Part#000000110,Manufacturer#1,Brand#52,MEDIUM ANODIZED COPPER,42,MED BAG,1398.22,furiously quickly pendi
+111,Part#000000111,Manufacturer#1,Brand#45,PROMO PLATED NICKEL,36,SM BOX,1610.87,regular furiously caref
+112,Part#000000112,Manufacturer#3,Brand#23,MEDIUM ANODIZED COPPER,35,JUMBO CAN,1251.85,special express furious
+113,Part#000000113,Manufacturer#2,Brand#53,MEDIUM ANODIZED COPPER,25,LG BOX,1236.52,furiously furiously fin
+114,Part#000000114,Manufacturer#1,Brand#25,MEDIUM ANODIZED COPPER,12,SM BOX,1942.54,blithely quickly final 
+115,Part#000000115,Manufacturer#2,Brand#44,LARGE POLISHED BRASS,38,SM BOX,1177.59,express slyly slyly qui
+116,Part#000000116,Manufacturer#5,Brand#44,PROMO PLATED NICKEL,20,WRAP CASE,1688.82,quickly slyly special
+117,Part#000000117,Manufacturer#4,Brand#13,MEDIUM ANODIZED COPPER,18,SM BOX,1064.13,furiously blithely pend
+118,Part#000000118,Manufacturer#4,Brand#12,STANDARD BURNISHED TIN,24,JUMBO CAN,1549.82,pending furiously quick
+119,Part#000000119,Manufacturer#2,Brand#51,PROMO PLATED NICKEL,45,SM BOX,1656.38,regular carefully pendi
+120,Part#000000120,Manufacturer#5,Brand#23,STANDARD BURNISHED TIN,1,WRAP CASE,1949.21,slyly slyly unusual sil
+121,Part#000000121,Manufacturer#2,Brand#42,MEDIUM ANODIZED COPPER,23,LG BOX,1385.02,final silent express bl
+122,Part#000000122,Manufacturer#5,Brand#41,SMALL BRUSHED STEEL,8,JUMBO CAN,1608.29,express pending unusual
+123,Part#000000123,Manufacturer#2,Brand#54,SMALL BRUSHED STEEL,47,SM BOX,1720.2,furiously express pendi
+124,Part#000000124,Manufacturer#2,Brand#53,SMALL BRUSHED STEEL,45,SM BOX,1395.61,unusual pending careful
+125,Part#000000125,Manufacturer#3,Brand#34,STANDARD BURNISHED TIN,43,WRAP CASE,1715.7,blithely quickly pendin
+126,Part#000000126,Manufacturer#2,Brand#41,STANDARD BURNISHED TIN,18,JUMBO CAN,958.67,regular pending slyly
+127,Part#000000127,Manufacturer#1,Brand#54,STANDARD BURNISHED TIN,34,MED BAG,1144.4,quickly pending express
+128,Part#000000128,Manufacturer#4,Brand#55,SMALL BRUSHED STEEL,31,WRAP CASE,978.29,final blithely regular 
+129,Part#000000129,Manufacturer#4,Brand#24,LARGE POLISHED BRASS,31,LG BOX,1425.32,special unusual regular
+130,Part#000000130,Manufacturer#5,Brand#42,LARGE POLISHED BRASS,8,MED BAG,1764.77,express pending quickly
+131,Part#000000131,Manufacturer#1,Brand#23,MEDIUM ANODIZED COPPER,17,LG BOX,1808.53,furiously quickly silen
+132,Part#000000132,Manufacturer#1,Brand#31,PROMO PLATED NICKEL,27,WRAP CASE,1309.21,unusual pending express
+133,Part#000000133,Manufacturer#5,Brand#22,STANDARD BURNISHED TIN,43,WRAP CASE,1577.69,pending regular unusual
+134,Part#000000134,Manufacturer#3,Brand#32,STANDARD BURNISHED TIN,49,LG BOX,1538.45,unusual furiously speci
+135,Part#000000135,Manufacturer#4,Brand#12,LARGE POLISHED BRASS,30,JUMBO CAN,1541.44,special carefully furio
+136,Part#000000136,Manufacturer#3,Brand#11,PROMO PLATED NICKEL,27,SM BOX,2088.59,blithely regular unusua
+137,Part#000000137,Manufacturer#5,Brand#54,LARGE POLISHED BRASS,3,JUMBO CAN,1726.11,unusual slyly carefully
+138,Part#000000138,Manufacturer#3,Brand#14,SMALL BRUSHED STEEL,33,WRAP CASE,1174.97,express regular final f
+139,Part#000000139,Manufacturer#1,Brand#51,PROMO PLATED NICKEL,2,MED BAG,1130.86,unusual special unusual
+140,Part#000000140,Manufacturer#2,Brand#15,MEDIUM ANODIZED COPPER,30,SM BOX,1693.33,blithely special carefu
+141,Part#000000141,Manufacturer#3,Brand#51,MEDIUM ANODIZED COPPER,44,JUMBO CAN,1084.56,quickly pending final
+142,Part#000000142,Manufacturer#2,Brand#32,SMALL BRUSHED STEEL,35,LG BOX,1720.64,pending slyly unusual p
+143,Part#000000143,Manufacturer#2,Brand#24,PROMO PLATED NICKEL,46,WRAP CASE,1959.71,furiously furiously qui
+144,Part#000000144,Manufacturer#5,Brand#43,PROMO PLATED NICKEL,14,JUMBO CAN,1409.44,quickly regular express
+145,Part#000000145,Manufacturer#2,Brand#33,MEDIUM ANODIZED COPPER,25,WRAP CASE,1457.38,quickly pending careful
+146,Part#000000146,Manufacturer#1,Brand#23,PROMO PLATED NICKEL,8,WRAP CASE,1474.71,silent carefully pendin
+147,Part#000000147,Manufacturer#5,Brand#45,PROMO PLATED NICKEL,5,LG BOX,1546.26,final silent express
+148,Part#000000148,Manufacturer#3,Brand#43,LARGE POLISHED BRASS,12,SM BOX,1412.84,pending slyly carefully
+149,Part#000000149,Manufacturer#2,Brand#45,STANDARD BURNISHED TIN,5,JUMBO CAN,1764.38,special slyly regular c
+150,Part#000000150,Manufacturer#1,Brand#55,SMALL BRUSHED STEEL,50,SM BOX,1934.6,special express slyly s
+151,Part#000000151,Manufacturer#1,Brand#35,PROMO PLATED NICKEL,42,MED BAG,968.64,carefully blithely care
+152,Part#000000152,Manufacturer#3,Brand#55,MEDIUM ANODIZED COPPER,17,LG BOX,1001.96,blithely silent regular
+153,Part#000000153,Manufacturer#1,Brand#15,LARGE POLISHED BRASS,49,MED BAG,1501.2,express regular silent
+154,Part#000000154,Manufacturer#4,Brand#11,SMALL BRUSHED STEEL,39,SM BOX,903.35,quickly final blithely 
+155,Part#000000155,Manufacturer#3,Brand#42,LARGE POLISHED BRASS,26,JUMBO CAN,1575.04,final slyly silent furi
+156,Part#000000156,Manufacturer#3,Brand#52,SMALL BRUSHED STEEL,24,MED BAG,1885.07,final special carefully
+157,Part#000000157,Manufacturer#5,Brand#43,STANDARD BURNISHED TIN,40,MED BAG,1843.04,slyly slyly furiously
+158,Part#000000158,Manufacturer#5,Brand#21,LARGE POLISHED BRASS,5,SM BOX,1221.11,furiously quickly expre
+159,Part#000000159,Manufacturer#5,Brand#14,PROMO PLATED NICKEL,34,SM BOX,1213.67,express quickly unusual
+160,Part#000000160,Manufacturer#2,Brand#42,SMALL BRUSHED STEEL,26,MED BAG,1190.43,special carefully blith
+161,Part#000000161,Manufacturer#4,Brand#25,LARGE POLISHED BRASS,2,LG BOX,1954.46,pending carefully quick
+162,Part#000000162,Manufacturer#1,Brand#33,MEDIUM ANODIZED COPPER,41,JUMBO CAN,1087.85,slyly quickly special f
+163,Part#000000163,Manufacturer#3,Brand#31,PROMO PLATED NICKEL,44,LG BOX,1252.31,special pending final f
+164,Part#000000164,Manufacturer#5,Brand#11,LARGE POLISHED BRASS,47,SM BOX,1341.68,carefully silent slyly 
+165,Part#000000165,Manufacturer#1,Brand#52,MEDIUM ANODIZED COPPER,3,MED BAG,1723.51,furiously express unusu
+166,Part#000000166,Manufacturer#2,Brand#22,MEDIUM ANODIZED COPPER,13,WRAP CASE,1209.0,quickly pending careful
+167,Part#000000167,Manufacturer#1,Brand#14,PROMO PLATED NICKEL,30,WRAP CASE,1459.27,silent blithely unusual
+168,Part#000000168,Manufacturer#5,Brand#13,LARGE POLISHED BRASS,32,LG BOX,1061.51,express unusual quickly
+169,Part#000000169,Manufacturer#5,Brand#41,MEDIUM ANODIZED COPPER,25,SM BOX,1453.59,quickly slyly carefully
+170,Part#000000170,Manufacturer#1,Brand#11,PROMO PLATED NICKEL,7,MED BAG,1833.58,silent quickly silent
+171,Part#000000171,Manufacturer#1,Brand#23,STANDARD BURNISHED TIN,22,JUMBO CAN,1663.56,express express furious
+172,Part#000000172,Manufacturer#1,Brand#45,LARGE POLISHED BRASS,26,MED BAG,1631.08,pending special express
+173,Part#000000173,Manufacturer#5,Brand#51,PROMO PLATED NICKEL,19,SM BOX,1546.54,unusual silent final sp
+174,Part#000000174,Manufacturer#2,Brand#55,STANDARD BURNISHED TIN,13,LG BOX,1877.12,furiously blithely sile
+175,Part#000000175,Manufacturer#4,Brand#24,MEDIUM ANODIZED COPPER,22,JUMBO CAN,992.02,furiously carefully qui
+176,Part#000000176,Manufacturer#4,Brand#54,SMALL BRUSHED STEEL,24,SM BOX,1832.84,unusual furiously regul
+177,Part#000000177,Manufacturer#5,Brand#53,SMALL BRUSHED STEEL,8,LG BOX,1411.39,furiously furiously qui
+178,Part#000000178,Manufacturer#1,Brand#42,LARGE POLISHED BRASS,24,JUMBO CAN,1377.0,pending quickly special
+179,Part#000000179,Manufacturer#1,Brand#21,LARGE POLISHED BRASS,17,MED BAG,1326.6,silent unusual silent r
+180,Part#000000180,Manufacturer#5,Brand#51,LARGE POLISHED BRASS,40,LG BOX,2079.72,express furiously pendi
+181,Part#000000181,Manufacturer#5,Brand#35,LARGE POLISHED BRASS,22,MED BAG,1184.67,quickly carefully silen
+182,Part#000000182,Manufacturer#1,Brand#52,MEDIUM ANODIZED COPPER,29,SM BOX,1626.21,silent furiously silent
+183,Part#000000183,Manufacturer#1,Brand#25,MEDIUM ANODIZED COPPER,37,LG BOX,2021.02,furiously furiously sil
+184,Part#000000184,Manufacturer#5,Brand#44,STANDARD BURNISHED TIN,50,MED BAG,1895.51,blithely blithely caref
+185,Part#000000185,Manufacturer#5,Brand#32,PROMO PLATED NICKEL,25,WRAP CASE,1197.59,silent express slyly qu
+186,Part#000000186,Manufacturer#2,Brand#21,LARGE POLISHED BRASS,7,LG BOX,1906.18,express pending furious
+187,Part#000000187,Manufacturer#5,Brand#12,STANDARD BURNISHED TIN,40,SM BOX,2087.04,pending blithely regula
+188,Part#000000188,Manufacturer#2,Brand#54,LARGE POLISHED BRASS,20,WRAP CASE,2030.69,unusual blithely expres
+189,Part#000000189,Manufacturer#5,Brand#55,SMALL BRUSHED STEEL,19,SM BOX,1975.8,quickly pending pending
+190,Part#000000190,Manufacturer#5,Brand#15,STANDARD BURNISHED TIN,38,MED BAG,1552.86,regular express slyly f
+191,Part#000000191,Manufacturer#4,Brand#32,STANDARD BURNISHED TIN,41,SM BOX,2007.23,special regular regular
+192,Part#000000192,Manufacturer#2,Brand#55,LARGE POLISHED BRASS,34,MED BAG,1585.24,express unusual express
+193,Part#000000193,Manufacturer#5,Brand#15,LARGE POLISHED BRASS,38,MED BAG,1918.87,blithely special specia
+194,Part#000000194,Manufacturer#2,Brand#11,SMALL BRUSHED STEEL,43,WRAP CASE,1420.66,quickly final furiously
+195,Part#000000195,Manufacturer#2,Brand#13,SMALL BRUSHED STEEL,43,LG BOX,1876.36,slyly slyly special fur
+196,Part#000000196,Manufacturer#1,Brand#45,MEDIUM ANODIZED COPPER,6,MED BAG,1655.2,quickly express regular
+197,Part#000000197,Manufacturer#2,Brand#51,PROMO PLATED NICKEL,13,WRAP CASE,2038.36,final pending carefully
+198,Part#000000198,Manufacturer#3,Brand#33,LARGE POLISHED BRASS,4,JUMBO CAN,1961.64,final quickly carefully
+199,Part#000000199,Manufacturer#4,Brand#33,SMALL BRUSHED STEEL,11,WRAP CASE,1738.44,special slyly special f
+200,Part#000000200,Manufacturer#2,Brand#22,STANDARD BURNISHED TIN,15,SM BOX,2023.75,final furiously unusual
+201,Part#000000201,Manufacturer#4,Brand#43,SMALL BRUSHED STEEL,30,SM BOX,1145.7,carefully special pendi
+202,Part#000000202,Manufacturer#2,Brand#55,STANDARD BURNISHED TIN,16,WRAP CASE,2074.47,pending regular silent 
+203,Part#000000203,Manufacturer#2,Brand#35,SMALL BRUSHED STEEL,43,WRAP CASE,1255.78,blithely carefully unus
+204,Part#000000204,Manufacturer#4,Brand#25,PROMO PLATED NICKEL,3,SM BOX,1416.96,furiously unusual unusu
+205,Part#000000205,Manufacturer#4,Brand#43,SMALL BRUSHED STEEL,10,JUMBO CAN,1788.36,carefully unusual unusu
+206,Part#000000206,Manufacturer#4,Brand#44,PROMO PLATED NICKEL,12,SM BOX,1653.29,silent furiously unusua
+207,Part#000000207,Manufacturer#4,Brand#54,PROMO PLATED NICKEL,29,LG BOX,1808.7,quickly silent quickly 
+208,Part#000000208,Manufacturer#2,Brand#43,MEDIUM ANODIZED COPPER,27,SM BOX,1305.83,slyly furiously special
+209,Part#000000209,Manufacturer#1,Brand#35,STANDARD BURNISHED TIN,45,SM BOX,1382.79,unusual final slyly pen
+210,Part#000000210,Manufacturer#1,Brand#33,PROMO PLATED NICKEL,10,SM BOX,1690.03,unusual blithely expres
+211,Part#000000211,Manufacturer#4,Brand#52,MEDIUM ANODIZED COPPER,1,MED BAG,1546.35,furiously carefully fin
+212,Part#000000212,Manufacturer#2,Brand#13,PROMO PLATED NICKEL,9,MED BAG,1580.87,slyly furiously silent 
+213,Part#000000213,Manufacturer#5,Brand#45,PROMO PLATED NICKEL,19,WRAP CASE,1940.83,pending furiously quick
+214,Part#000000214,Manufacturer#5,Brand#53,LARGE POLISHED BRASS,43,WRAP CASE,1419.35,blithely carefully sile
+215,Part#000000215,Manufacturer#5,Brand#43,SMALL BRUSHED STEEL,42,SM BOX,1240.0,blithely silent furious
+216,Part#000000216,Manufacturer#1,Brand#32,LARGE POLISHED BRASS,16,WRAP CASE,1381.58,regular silent furiousl
+217,Part#000000217,Manufacturer#4,Brand#55,SMALL BRUSHED STEEL,40,SM BOX,1762.57,furiously regular silen
+218,Part#000000218,Manufacturer#2,Brand#15,MEDIUM ANODIZED COPPER,34,WRAP CASE,1135.19,special blithely expres
+219,Part#000000219,Manufacturer#1,Brand#53,MEDIUM ANODIZED COPPER,2,MED BAG,1805.93,final blithely carefull
+220,Part#000000220,Manufacturer#3,Brand#43,LARGE POLISHED BRASS,50,MED BAG,1922.13,express furiously final
+221,Part#000000221,Manufacturer#3,Brand#45,MEDIUM ANODIZED COPPER,12,LG BOX,1660.1,carefully carefully qui
+222,Part#000000222,Manufacturer#2,Brand#22,PROMO PLATED NICKEL,37,SM BOX,1307.88,express carefully quick
+223,Part#000000223,Manufacturer#3,Brand#54,STANDARD BURNISHED TIN,12,MED BAG,1366.5,unusual furiously unusu
+224,Part#000000224,Manufacturer#1,Brand#23,PROMO PLATED NICKEL,7,WRAP CASE,1752.03,final furiously regular
+225,Part#000000225,Manufacturer#5,Brand#31,SMALL BRUSHED STEEL,40,MED BAG,1806.43,express express special
+226,Part#000000226,Manufacturer#1,Brand#14,STANDARD BURNISHED TIN,39,JUMBO CAN,1097.61,silent carefully silent
+227,Part#000000227,Manufacturer#1,Brand#13,MEDIUM ANODIZED COPPER,14,JUMBO CAN,1268.79,express pending slyly u
+228,Part#000000228,Manufacturer#2,Brand#32,PROMO PLATED NICKEL,14,JUMBO CAN,1470.55,pending slyly regular e
+229,Part#000000229,Manufacturer#2,Brand#53,SMALL BRUSHED STEEL,19,SM BOX,942.2,unusual final silent fu
+230,Part#000000230,Manufacturer#5,Brand#41,PROMO PLATED NICKEL,4,WRAP CASE,1778.27,slyly special final unu
+231,Part#000000231,Manufacturer#5,Brand#42,PROMO PLATED NICKEL,50,MED BAG,1382.23,furiously silent quickl
+232,Part#000000232,Manufacturer#4,Brand#12,MEDIUM ANODIZED COPPER,50,WRAP CASE,1507.22,silent express quickly 
+233,Part#000000233,Manufacturer#3,Brand#43,MEDIUM ANODIZED COPPER,47,WRAP CASE,1405.94,slyly express carefully
+234,Part#000000234,Manufacturer#2,Brand#25,PROMO PLATED NICKEL,8,SM BOX,1874.09,furiously special furio
+235,Part#000000235,Manufacturer#3,Brand#32,LARGE POLISHED BRASS,38,LG BOX,987.23,pending quickly quickly
+236,Part#000000236,Manufacturer#3,Brand#31,SMALL BRUSHED STEEL,14,SM BOX,1288.45,special unusual blithel
+237,Part#000000237,Manufacturer#3,Brand#25,PROMO PLATED NICKEL,34,WRAP CASE,1359.3,blithely carefully pend
+238,Part#000000238,Manufacturer#4,Brand#54,MEDIUM ANODIZED COPPER,42,JUMBO CAN,1079.5,pending quickly furious
+239,Part#000000239,Manufacturer#2,Brand#32,MEDIUM ANODIZED COPPER,14,SM BOX,1530.47,carefully slyly pending
+240,Part#000000240,Manufacturer#1,Brand#15,LARGE POLISHED BRASS,39,LG BOX,1953.52,special express pending
+241,Part#000000241,Manufacturer#2,Brand#22,PROMO PLATED NICKEL,30,MED BAG,929.05,slyly final carefully b
+242,Part#000000242,Manufacturer#2,Brand#21,MEDIUM ANODIZED COPPER,31,JUMBO CAN,1284.7,furiously silent expres
+243,Part#000000243,Manufacturer#1,Brand#42,STANDARD BURNISHED TIN,25,WRAP CASE,1189.07,final silent unusual
+244,Part#000000244,Manufacturer#4,Brand#14,STANDARD BURNISHED TIN,12,SM BOX,1448.14,unusual slyly carefully
+245,Part#000000245,Manufacturer#5,Brand#21,SMALL BRUSHED STEEL,21,LG BOX,1106.88,furiously quickly unusu
+246,Part#000000246,Manufacturer#3,Brand#52,PROMO PLATED NICKEL,5,MED BAG,1183.29,pending quickly express
+247,Part#000000247,Manufacturer#5,Brand#22,MEDIUM ANODIZED COPPER,36,MED BAG,1219.87,regular blithely carefu
+248,Part#000000248,Manufacturer#4,Brand#23,LARGE POLISHED BRASS,26,MED BAG,1196.32,silent express express
+249,Part#000000249,Manufacturer#4,Brand#45,SMALL BRUSHED STEEL,12,JUMBO CAN,1623.73,regular unusual unusual
+250,Part#000000250,Manufacturer#4,Brand#55,PROMO PLATED NICKEL,32,SM BOX,1156.87,quickly express silent 
+251,Part#000000251,Manufacturer#1,Brand#15,MEDIUM ANODIZED COPPER,26,SM BOX,1557.03,special special slyly r
+252,Part#000000252,Manufacturer#4,Brand#42,PROMO PLATED NICKEL,33,WRAP CASE,1425.61,unusual carefully caref
+253,Part#000000253,Manufacturer#1,Brand#55,SMALL BRUSHED STEEL,13,SM BOX,1233.48,unusual final special s
+254,Part#000000254,Manufacturer#3,Brand#14,STANDARD BURNISHED TIN,5,MED BAG,1901.39,furiously quickly silen
+255,Part#000000255,Manufacturer#1,Brand#11,LARGE POLISHED BRASS,42,WRAP CASE,1100.81,furiously carefully bli
+256,Part#000000256,Manufacturer#1,Brand#45,LARGE POLISHED BRASS,1,WRAP CASE,1398.29,special carefully regul
+257,Part#000000257,Manufacturer#2,Brand#54,LARGE POLISHED BRASS,8,LG BOX,1088.73,furiously furiously fin
+258,Part#000000258,Manufacturer#1,Brand#14,STANDARD BURNISHED TIN,26,SM BOX,1055.27,special blithely specia
+259,Part#000000259,Manufacturer#3,Brand#52,PROMO PLATED NICKEL,49,JUMBO CAN,2017.95,furiously carefully unu
+260,Part#000000260,Manufacturer#2,Brand#34,STANDARD BURNISHED TIN,22,LG BOX,1542.84,unusual blithely blithe
+261,Part#000000261,Manufacturer#1,Brand#25,SMALL BRUSHED STEEL,36,JUMBO CAN,1649.79,furiously quickly silen
+262,Part#000000262,Manufacturer#2,Brand#15,PROMO PLATED NICKEL,19,JUMBO CAN,1054.44,unusual quickly furious
+263,Part#000000263,Manufacturer#1,Brand#22,PROMO PLATED NICKEL,39,MED BAG,1053.72,blithely slyly slyly un
+264,Part#000000264,Manufacturer#5,Brand#31,PROMO PLATED NICKEL,24,JUMBO CAN,1268.03,unusual special furious
+265,Part#000000265,Manufacturer#2,Brand#11,LARGE POLISHED BRASS,31,SM BOX,1406.53,blithely regular silent
+266,Part#000000266,Manufacturer#5,Brand#12,STANDARD BURNISHED TIN,47,SM BOX,1417.04,special unusual pending
+267,Part#000000267,Manufacturer#3,Brand#21,SMALL BRUSHED STEEL,15,MED BAG,938.83,pending blithely quickl
+268,Part#000000268,Manufacturer#4,Brand#41,PROMO PLATED NICKEL,50,JUMBO CAN,1341.91,blithely final blithely
+269,Part#000000269,Manufacturer#3,Brand#34,LARGE POLISHED BRASS,16,MED BAG,1475.01,pending slyly regular
+270,Part#000000270,Manufacturer#1,Brand#14,SMALL BRUSHED STEEL,36,SM BOX,1822.22,pending unusual slyly c
+271,Part#000000271,Manufacturer#3,Brand#55,SMALL BRUSHED STEEL,32,LG BOX,1408.14,silent silent slyly
+272,Part#000000272,Manufacturer#3,Brand#35,SMALL BRUSHED STEEL,10,WRAP CASE,936.55,pending final special p
+273,Part#000000273,Manufacturer#2,Brand#31,SMALL BRUSHED STEEL,4,MED BAG,1332.98,furiously regular unusu
+274,Part#000000274,Manufacturer#4,Brand#21,MEDIUM ANODIZED COPPER,35,WRAP CASE,1710.96,regular regular express
+275,Part#000000275,Manufacturer#2,Brand#52,LARGE POLISHED BRASS,39,JUMBO CAN,1087.74,furiously quickly quick
+276,Part#000000276,Manufacturer#1,Brand#42,LARGE POLISHED BRASS,9,JUMBO CAN,922.76,furiously final regular
+277,Part#000000277,Manufacturer#3,Brand#31,PROMO PLATED NICKEL,2,SM BOX,1853.33,regular regular regular
+278,Part#000000278,Manufacturer#3,Brand#12,SMALL BRUSHED STEEL,48,MED BAG,1602.09,slyly silent slyly sile
+279,Part#000000279,Manufacturer#5,Brand#11,MEDIUM ANODIZED COPPER,16,SM BOX,1279.68,special blithely silent
+280,Part#000000280,Manufacturer#3,Brand#51,PROMO PLATED NICKEL,32,JUMBO CAN,1839.21,furiously blithely blit
+281,Part#000000281,Manufacturer#4,Brand#45,PROMO PLATED NICKEL,48,MED BAG,1022.36,furiously pending regul
+282,Part#000000282,Manufacturer#2,Brand#23,LARGE POLISHED BRASS,49,MED BAG,1423.84,carefully furiously car
+283,Part#000000283,Manufacturer#5,Brand#44,SMALL BRUSHED STEEL,40,JUMBO CAN,1867.61,carefully quickly pendi
+284,Part#000000284,Manufacturer#4,Brand#52,LARGE POLISHED BRASS,2,LG BOX,1460.25,regular quickly quickly
+285,Part#000000285,Manufacturer#1,Brand#51,MEDIUM ANODIZED COPPER,7,WRAP CASE,2031.51,unusual carefully slyly
+286,Part#000000286,Manufacturer#5,Brand#42,PROMO PLATED NICKEL,33,WRAP CASE,1437.85,quickly pending regular
+287,Part#000000287,Manufacturer#5,Brand#42,PROMO PLATED NICKEL,19,WRAP CASE,936.61,furiously furiously qui
+288,Part#000000288,Manufacturer#3,Brand#43,LARGE POLISHED BRASS,11,SM BOX,1441.1,silent carefully unusua
+289,Part#000000289,Manufacturer#3,Brand#35,SMALL BRUSHED STEEL,35,LG BOX,974.0,express special regular
+290,Part#000000290,Manufacturer#4,Brand#52,SMALL BRUSHED STEEL,12,LG BOX,1355.92,express final slyly
+291,Part#000000291,Manufacturer#1,Brand#21,PROMO PLATED NICKEL,32,WRAP CASE,1224.23,blithely regular quickl
+292,Part#000000292,Manufacturer#4,Brand#44,STANDARD BURNISHED TIN,43,SM BOX,1220.29,final carefully express
+293,Part#000000293,Manufacturer#1,Brand#41,PROMO PLATED NICKEL,42,LG BOX,1112.26,carefully slyly silent 
+294,Part#000000294,Manufacturer#3,Brand#14,STANDARD BURNISHED TIN,38,JUMBO CAN,1117.89,special blithely regula
+295,Part#000000295,Manufacturer#5,Brand#34,SMALL BRUSHED STEEL,18,JUMBO CAN,1513.53,special special silent 
+296,Part#000000296,Manufacturer#2,Brand#21,MEDIUM ANODIZED COPPER,38,LG BOX,1889.8,express silent special 
+297,Part#000000297,Manufacturer#3,Brand#43,STANDARD BURNISHED TIN,35,WRAP CASE,1173.31,quickly pending express
+298,Part#000000298,Manufacturer#4,Brand#15,PROMO PLATED NICKEL,29,WRAP CASE,1590.32,special slyly pending s
+299,Part#000000299,Manufacturer#2,Brand#32,PROMO PLATED NICKEL,41,LG BOX,2097.3,carefully pending unusu
+300,Part#000000300,Manufacturer#1,Brand#31,LARGE POLISHED BRASS,16,SM BOX,2001.1,silent pending express 
+301,Part#000000301,Manufacturer#2,Brand#32,MEDIUM ANODIZED COPPER,49,MED BAG,1494.21,pending pending express
+302,Part#000000302,Manufacturer#3,Brand#24,SMALL BRUSHED STEEL,37,JUMBO CAN,1382.08,regular carefully quick
+303,Part#000000303,Manufacturer#1,Brand#55,PROMO PLATED NICKEL,9,MED BAG,1612.86,slyly blithely silent f
+304,Part#000000304,Manufacturer#5,Brand#15,SMALL BRUSHED STEEL,18,SM BOX,1430.98,silent furiously slyly 
+305,Part#000000305,Manufacturer#4,Brand#24,PROMO PLATED NICKEL,28,WRAP CASE,1695.14,slyly unusual furiously
+306,Part#000000306,Manufacturer#4,Brand#44,MEDIUM ANODIZED COPPER,45,SM BOX,1292.46,express express blithel
+307,Part#000000307,Manufacturer#1,Brand#52,STANDARD BURNISHED TIN,24,LG BOX,1735.69,quickly special pending
+308,Part#000000308,Manufacturer#2,Brand#45,PROMO PLATED NICKEL,49,WRAP CASE,1868.2,regular unusual furious
+309,Part#000000309,Manufacturer#1,Brand#42,PROMO PLATED NICKEL,17,MED BAG,1346.49,final special special
+310,Part#000000310,Manufacturer#5,Brand#25,LARGE POLISHED BRASS,20,WRAP CASE,2064.56,unusual express final f
+311,Part#000000311,Manufacturer#5,Brand#45,STANDARD BURNISHED TIN,28,JUMBO CAN,1392.14,slyly express special s
+312,Part#000000312,Manufacturer#4,Brand#32,STANDARD BURNISHED TIN,49,JUMBO CAN,1307.56,silent slyly express
+313,Part#000000313,Manufacturer#3,Brand#23,LARGE POLISHED BRASS,33,WRAP CASE,934.64,unusual slyly express f
+314,Part#000000314,Manufacturer#4,Brand#15,LARGE POLISHED BRASS,50,JUMBO CAN,1303.47,special final final bli
+315,Part#000000315,Manufacturer#1,Brand#11,STANDARD BURNISHED TIN,11,LG BOX,1041.98,express furiously slyly
+316,Part#000000316,Manufacturer#4,Brand#53,STANDARD BURNISHED TIN,20,JUMBO CAN,1061.07,blithely final pending 
+317,Part#000000317,Manufacturer#1,Brand#13,MEDIUM ANODIZED COPPER,33,MED BAG,1539.56,blithely furiously spec
+318,Part#000000318,Manufacturer#4,Brand#41,STANDARD BURNISHED TIN,36,LG BOX,1134.86,unusual blithely furiou
+319,Part#000000319,Manufacturer#4,Brand#11,MEDIUM ANODIZED COPPER,29,LG BOX,2092.07,slyly quickly blithely 
+320,Part#000000320,Manufacturer#2,Brand#12,LARGE POLISHED BRASS,34,MED BAG,1174.34,final regular carefully
+321,Part#000000321,Manufacturer#4,Brand#43,MEDIUM ANODIZED COPPER,41,LG BOX,1341.83,furiously unusual pendi
+322,Part#000000322,Manufacturer#2,Brand#42,MEDIUM ANODIZED COPPER,17,MED BAG,1855.5,special carefully regul
+323,Part#000000323,Manufacturer#4,Brand#31,LARGE POLISHED BRASS,13,SM BOX,1033.57,pending carefully regul
+324,Part#000000324,Manufacturer#5,Brand#55,STANDARD BURNISHED TIN,44,WRAP CASE,1779.39,regular quickly final
+325,Part#000000325,Manufacturer#2,Brand#23,MEDIUM ANODIZED COPPER,42,LG BOX,1486.65,unusual slyly silent
+326,Part#000000326,Manufacturer#2,Brand#13,STANDARD BURNISHED TIN,23,SM BOX,1685.41,slyly special slyly
+327,Part#000000327,Manufacturer#2,Brand#12,MEDIUM ANODIZED COPPER,22,LG BOX,939.81,furiously furiously exp
+328,Part#000000328,Manufacturer#3,Brand#23,MEDIUM ANODIZED COPPER,1,SM BOX,1928.55,slyly carefully silent 
+329,Part#000000329,Manufacturer#4,Brand#32,LARGE POLISHED BRASS,18,MED BAG,1205.02,furiously express regul
+330,Part#000000330,Manufacturer#5,Brand#45,LARGE POLISHED BRASS,29,WRAP CASE,1028.48,carefully slyly slyly c
+331,Part#000000331,Manufacturer#5,Brand#42,MEDIUM ANODIZED COPPER,35,JUMBO CAN,1863.88,silent furiously silent
+332,Part#000000332,Manufacturer#3,Brand#31,STANDARD BURNISHED TIN,38,LG BOX,1904.18,express regular pending
+333,Part#000000333,Manufacturer#4,Brand#23,SMALL BRUSHED STEEL,6,WRAP CASE,1548.0,carefully unusual pendi
+334,Part#000000334,Manufacturer#4,Brand#21,PROMO PLATED NICKEL,16,LG BOX,1581.05,pending pending blithel
+335,Part#000000335,Manufacturer#5,Brand#41,SMALL BRUSHED STEEL,26,LG BOX,2031.5,unusual unusual quickly
+336,Part#000000336,Manufacturer#2,Brand#14,SMALL BRUSHED STEEL,8,SM BOX,1121.95,quickly special careful
+337,Part#000000337,Manufacturer#4,Brand#33,SMALL BRUSHED STEEL,3,SM BOX,1509.0,blithely quickly furiou
+338,Part#000000338,Manufacturer#2,Brand#32,STANDARD BURNISHED TIN,6,MED BAG,973.99,unusual silent furiousl
+339,Part#000000339,Manufacturer#4,Brand#24,STANDARD BURNISHED TIN,49,WRAP CASE,1669.18,express final furiously
+340,Part#000000340,Manufacturer#1,Brand#12,SMALL BRUSHED STEEL,13,SM BOX,1448.0,quickly special slyly e
+341,Part#000000341,Manufacturer#4,Brand#35,SMALL BRUSHED STEEL,22,SM BOX,1982.62,regular furiously caref
+342,Part#000000342,Manufacturer#4,Brand#24,SMALL BRUSHED STEEL,5,SM BOX,1985.08,quickly express pending
+343,Part#000000343,Manufacturer#2,Brand#25,SMALL BRUSHED STEEL,29,WRAP CASE,1288.39,blithely furiously blit
+344,Part#000000344,Manufacturer#1,Brand#32,PROMO PLATED NICKEL,49,LG BOX,1415.45,unusual silent final ca
+345,Part#000000345,Manufacturer#4,Brand#11,PROMO PLATED NICKEL,15,WRAP CASE,1419.71,silent blithely pending
+346,Part#000000346,Manufacturer#1,Brand#32,SMALL BRUSHED STEEL,24,WRAP CASE,1414.08,regular special regular
+347,Part#000000347,Manufacturer#2,Brand#15,SMALL BRUSHED STEEL,6,LG BOX,1417.5,slyly final quickly bli
+348,Part#000000348,Manufacturer#1,Brand#43,SMALL BRUSHED STEEL,49,WRAP CASE,1341.88,furiously slyly final s
+349,Part#000000349,Manufacturer#1,Brand#35,STANDARD BURNISHED TIN,30,MED BAG,1746.57,carefully regular final
+350,Part#000000350,Manufacturer#2,Brand#24,SMALL BRUSHED STEEL,39,WRAP CASE,1382.97,regular unusual pending
+351,Part#000000351,Manufacturer#3,Brand#42,PROMO PLATED NICKEL,5,JUMBO CAN,964.02,quickly quickly express
+352,Part#000000352,Manufacturer#3,Brand#32,STANDARD BURNISHED TIN,3,MED BAG,1421.71,pending quickly pending
+353,Part#000000353,Manufacturer#1,Brand#54,SMALL BRUSHED STEEL,5,JUMBO CAN,1163.25,quickly final furiously
+354,Part#000000354,Manufacturer#2,Brand#42,LARGE POLISHED BRASS,36,WRAP CASE,1293.39,quickly express special
+355,Part#000000355,Manufacturer#3,Brand#53,STANDARD BURNISHED TIN,16,SM BOX,1063.36,special furiously silen
+356,Part#000000356,Manufacturer#1,Brand#12,MEDIUM ANODIZED COPPER,36,SM BOX,1009.67,final special unusual r
+357,Part#000000357,Manufacturer#3,Brand#21,STANDARD BURNISHED TIN,6,SM BOX,1791.9,furiously quickly regul
+358,Part#000000358,Manufacturer#2,Brand#22,SMALL BRUSHED STEEL,3,JUMBO CAN,984.99,blithely carefully spec
+359,Part#000000359,Manufacturer#1,Brand#42,PROMO PLATED NICKEL,20,WRAP CASE,1752.94,express slyly pending s
+360,Part#000000360,Manufacturer#4,Brand#32,LARGE POLISHED BRASS,39,MED BAG,1234.56,slyly final carefully f
+361,Part#000000361,Manufacturer#2,Brand#41,LARGE POLISHED BRASS,20,WRAP CASE,999.09,slyly special express p
+362,Part#000000362,Manufacturer#1,Brand#35,MEDIUM ANODIZED COPPER,14,MED BAG,1424.98,slyly slyly final furio
+363,Part#000000363,Manufacturer#5,Brand#34,SMALL BRUSHED STEEL,48,JUMBO CAN,1436.92,silent furiously furiou
+364,Part#000000364,Manufacturer#2,Brand#31,LARGE POLISHED BRASS,25,MED BAG,1386.66,silent express special 
+365,Part#000000365,Manufacturer#3,Brand#53,SMALL BRUSHED STEEL,26,MED BAG,1438.33,final final final unusu
+366,Part#000000366,Manufacturer#1,Brand#45,SMALL BRUSHED STEEL,35,MED BAG,1981.87,pending regular careful
+367,Part#000000367,Manufacturer#5,Brand#14,LARGE POLISHED BRASS,7,SM BOX,2095.14,slyly furiously pending
+368,Part#000000368,Manufacturer#3,Brand#53,STANDARD BURNISHED TIN,44,JUMBO CAN,964.73,unusual blithely final 
+369,Part#000000369,Manufacturer#1,Brand#52,LARGE POLISHED BRASS,1,SM BOX,1699.57,regular express slyly s
+370,Part#000000370,Manufacturer#1,Brand#11,LARGE POLISHED BRASS,27,SM BOX,994.65,final quickly furiously
+371,Part#000000371,Manufacturer#3,Brand#51,PROMO PLATED NICKEL,17,JUMBO CAN,1659.83,final regular special q
+372,Part#000000372,Manufacturer#2,Brand#35,PROMO PLATED NICKEL,36,SM BOX,2015.97,carefully carefully bli
+373,Part#000000373,Manufacturer#3,Brand#52,PROMO PLATED NICKEL,14,MED BAG,1826.66,unusual quickly pending
+374,Part#000000374,Manufacturer#3,Brand#32,LARGE POLISHED BRASS,3,LG BOX,1413.66,blithely furiously expr
+375,Part#000000375,Manufacturer#2,Brand#51,MEDIUM ANODIZED COPPER,40,WRAP CASE,1969.4,final slyly unusual fin
+376,Part#000000376,Manufacturer#1,Brand#12,SMALL BRUSHED STEEL,27,JUMBO CAN,1582.7,special special silent 
+377,Part#000000377,Manufacturer#4,Brand#53,STANDARD BURNISHED TIN,31,MED BAG,952.86,quickly furiously silen
+378,Part#000000378,Manufacturer#3,Brand#25,PROMO PLATED NICKEL,45,MED BAG,1933.4,special regular final
+379,Part#000000379,Manufacturer#2,Brand#31,MEDIUM ANODIZED COPPER,1,LG BOX,1092.66,slyly special unusual f
+380,Part#000000380,Manufacturer#4,Brand#21,MEDIUM ANODIZED COPPER,7,JUMBO CAN,1544.15,silent blithely blithel
+381,Part#000000381,Manufacturer#2,Brand#23,LARGE POLISHED BRASS,20,MED BAG,1926.36,special slyly silent
+382,Part#000000382,Manufacturer#4,Brand#52,SMALL BRUSHED STEEL,23,LG BOX,906.74,silent final express sp
+383,Part#000000383,Manufacturer#4,Brand#23,LARGE POLISHED BRASS,40,SM BOX,1237.63,final furiously quickly
+384,Part#000000384,Manufacturer#3,Brand#44,LARGE POLISHED BRASS,6,LG BOX,1611.51,slyly express final unu
+385,Part#000000385,Manufacturer#2,Brand#11,LARGE POLISHED BRASS,30,MED BAG,1324.11,special regular regular
+386,Part#000000386,Manufacturer#5,Brand#15,SMALL BRUSHED STEEL,29,SM BOX,1008.91,quickly unusual slyly s
+387,Part#000000387,Manufacturer#2,Brand#14,PROMO PLATED NICKEL,47,LG BOX,980.96,slyly silent quickly ca
+388,Part#000000388,Manufacturer#1,Brand#42,STANDARD BURNISHED TIN,14,WRAP CASE,1345.34,silent carefully quickl
+389,Part#000000389,Manufacturer#1,Brand#33,PROMO PLATED NICKEL,34,SM BOX,1749.89,furiously regular slyly
+390,Part#000000390,Manufacturer#1,Brand#43,STANDARD BURNISHED TIN,39,LG BOX,1509.72,regular unusual silent 
+391,Part#000000391,Manufacturer#5,Brand#15,LARGE POLISHED BRASS,47,JUMBO CAN,1094.85,unusual unusual express
+392,Part#000000392,Manufacturer#2,Brand#51,LARGE POLISHED BRASS,9,LG BOX,970.93,express regular express
+393,Part#000000393,Manufacturer#2,Brand#54,LARGE POLISHED BRASS,48,WRAP CASE,1796.58,regular furiously final
+394,Part#000000394,Manufacturer#5,Brand#53,LARGE POLISHED BRASS,45,SM BOX,1707.08,blithely special specia
+395,Part#000000395,Manufacturer#2,Brand#15,STANDARD BURNISHED TIN,32,MED BAG,1919.73,carefully pending final
+396,Part#000000396,Manufacturer#2,Brand#42,SMALL BRUSHED STEEL,27,MED BAG,1962.72,express unusual careful
+397,Part#000000397,Manufacturer#2,Brand#35,STANDARD BURNISHED TIN,30,MED BAG,1377.06,pending silent pending 
+398,Part#000000398,Manufacturer#4,Brand#52,SMALL BRUSHED STEEL,31,MED BAG,1353.37,special furiously silen
+399,Part#000000399,Manufacturer#2,Brand#54,PROMO PLATED NICKEL,18,SM BOX,1643.49,pending silent slyly un
+400,Part#000000400,Manufacturer#5,Brand#12,MEDIUM ANODIZED COPPER,26,WRAP CASE,1960.87,quickly quickly regular
+401,Part#000000401,Manufacturer#4,Brand#15,SMALL BRUSHED STEEL,37,WRAP CASE,1864.21,final express express s
+402,Part#000000402,Manufacturer#1,Brand#35,STANDARD BURNISHED TIN,26,LG BOX,1721.14,slyly carefully silent 
+403,Part#000000403,Manufacturer#2,Brand#15,LARGE POLISHED BRASS,25,LG BOX,1420.17,pending furiously expre
+404,Part#000000404,Manufacturer#4,Brand#52,LARGE POLISHED BRASS,48,MED BAG,2028.07,carefully express pendi
+405,Part#000000405,Manufacturer#5,Brand#54,STANDARD BURNISHED TIN,39,WRAP CASE,1017.61,furiously pending unusu
+406,Part#000000406,Manufacturer#4,Brand#24,LARGE POLISHED BRASS,13,WRAP CASE,1306.26,quickly carefully furio
+407,Part#000000407,Manufacturer#4,Brand#21,MEDIUM ANODIZED COPPER,43,SM BOX,1337.24,unusual express unusual
+408,Part#000000408,Manufacturer#2,Brand#13,SMALL BRUSHED STEEL,46,MED BAG,1917.16,regular special furious
+409,Part#000000409,Manufacturer#5,Brand#52,MEDIUM ANODIZED COPPER,32,MED BAG,1854.48,blithely quickly slyly 
+410,Part#000000410,Manufacturer#3,Brand#22,MEDIUM ANODIZED COPPER,16,JUMBO CAN,1344.49,furiously express final
+411,Part#000000411,Manufacturer#1,Brand#34,LARGE POLISHED BRASS,18,LG BOX,994.82,express special careful
+412,Part#000000412,Manufacturer#5,Brand#25,PROMO PLATED NICKEL,6,MED BAG,1122.25,blithely express furiou
+413,Part#000000413,Manufacturer#2,Brand#14,LARGE POLISHED BRASS,1,JUMBO CAN,1943.27,pending final carefully
+414,Part#000000414,Manufacturer#4,Brand#14,MEDIUM ANODIZED COPPER,4,MED BAG,1680.15,unusual slyly pending f
+415,Part#000000415,Manufacturer#2,Brand#53,SMALL BRUSHED STEEL,29,WRAP CASE,1394.77,slyly unusual furiously
+416,Part#000000416,Manufacturer#5,Brand#32,LARGE POLISHED BRASS,10,SM BOX,995.2,silent pending furiousl
+417,Part#000000417,Manufacturer#2,Brand#34,PROMO PLATED NICKEL,30,MED BAG,1220.2,blithely carefully spec
+418,Part#000000418,Manufacturer#1,Brand#53,PROMO PLATED NICKEL,27,MED BAG,1949.5,unusual regular regular
+419,Part#000000419,Manufacturer#4,Brand#52,MEDIUM ANODIZED COPPER,27,LG BOX,1133.78,pending quickly blithel
+420,Part#000000420,Manufacturer#1,Brand#55,MEDIUM ANODIZED COPPER,10,JUMBO CAN,2017.98,special furiously expre
+421,Part#000000421,Manufacturer#5,Brand#52,SMALL BRUSHED STEEL,3,SM BOX,2004.01,quickly unusual pending
+422,Part#000000422,Manufacturer#2,Brand#14,STANDARD BURNISHED TIN,2,WRAP CASE,1261.05,carefully pending furio
+423,Part#000000423,Manufacturer#2,Brand#12,LARGE POLISHED BRASS,8,LG BOX,1353.32,final pending slyly unu
+424,Part#000000424,Manufacturer#5,Brand#51,LARGE POLISHED BRASS,37,JUMBO CAN,1840.13,pending final blithely 
+425,Part#000000425,Manufacturer#2,Brand#23,LARGE POLISHED BRASS,11,LG BOX,1667.28,unusual blithely quickl
+426,Part#000000426,Manufacturer#4,Brand#53,LARGE POLISHED BRASS,23,LG BOX,1054.91,regular silent furiousl
+427,Part#000000427,Manufacturer#4,Brand#12,PROMO PLATED NICKEL,12,JUMBO CAN,1627.95,slyly slyly slyly
+428,Part#000000428,Manufacturer#2,Brand#33,SMALL BRUSHED STEEL,7,SM BOX,1489.18,final final quickly sly
+429,Part#000000429,Manufacturer#5,Brand#23,PROMO PLATED NICKEL,44,WRAP CASE,1657.91,carefully furiously reg
+430,Part#000000430,Manufacturer#4,Brand#53,MEDIUM ANODIZED COPPER,35,MED BAG,1834.44,unusual regular express
+431,Part#000000431,Manufacturer#2,Brand#15,LARGE POLISHED BRASS,46,WRAP CASE,920.25,slyly express furiously
+432,Part#000000432,Manufacturer#3,Brand#43,PROMO PLATED NICKEL,10,LG BOX,1114.19,final final slyly blith
+433,Part#000000433,Manufacturer#2,Brand#32,SMALL BRUSHED STEEL,25,LG BOX,1898.91,slyly regular slyly spe
+434,Part#000000434,Manufacturer#4,Brand#24,SMALL BRUSHED STEEL,16,SM BOX,1482.19,unusual silent express 
+435,Part#000000435,Manufacturer#2,Brand#11,SMALL BRUSHED STEEL,15,JUMBO CAN,1109.24,special slyly blithely 
+436,Part#000000436,Manufacturer#3,Brand#41,SMALL BRUSHED STEEL,24,MED BAG,1201.46,slyly furiously blithel
+437,Part#000000437,Manufacturer#3,Brand#13,STANDARD BURNISHED TIN,47,MED BAG,986.35,slyly carefully express
+438,Part#000000438,Manufacturer#4,Brand#44,LARGE POLISHED BRASS,38,MED BAG,1440.58,final unusual regular s
+439,Part#000000439,Manufacturer#4,Brand#21,SMALL BRUSHED STEEL,5,WRAP CASE,1939.39,pending carefully pendi
+440,Part#000000440,Manufacturer#4,Brand#45,STANDARD BURNISHED TIN,30,WRAP CASE,1579.27,final silent silent unu
+441,Part#000000441,Manufacturer#4,Brand#23,SMALL BRUSHED STEEL,39,LG BOX,1058.09,final slyly regular fin
+442,Part#000000442,Manufacturer#4,Brand#32,LARGE POLISHED BRASS,41,LG BOX,2027.9,silent quickly carefull
+443,Part#000000443,Manufacturer#1,Brand#42,PROMO PLATED NICKEL,41,MED BAG,1117.85,pending pending blithel
+444,Part#000000444,Manufacturer#3,Brand#11,MEDIUM ANODIZED COPPER,32,JUMBO CAN,1226.47,silent regular furiousl
+445,Part#000000445,Manufacturer#1,Brand#15,STANDARD BURNISHED TIN,36,JUMBO CAN,1374.38,silent slyly regular ex
+446,Part#000000446,Manufacturer#4,Brand#25,SMALL BRUSHED STEEL,27,LG BOX,1362.4,regular furiously expre
+447,Part#000000447,Manufacturer#2,Brand#32,MEDIUM ANODIZED COPPER,45,LG BOX,1463.84,blithely final express
+448,Part#000000448,Manufacturer#4,Brand#45,LARGE POLISHED BRASS,30,JUMBO CAN,994.81,silent final silent fin
+449,Part#000000449,Manufacturer#1,Brand#21,MEDIUM ANODIZED COPPER,23,SM BOX,1093.65,regular carefully regul
+450,Part#000000450,Manufacturer#1,Brand#31,PROMO PLATED NICKEL,19,WRAP CASE,1644.3,quickly slyly blithely 
+451,Part#000000451,Manufacturer#3,Brand#55,MEDIUM ANODIZED COPPER,19,LG BOX,1268.56,slyly slyly express pen
+452,Part#000000452,Manufacturer#5,Brand#44,LARGE POLISHED BRASS,49,WRAP CASE,1190.71,furiously express silen
+453,Part#000000453,Manufacturer#5,Brand#21,LARGE POLISHED BRASS,15,SM BOX,1611.39,regular blithely regula
+454,Part#000000454,Manufacturer#5,Brand#44,MEDIUM ANODIZED COPPER,7,LG BOX,1089.07,furiously slyly regular
+455,Part#000000455,Manufacturer#1,Brand#53,LARGE POLISHED BRASS,8,JUMBO CAN,1813.26,express quickly silent 
+456,Part#000000456,Manufacturer#3,Brand#31,STANDARD BURNISHED TIN,38,LG BOX,1930.11,special special express
+457,Part#000000457,Manufacturer#3,Brand#33,SMALL BRUSHED STEEL,10,WRAP CASE,1167.91,slyly pending carefully
+458,Part#000000458,Manufacturer#3,Brand#14,LARGE POLISHED BRASS,50,SM BOX,1144.64,express final final car
+459,Part#000000459,Manufacturer#3,Brand#51,STANDARD BURNISHED TIN,1,WRAP CASE,2026.96,furiously blithely furi
+460,Part#000000460,Manufacturer#3,Brand#53,MEDIUM ANODIZED COPPER,36,MED BAG,1126.79,express final pending u
+461,Part#000000461,Manufacturer#2,Brand#22,STANDARD BURNISHED TIN,11,LG BOX,940.15,unusual regular unusual
+462,Part#000000462,Manufacturer#1,Brand#11,MEDIUM ANODIZED COPPER,15,JUMBO CAN,1756.33,silent carefully slyly 
+463,Part#000000463,Manufacturer#1,Brand#43,MEDIUM ANODIZED COPPER,46,LG BOX,1582.33,final silent special qu
+464,Part#000000464,Manufacturer#4,Brand#35,MEDIUM ANODIZED COPPER,5,JUMBO CAN,1215.93,express quickly special
+465,Part#000000465,Manufacturer#2,Brand#43,MEDIUM ANODIZED COPPER,4,LG BOX,1094.22,blithely express final 
+466,Part#000000466,Manufacturer#2,Brand#22,LARGE POLISHED BRASS,9,WRAP CASE,2091.83,slyly special special e
+467,Part#000000467,Manufacturer#1,Brand#23,SMALL BRUSHED STEEL,15,LG BOX,1204.11,regular carefully pendi
+468,Part#000000468,Manufacturer#1,Brand#35,STANDARD BURNISHED TIN,10,JUMBO CAN,1631.0,slyly express quickly s
+469,Part#000000469,Manufacturer#3,Brand#22,SMALL BRUSHED STEEL,6,LG BOX,1991.37,silent slyly slyly unus
+470,Part#000000470,Manufacturer#1,Brand#15,PROMO PLATED NICKEL,19,JUMBO CAN,981.65,slyly slyly furiously s
+471,Part#000000471,Manufacturer#2,Brand#25,SMALL BRUSHED STEEL,24,SM BOX,1426.78,final slyly blithely si
+472,Part#000000472,Manufacturer#4,Brand#31,MEDIUM ANODIZED COPPER,27,SM BOX,1646.14,furiously unusual expre
+473,Part#000000473,Manufacturer#4,Brand#15,STANDARD BURNISHED TIN,41,LG BOX,1307.03,unusual express special
+474,Part#000000474,Manufacturer#5,Brand#53,MEDIUM ANODIZED COPPER,25,JUMBO CAN,1809.14,carefully quickly caref
+475,Part#000000475,Manufacturer#2,Brand#51,LARGE POLISHED BRASS,29,WRAP CASE,1822.54,slyly pending pending
+476,Part#000000476,Manufacturer#1,Brand#14,PROMO PLATED NICKEL,30,WRAP CASE,950.31,final carefully final f
+477,Part#000000477,Manufacturer#4,Brand#12,STANDARD BURNISHED TIN,19,SM BOX,1856.73,blithely final blithely
+478,Part#000000478,Manufacturer#3,Brand#53,MEDIUM ANODIZED COPPER,12,WRAP CASE,1281.69,regular unusual pending
+479,Part#000000479,Manufacturer#4,Brand#33,MEDIUM ANODIZED COPPER,16,LG BOX,1568.51,pending final express p
+480,Part#000000480,Manufacturer#4,Brand#21,STANDARD BURNISHED TIN,44,MED BAG,1721.43,blithely blithely quick
+481,Part#000000481,Manufacturer#1,Brand#53,PROMO PLATED NICKEL,13,LG BOX,2070.42,express quickly quickly
+482,Part#000000482,Manufacturer#4,Brand#42,PROMO PLATED NICKEL,38,MED BAG,914.08,special pending quickly
+483,Part#000000483,Manufacturer#3,Brand#13,PROMO PLATED NICKEL,50,MED BAG,1127.17,regular express careful
+484,Part#000000484,Manufacturer#3,Brand#34,LARGE POLISHED BRASS,18,LG BOX,1442.37,regular slyly pending f
+485,Part#000000485,Manufacturer#4,Brand#32,PROMO PLATED NICKEL,6,LG BOX,1870.62,special final carefully
+486,Part#000000486,Manufacturer#5,Brand#25,SMALL BRUSHED STEEL,5,MED BAG,2007.95,unusual pending express
+487,Part#000000487,Manufacturer#4,Brand#23,STANDARD BURNISHED TIN,43,LG BOX,1674.26,slyly carefully blithel
+488,Part#000000488,Manufacturer#1,Brand#34,STANDARD BURNISHED TIN,5,MED BAG,1695.23,silent blithely silent 
+489,Part#000000489,Manufacturer#1,Brand#12,MEDIUM ANODIZED COPPER,37,WRAP CASE,1921.15,carefully pending slyly
+490,Part#000000490,Manufacturer#2,Brand#14,LARGE POLISHED BRASS,5,MED BAG,1798.27,blithely quickly carefu
+491,Part#000000491,Manufacturer#4,Brand#25,SMALL BRUSHED STEEL,7,WRAP CASE,1031.57,express silent final fu
+492,Part#000000492,Manufacturer#1,Brand#12,STANDARD BURNISHED TIN,12,WRAP CASE,2012.75,regular silent unusual 
+493,Part#000000493,Manufacturer#4,Brand#51,STANDARD BURNISHED TIN,19,JUMBO CAN,1797.97,pending regular pending
+494,Part#000000494,Manufacturer#2,Brand#21,SMALL BRUSHED STEEL,13,LG BOX,920.51,special express blithel
+495,Part#000000495,Manufacturer#5,Brand#55,SMALL BRUSHED STEEL,6,JUMBO CAN,1934.38,pending slyly blithely 
+496,Part#000000496,Manufacturer#5,Brand#14,LARGE POLISHED BRASS,33,LG BOX,1032.96,special unusual regular
+497,Part#000000497,Manufacturer#1,Brand#11,MEDIUM ANODIZED COPPER,13,LG BOX,1546.55,silent unusual pending 
+498,Part#000000498,Manufacturer#1,Brand#31,LARGE POLISHED BRASS,18,LG BOX,1962.67,silent special final ca
+499,Part#000000499,Manufacturer#4,Brand#45,LARGE POLISHED BRASS,43,WRAP CASE,1820.0,special final carefully
+500,Part#000000500,Manufacturer#2,Brand#35,STANDARD BURNISHED TIN,16,LG BOX,1112.6,furiously unusual quick

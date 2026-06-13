@@ -1,0 +1,1001 @@
+c_custkey,c_name,c_address,c_nationkey,c_phone,c_acctbal,c_mktsegment,c_comment
+1,Customer#000000001,655 Main St,3,13-859-381-5012,1455.32,AUTOMOBILE,carefully silent blithely special pending unusual blithely silent
+2,Customer#000000002,734 Main St,20,99-658-529-4611,3941.3,FURNITURE,slyly pending regular
+3,Customer#000000003,285 Main St,4,37-881-444-2674,20.21,AUTOMOBILE,quickly blithely slyly carefully silent
+4,Customer#000000004,997 Main St,12,20-665-400-6925,5350.87,AUTOMOBILE,blithely slyly furiously
+5,Customer#000000005,876 Main St,7,22-489-384-8428,5992.53,FURNITURE,final unusual express furiously
+6,Customer#000000006,664 Main St,2,87-750-275-9751,7020.39,BUILDING,final furiously blithely silent carefully quickly
+7,Customer#000000007,795 Main St,1,39-941-132-6168,3412.81,AUTOMOBILE,quickly silent carefully unusual
+8,Customer#000000008,512 Main St,12,92-569-246-5339,535.94,HOUSEHOLD,express blithely quickly final unusual furiously silent
+9,Customer#000000009,94 Main St,24,16-981-212-3504,5901.9,MACHINERY,special final furiously silent furiously quickly special
+10,Customer#000000010,739 Main St,3,97-649-868-5371,7454.58,FURNITURE,express pending special
+11,Customer#000000011,740 Main St,23,43-612-880-3927,4584.5,AUTOMOBILE,express blithely blithely pending slyly silent slyly silent
+12,Customer#000000012,1 Main St,19,51-600-119-2832,9220.08,FURNITURE,special quickly furiously pending
+13,Customer#000000013,498 Main St,2,78-884-228-3103,6257.26,HOUSEHOLD,express quickly regular unusual
+14,Customer#000000014,553 Main St,24,98-305-830-6107,3388.92,FURNITURE,quickly regular unusual special special silent
+15,Customer#000000015,603 Main St,7,10-172-824-1964,1518.37,AUTOMOBILE,special unusual carefully unusual pending
+16,Customer#000000016,958 Main St,18,83-584-348-8749,7882.46,BUILDING,pending regular regular
+17,Customer#000000017,479 Main St,23,16-789-769-2612,-333.25,FURNITURE,unusual unusual regular
+18,Customer#000000018,433 Main St,5,45-573-355-2235,3874.44,HOUSEHOLD,special furiously quickly
+19,Customer#000000019,993 Main St,2,40-270-516-8956,4294.94,MACHINERY,pending special final
+20,Customer#000000020,949 Main St,14,46-533-813-8973,702.77,FURNITURE,furiously silent silent carefully
+21,Customer#000000021,59 Main St,1,84-588-614-9701,731.77,HOUSEHOLD,quickly special special
+22,Customer#000000022,883 Main St,7,61-222-683-5033,5368.11,AUTOMOBILE,special blithely silent express express carefully express
+23,Customer#000000023,272 Main St,12,26-787-760-5915,4029.47,AUTOMOBILE,regular furiously furiously
+24,Customer#000000024,76 Main St,17,37-618-371-3170,9265.84,AUTOMOBILE,final pending quickly carefully
+25,Customer#000000025,627 Main St,20,77-108-783-5905,9249.31,AUTOMOBILE,express quickly carefully pending
+26,Customer#000000026,289 Main St,19,36-834-451-4335,6562.46,FURNITURE,regular quickly quickly pending regular express special
+27,Customer#000000027,790 Main St,4,91-368-265-8239,5068.48,MACHINERY,special special quickly quickly silent quickly silent
+28,Customer#000000028,152 Main St,13,26-142-415-6974,8888.79,AUTOMOBILE,unusual unusual pending slyly quickly
+29,Customer#000000029,417 Main St,19,29-342-985-3662,9738.26,BUILDING,special carefully express furiously slyly quickly
+30,Customer#000000030,831 Main St,7,44-263-906-2771,3207.96,AUTOMOBILE,unusual slyly regular express slyly unusual
+31,Customer#000000031,25 Main St,21,34-508-436-5564,8507.88,FURNITURE,blithely final furiously silent furiously
+32,Customer#000000032,119 Main St,8,32-694-371-1626,192.44,MACHINERY,carefully express blithely silent final
+33,Customer#000000033,591 Main St,6,42-145-825-8144,-981.39,HOUSEHOLD,carefully carefully carefully final special blithely express express
+34,Customer#000000034,869 Main St,3,48-619-416-7691,2588.02,FURNITURE,pending regular furiously carefully quickly blithely express
+35,Customer#000000035,562 Main St,0,48-393-315-8043,7643.34,HOUSEHOLD,express regular carefully silent slyly furiously carefully blithely
+36,Customer#000000036,291 Main St,16,94-748-734-6491,27.27,BUILDING,express slyly pending special furiously blithely slyly regular
+37,Customer#000000037,908 Main St,20,83-299-835-7291,4438.15,BUILDING,blithely special slyly slyly
+38,Customer#000000038,110 Main St,24,64-324-280-9486,4110.05,HOUSEHOLD,furiously pending pending regular
+39,Customer#000000039,544 Main St,17,86-424-873-8251,5739.17,HOUSEHOLD,slyly silent quickly carefully regular express
+40,Customer#000000040,254 Main St,20,45-884-896-9540,4330.57,BUILDING,regular carefully unusual final quickly
+41,Customer#000000041,83 Main St,4,29-336-492-3503,6770.61,AUTOMOBILE,final silent final unusual regular quickly
+42,Customer#000000042,599 Main St,22,12-977-883-7232,4246.78,FURNITURE,slyly quickly furiously regular carefully
+43,Customer#000000043,560 Main St,19,38-599-324-5471,3794.2,AUTOMOBILE,final carefully final pending regular pending
+44,Customer#000000044,638 Main St,17,13-503-706-1444,-76.57,MACHINERY,quickly unusual express express
+45,Customer#000000045,466 Main St,10,53-879-488-5558,7272.1,MACHINERY,quickly regular carefully special furiously
+46,Customer#000000046,230 Main St,20,18-899-767-1659,7296.56,BUILDING,quickly blithely unusual regular
+47,Customer#000000047,118 Main St,18,37-576-816-5198,7435.87,BUILDING,blithely carefully pending slyly furiously pending special
+48,Customer#000000048,320 Main St,18,96-484-506-4249,-164.03,BUILDING,carefully express carefully
+49,Customer#000000049,825 Main St,3,82-901-142-6688,4860.2,FURNITURE,silent final quickly
+50,Customer#000000050,843 Main St,15,23-543-470-8532,6780.39,MACHINERY,carefully furiously express slyly
+51,Customer#000000051,552 Main St,24,71-576-546-5397,2545.35,BUILDING,express regular slyly
+52,Customer#000000052,584 Main St,19,95-488-444-1470,4437.37,FURNITURE,regular final express express
+53,Customer#000000053,611 Main St,22,45-669-110-9464,9428.68,AUTOMOBILE,carefully regular slyly carefully
+54,Customer#000000054,662 Main St,22,72-558-911-1282,23.59,BUILDING,carefully express silent regular silent regular
+55,Customer#000000055,764 Main St,17,52-460-819-8434,1980.09,FURNITURE,pending unusual pending silent
+56,Customer#000000056,781 Main St,22,33-296-321-8933,2041.5,HOUSEHOLD,blithely furiously slyly express final express carefully
+57,Customer#000000057,130 Main St,8,15-155-666-5786,6671.59,BUILDING,quickly regular quickly silent regular regular unusual special
+58,Customer#000000058,964 Main St,15,24-941-166-7565,4409.21,HOUSEHOLD,carefully pending slyly furiously pending unusual silent final
+59,Customer#000000059,611 Main St,19,38-894-635-7232,3955.66,MACHINERY,quickly furiously express blithely blithely
+60,Customer#000000060,758 Main St,3,36-740-316-5335,6264.71,BUILDING,unusual special special regular
+61,Customer#000000061,609 Main St,15,47-133-337-5720,6776.51,MACHINERY,carefully furiously slyly
+62,Customer#000000062,641 Main St,18,94-923-302-7965,262.55,BUILDING,pending express pending special slyly blithely slyly furiously
+63,Customer#000000063,450 Main St,3,69-805-411-7594,9369.43,HOUSEHOLD,regular special special regular express express pending
+64,Customer#000000064,985 Main St,21,83-701-121-5415,5338.72,BUILDING,silent regular express furiously regular slyly
+65,Customer#000000065,993 Main St,2,70-456-518-6460,2531.64,AUTOMOBILE,express carefully express furiously
+66,Customer#000000066,834 Main St,24,80-137-565-2442,2459.69,FURNITURE,furiously final silent
+67,Customer#000000067,2 Main St,21,79-573-523-1888,1063.41,FURNITURE,slyly blithely slyly unusual silent furiously regular
+68,Customer#000000068,716 Main St,15,25-129-745-4920,6807.61,FURNITURE,special final unusual quickly pending furiously blithely
+69,Customer#000000069,158 Main St,15,47-621-822-5479,3570.4,MACHINERY,unusual silent final furiously silent quickly
+70,Customer#000000070,885 Main St,2,45-891-908-7798,2738.63,HOUSEHOLD,slyly express express blithely furiously
+71,Customer#000000071,502 Main St,4,67-651-595-6654,2656.84,HOUSEHOLD,regular express unusual carefully silent unusual
+72,Customer#000000072,795 Main St,13,15-425-862-8749,6757.5,MACHINERY,furiously slyly blithely pending furiously pending
+73,Customer#000000073,989 Main St,18,52-990-202-8213,96.84,MACHINERY,carefully final blithely
+74,Customer#000000074,159 Main St,2,70-900-371-6546,5855.85,MACHINERY,special express carefully silent furiously blithely quickly regular
+75,Customer#000000075,555 Main St,1,89-170-340-5708,9971.68,AUTOMOBILE,furiously slyly carefully pending pending express
+76,Customer#000000076,30 Main St,1,51-915-157-5806,2943.1,MACHINERY,unusual final carefully unusual
+77,Customer#000000077,180 Main St,2,88-991-491-4945,4474.34,HOUSEHOLD,unusual blithely regular carefully
+78,Customer#000000078,921 Main St,14,46-793-659-3588,-187.51,FURNITURE,express furiously carefully regular express furiously quickly
+79,Customer#000000079,110 Main St,7,58-685-467-5847,9919.6,FURNITURE,furiously blithely express
+80,Customer#000000080,580 Main St,21,16-720-863-9138,8161.22,FURNITURE,blithely final blithely blithely
+81,Customer#000000081,695 Main St,24,94-797-958-3240,5910.73,AUTOMOBILE,slyly special final pending quickly
+82,Customer#000000082,335 Main St,23,63-279-305-3165,7651.64,FURNITURE,silent express pending quickly furiously furiously express
+83,Customer#000000083,892 Main St,10,24-579-177-3306,7295.66,BUILDING,carefully furiously furiously slyly final slyly special silent
+84,Customer#000000084,466 Main St,11,96-866-788-5295,5430.16,FURNITURE,carefully regular blithely
+85,Customer#000000085,966 Main St,17,51-724-326-2035,5989.44,MACHINERY,express final pending furiously express regular pending quickly
+86,Customer#000000086,139 Main St,12,68-479-786-9850,3610.4,BUILDING,blithely quickly blithely furiously express carefully
+87,Customer#000000087,223 Main St,14,66-341-975-6942,92.91,FURNITURE,quickly blithely special express furiously furiously slyly
+88,Customer#000000088,94 Main St,21,37-757-754-1349,-443.63,FURNITURE,furiously slyly unusual slyly
+89,Customer#000000089,568 Main St,6,85-321-932-4817,2614.16,BUILDING,special quickly pending pending express unusual blithely
+90,Customer#000000090,27 Main St,4,11-466-908-4898,5477.38,AUTOMOBILE,express pending regular pending
+91,Customer#000000091,66 Main St,15,67-896-470-9408,5530.32,MACHINERY,unusual blithely carefully quickly blithely express blithely
+92,Customer#000000092,32 Main St,1,71-967-511-7984,6547.07,MACHINERY,quickly special special blithely special express blithely silent
+93,Customer#000000093,333 Main St,12,86-643-401-8433,4561.06,MACHINERY,slyly pending blithely
+94,Customer#000000094,899 Main St,24,80-838-986-4522,3730.77,BUILDING,final regular final pending regular blithely
+95,Customer#000000095,384 Main St,4,97-585-168-2494,8149.48,AUTOMOBILE,pending carefully slyly silent blithely silent
+96,Customer#000000096,338 Main St,21,25-520-462-7929,8549.01,AUTOMOBILE,blithely final silent unusual blithely
+97,Customer#000000097,230 Main St,3,54-965-669-7022,263.75,FURNITURE,unusual regular silent slyly blithely carefully silent
+98,Customer#000000098,624 Main St,21,98-373-129-3955,2005.98,FURNITURE,final unusual pending blithely special
+99,Customer#000000099,759 Main St,20,13-193-864-9691,1366.47,MACHINERY,final final carefully slyly silent pending
+100,Customer#000000100,54 Main St,4,30-872-732-1815,6413.65,FURNITURE,blithely regular regular express slyly pending
+101,Customer#000000101,441 Main St,3,46-794-794-8972,4796.27,FURNITURE,unusual furiously special
+102,Customer#000000102,210 Main St,9,37-885-240-5186,2183.92,AUTOMOBILE,regular regular pending
+103,Customer#000000103,546 Main St,22,39-612-672-6802,-207.16,AUTOMOBILE,special furiously quickly silent silent carefully
+104,Customer#000000104,428 Main St,9,24-514-121-6321,890.61,HOUSEHOLD,slyly furiously pending quickly unusual blithely
+105,Customer#000000105,537 Main St,2,60-991-417-6562,1437.3,BUILDING,silent pending silent
+106,Customer#000000106,928 Main St,24,54-459-844-3419,1598.96,BUILDING,unusual blithely slyly blithely unusual
+107,Customer#000000107,792 Main St,20,73-575-872-8354,6492.46,HOUSEHOLD,blithely blithely quickly blithely pending special regular express
+108,Customer#000000108,282 Main St,18,17-460-619-2215,2414.49,MACHINERY,special slyly special
+109,Customer#000000109,885 Main St,2,88-708-619-7299,4089.83,HOUSEHOLD,quickly regular slyly blithely express regular pending special
+110,Customer#000000110,106 Main St,10,20-616-761-3827,-569.43,MACHINERY,silent blithely final furiously final slyly
+111,Customer#000000111,696 Main St,19,16-908-746-6482,-274.96,AUTOMOBILE,carefully express carefully blithely quickly quickly final
+112,Customer#000000112,597 Main St,21,28-458-417-7421,418.48,AUTOMOBILE,silent blithely express pending carefully
+113,Customer#000000113,970 Main St,23,97-639-195-7937,4593.37,AUTOMOBILE,express furiously final slyly unusual
+114,Customer#000000114,141 Main St,4,19-402-964-2657,4584.59,HOUSEHOLD,quickly special final slyly pending final pending slyly
+115,Customer#000000115,790 Main St,19,31-838-548-1715,3519.45,BUILDING,blithely slyly slyly unusual unusual furiously
+116,Customer#000000116,804 Main St,15,34-476-794-8218,4078.48,FURNITURE,silent regular pending unusual blithely quickly
+117,Customer#000000117,54 Main St,20,71-995-480-2680,6825.41,HOUSEHOLD,express slyly express
+118,Customer#000000118,928 Main St,16,28-950-547-2502,9410.54,BUILDING,quickly furiously final final final final
+119,Customer#000000119,84 Main St,11,38-128-426-2623,8230.93,FURNITURE,pending express slyly carefully
+120,Customer#000000120,143 Main St,24,70-559-730-1086,8964.42,AUTOMOBILE,unusual pending furiously blithely regular
+121,Customer#000000121,795 Main St,9,40-408-224-1782,1622.84,HOUSEHOLD,special quickly regular silent blithely silent
+122,Customer#000000122,736 Main St,4,47-539-101-6780,1646.21,MACHINERY,blithely pending furiously special
+123,Customer#000000123,539 Main St,17,74-905-619-1333,3294.99,MACHINERY,blithely furiously express
+124,Customer#000000124,17 Main St,11,18-453-346-2698,7486.51,FURNITURE,special silent slyly unusual
+125,Customer#000000125,798 Main St,21,69-812-590-3986,7926.47,AUTOMOBILE,slyly regular express special unusual special furiously silent
+126,Customer#000000126,835 Main St,17,70-359-137-4131,2147.22,AUTOMOBILE,express pending final quickly carefully quickly final furiously
+127,Customer#000000127,509 Main St,22,73-476-916-9507,1933.93,AUTOMOBILE,regular regular furiously unusual express pending express express
+128,Customer#000000128,457 Main St,19,64-270-806-8272,2867.02,AUTOMOBILE,quickly final furiously express furiously furiously special blithely
+129,Customer#000000129,373 Main St,16,96-263-131-3339,8335.36,MACHINERY,pending unusual blithely
+130,Customer#000000130,371 Main St,12,82-133-719-3513,6469.68,FURNITURE,regular special pending final express
+131,Customer#000000131,286 Main St,7,24-126-853-4048,4489.48,MACHINERY,pending slyly carefully unusual blithely carefully furiously
+132,Customer#000000132,205 Main St,3,27-973-175-8406,899.23,MACHINERY,slyly furiously furiously
+133,Customer#000000133,684 Main St,11,18-663-655-5757,8804.64,BUILDING,carefully carefully unusual final unusual furiously slyly unusual
+134,Customer#000000134,506 Main St,0,56-667-686-7044,4141.46,HOUSEHOLD,blithely pending express furiously
+135,Customer#000000135,737 Main St,15,77-520-887-7708,8056.73,AUTOMOBILE,furiously blithely regular carefully
+136,Customer#000000136,353 Main St,4,80-755-701-3981,7445.59,BUILDING,silent quickly slyly silent express pending
+137,Customer#000000137,958 Main St,22,38-454-631-5653,8305.26,FURNITURE,blithely silent pending express
+138,Customer#000000138,547 Main St,2,74-756-272-3526,883.21,HOUSEHOLD,quickly final furiously special quickly special furiously slyly
+139,Customer#000000139,272 Main St,20,36-885-685-7825,5799.19,AUTOMOBILE,quickly silent blithely express unusual slyly
+140,Customer#000000140,416 Main St,9,68-174-805-1981,738.89,MACHINERY,regular final pending quickly express furiously
+141,Customer#000000141,354 Main St,12,26-878-479-9437,5178.16,FURNITURE,regular express unusual pending
+142,Customer#000000142,298 Main St,12,88-528-354-3616,7948.25,HOUSEHOLD,express slyly regular silent regular express special furiously
+143,Customer#000000143,518 Main St,14,40-320-697-6781,-464.75,FURNITURE,blithely quickly carefully express special pending
+144,Customer#000000144,138 Main St,8,56-882-512-6995,-502.32,AUTOMOBILE,silent final express final regular silent slyly
+145,Customer#000000145,639 Main St,21,88-221-231-2584,3332.94,FURNITURE,furiously slyly unusual silent silent special pending
+146,Customer#000000146,342 Main St,15,76-567-252-9446,537.6,HOUSEHOLD,pending furiously carefully express final
+147,Customer#000000147,849 Main St,16,78-601-825-5911,4223.82,AUTOMOBILE,express pending final express quickly
+148,Customer#000000148,894 Main St,22,90-127-711-8775,1920.84,HOUSEHOLD,unusual special regular silent carefully slyly final
+149,Customer#000000149,842 Main St,21,41-132-686-2800,1098.63,MACHINERY,regular final unusual silent blithely
+150,Customer#000000150,483 Main St,23,17-822-241-9498,1280.76,FURNITURE,regular final furiously regular silent silent carefully quickly
+151,Customer#000000151,698 Main St,20,98-370-724-8932,1114.91,BUILDING,silent unusual furiously express express
+152,Customer#000000152,213 Main St,22,72-424-591-6714,5165.36,FURNITURE,pending carefully final furiously slyly
+153,Customer#000000153,978 Main St,24,28-397-143-5712,9508.44,AUTOMOBILE,furiously blithely carefully unusual slyly
+154,Customer#000000154,278 Main St,17,99-378-240-2789,5772.45,HOUSEHOLD,unusual carefully silent blithely
+155,Customer#000000155,54 Main St,3,62-438-834-8739,106.0,BUILDING,furiously furiously pending
+156,Customer#000000156,669 Main St,15,71-766-304-5706,2532.85,AUTOMOBILE,blithely unusual carefully
+157,Customer#000000157,871 Main St,1,32-527-957-3880,9273.14,AUTOMOBILE,slyly unusual carefully quickly express special
+158,Customer#000000158,306 Main St,18,87-209-443-5662,3997.84,HOUSEHOLD,regular furiously quickly regular unusual pending pending
+159,Customer#000000159,470 Main St,20,42-835-290-1230,7102.79,FURNITURE,carefully unusual blithely blithely final regular express
+160,Customer#000000160,411 Main St,21,22-289-243-8822,2559.62,BUILDING,express unusual slyly
+161,Customer#000000161,977 Main St,10,48-696-840-1187,1877.09,FURNITURE,unusual carefully regular pending carefully furiously quickly slyly
+162,Customer#000000162,707 Main St,3,91-402-476-4618,1410.42,BUILDING,pending carefully blithely final silent regular
+163,Customer#000000163,551 Main St,21,37-880-353-2341,4780.57,HOUSEHOLD,final furiously pending slyly quickly unusual silent pending
+164,Customer#000000164,875 Main St,16,66-219-796-4365,6886.09,MACHINERY,quickly regular special
+165,Customer#000000165,136 Main St,16,63-567-677-1945,5146.77,FURNITURE,special express special unusual special regular carefully silent
+166,Customer#000000166,62 Main St,2,70-132-393-7698,979.8,BUILDING,furiously blithely regular furiously final quickly quickly final
+167,Customer#000000167,700 Main St,21,79-236-769-6697,304.97,HOUSEHOLD,silent carefully unusual special special express
+168,Customer#000000168,690 Main St,23,79-534-644-7214,8056.96,BUILDING,final express furiously carefully pending slyly
+169,Customer#000000169,430 Main St,19,12-346-311-2102,109.87,AUTOMOBILE,blithely carefully special carefully final unusual
+170,Customer#000000170,223 Main St,24,17-243-615-5739,1575.78,HOUSEHOLD,silent slyly slyly unusual quickly
+171,Customer#000000171,677 Main St,16,38-523-407-5508,-329.46,HOUSEHOLD,quickly blithely regular regular furiously furiously carefully slyly
+172,Customer#000000172,327 Main St,22,63-518-252-5913,3141.06,HOUSEHOLD,unusual unusual quickly pending regular special
+173,Customer#000000173,423 Main St,13,81-642-237-7363,1671.45,BUILDING,blithely furiously quickly pending carefully
+174,Customer#000000174,196 Main St,1,44-486-789-1647,8609.82,BUILDING,carefully silent regular quickly express furiously special
+175,Customer#000000175,960 Main St,6,25-864-872-8846,9058.85,HOUSEHOLD,unusual quickly silent slyly final silent final express
+176,Customer#000000176,526 Main St,15,69-200-922-8692,7377.91,FURNITURE,final final silent unusual
+177,Customer#000000177,150 Main St,0,43-666-698-7841,2247.12,BUILDING,unusual silent unusual silent furiously
+178,Customer#000000178,346 Main St,8,72-840-757-9037,4069.12,FURNITURE,pending silent unusual quickly
+179,Customer#000000179,658 Main St,1,77-134-959-2217,9397.06,AUTOMOBILE,final quickly unusual
+180,Customer#000000180,725 Main St,4,11-323-617-8471,3105.21,HOUSEHOLD,carefully blithely regular regular special silent special silent
+181,Customer#000000181,282 Main St,17,46-117-614-8054,7867.84,BUILDING,furiously silent unusual
+182,Customer#000000182,635 Main St,16,42-934-462-5379,7744.29,AUTOMOBILE,furiously regular unusual carefully express
+183,Customer#000000183,848 Main St,2,93-978-765-1519,28.51,MACHINERY,silent special special unusual regular regular
+184,Customer#000000184,804 Main St,10,82-978-197-9653,9110.67,BUILDING,quickly carefully silent express
+185,Customer#000000185,947 Main St,2,97-387-656-1539,972.91,FURNITURE,furiously blithely slyly
+186,Customer#000000186,730 Main St,12,19-406-266-4939,5233.65,MACHINERY,quickly express slyly pending furiously carefully silent furiously
+187,Customer#000000187,55 Main St,3,65-337-958-2245,2746.52,HOUSEHOLD,final slyly special express furiously regular final
+188,Customer#000000188,964 Main St,12,65-290-796-7227,-57.36,HOUSEHOLD,slyly carefully special pending carefully
+189,Customer#000000189,650 Main St,4,59-424-469-2745,6.73,FURNITURE,final express pending unusual regular silent
+190,Customer#000000190,418 Main St,3,13-191-462-2524,5566.17,FURNITURE,special final slyly carefully silent furiously
+191,Customer#000000191,249 Main St,18,76-273-801-7237,864.53,FURNITURE,express pending unusual express express
+192,Customer#000000192,802 Main St,2,56-357-352-9123,5531.87,BUILDING,pending express furiously express blithely slyly
+193,Customer#000000193,338 Main St,14,52-540-935-3230,2304.79,HOUSEHOLD,unusual express furiously furiously express carefully regular silent
+194,Customer#000000194,249 Main St,10,58-387-936-7437,3015.17,HOUSEHOLD,blithely silent carefully silent
+195,Customer#000000195,976 Main St,23,69-825-314-8183,7774.53,AUTOMOBILE,carefully pending express express pending regular
+196,Customer#000000196,387 Main St,2,67-712-590-7566,4878.04,MACHINERY,special furiously carefully slyly blithely quickly pending
+197,Customer#000000197,255 Main St,21,95-463-270-1725,5195.42,MACHINERY,furiously regular special express silent
+198,Customer#000000198,532 Main St,17,84-804-689-4621,3903.57,MACHINERY,slyly blithely silent final special pending
+199,Customer#000000199,426 Main St,2,24-951-847-3321,2831.62,FURNITURE,slyly silent final pending carefully regular
+200,Customer#000000200,69 Main St,9,15-929-827-2885,-751.55,FURNITURE,pending slyly furiously carefully silent silent express regular
+201,Customer#000000201,474 Main St,7,61-744-288-4053,6045.26,MACHINERY,special blithely unusual blithely final carefully
+202,Customer#000000202,211 Main St,8,18-691-204-9796,1056.56,FURNITURE,regular express quickly silent
+203,Customer#000000203,655 Main St,10,86-497-725-7431,5457.05,FURNITURE,quickly blithely slyly carefully express
+204,Customer#000000204,630 Main St,18,20-788-237-6131,296.49,FURNITURE,unusual carefully silent
+205,Customer#000000205,429 Main St,19,27-688-492-7931,1043.3,HOUSEHOLD,furiously furiously unusual unusual express unusual quickly blithely
+206,Customer#000000206,887 Main St,11,11-596-239-4196,7967.37,HOUSEHOLD,blithely final regular carefully regular unusual silent
+207,Customer#000000207,815 Main St,24,38-399-133-5503,1473.28,FURNITURE,slyly silent slyly regular
+208,Customer#000000208,524 Main St,3,83-216-374-9898,8056.1,FURNITURE,slyly special carefully silent furiously pending slyly
+209,Customer#000000209,770 Main St,7,48-995-133-8368,1890.97,AUTOMOBILE,quickly pending slyly unusual carefully carefully
+210,Customer#000000210,882 Main St,22,88-747-538-3719,5777.66,BUILDING,slyly silent silent blithely
+211,Customer#000000211,173 Main St,10,47-396-686-5380,9476.36,HOUSEHOLD,slyly pending slyly final special express blithely carefully
+212,Customer#000000212,136 Main St,7,28-828-429-5055,7376.2,MACHINERY,pending blithely blithely final special slyly
+213,Customer#000000213,788 Main St,2,61-627-867-5558,6641.74,FURNITURE,furiously express special slyly carefully carefully
+214,Customer#000000214,470 Main St,20,95-814-466-2037,7752.45,MACHINERY,furiously slyly regular express
+215,Customer#000000215,291 Main St,10,80-691-233-8951,7671.33,AUTOMOBILE,pending slyly regular
+216,Customer#000000216,128 Main St,5,66-567-100-8009,1225.51,BUILDING,express quickly quickly pending final special blithely blithely
+217,Customer#000000217,54 Main St,12,90-412-843-4836,3721.54,AUTOMOBILE,pending unusual special blithely silent regular special final
+218,Customer#000000218,124 Main St,13,98-235-589-2160,1518.42,AUTOMOBILE,slyly pending final express final slyly quickly blithely
+219,Customer#000000219,694 Main St,4,18-643-676-1138,5713.51,BUILDING,final unusual carefully furiously blithely regular
+220,Customer#000000220,223 Main St,2,22-243-870-3017,5485.31,MACHINERY,furiously express pending express pending
+221,Customer#000000221,567 Main St,19,86-838-722-5668,7568.66,AUTOMOBILE,quickly unusual blithely unusual final blithely slyly slyly
+222,Customer#000000222,246 Main St,15,59-215-346-9185,6018.9,AUTOMOBILE,quickly special final express final quickly regular
+223,Customer#000000223,560 Main St,21,32-881-582-2195,-816.41,AUTOMOBILE,express special special
+224,Customer#000000224,809 Main St,12,74-393-743-9209,7438.2,MACHINERY,final blithely silent pending pending special furiously furiously
+225,Customer#000000225,160 Main St,17,51-500-700-2083,2411.87,MACHINERY,furiously unusual unusual furiously pending blithely special blithely
+226,Customer#000000226,674 Main St,23,32-222-112-3248,6716.49,BUILDING,furiously silent slyly carefully unusual pending
+227,Customer#000000227,800 Main St,8,25-889-130-6488,7878.18,FURNITURE,special carefully silent special regular final regular
+228,Customer#000000228,581 Main St,5,57-261-361-2685,8836.94,AUTOMOBILE,carefully special quickly special
+229,Customer#000000229,48 Main St,15,56-492-253-3932,9242.75,AUTOMOBILE,slyly carefully blithely unusual unusual quickly express
+230,Customer#000000230,846 Main St,2,83-481-222-9225,6406.58,AUTOMOBILE,unusual silent special final
+231,Customer#000000231,899 Main St,14,46-892-965-6090,2600.31,HOUSEHOLD,special unusual silent express blithely regular
+232,Customer#000000232,606 Main St,15,35-850-659-5016,656.24,MACHINERY,unusual final quickly
+233,Customer#000000233,899 Main St,0,52-101-877-7164,8339.06,FURNITURE,unusual furiously regular
+234,Customer#000000234,985 Main St,1,28-828-386-2524,-517.09,BUILDING,final quickly regular carefully silent silent blithely
+235,Customer#000000235,404 Main St,2,85-681-163-8126,6286.88,BUILDING,express quickly furiously final
+236,Customer#000000236,852 Main St,23,51-425-563-5455,1569.73,BUILDING,slyly blithely pending pending
+237,Customer#000000237,478 Main St,10,62-223-648-6870,9610.97,BUILDING,express express pending pending carefully slyly
+238,Customer#000000238,714 Main St,19,15-320-955-6370,631.57,BUILDING,final special express slyly unusual
+239,Customer#000000239,975 Main St,12,67-669-866-5093,41.99,AUTOMOBILE,pending special slyly unusual
+240,Customer#000000240,203 Main St,12,57-802-745-2376,5405.56,FURNITURE,special special quickly
+241,Customer#000000241,455 Main St,4,21-967-949-6432,347.81,MACHINERY,unusual silent slyly
+242,Customer#000000242,405 Main St,15,13-491-799-7990,900.89,BUILDING,express regular pending blithely
+243,Customer#000000243,632 Main St,7,92-402-610-7750,8710.56,MACHINERY,pending final regular
+244,Customer#000000244,659 Main St,16,41-745-921-9907,7743.3,MACHINERY,final silent regular quickly silent final unusual express
+245,Customer#000000245,225 Main St,0,45-159-928-8728,4823.75,HOUSEHOLD,furiously pending blithely express
+246,Customer#000000246,836 Main St,23,17-882-324-7363,2902.85,BUILDING,unusual express carefully final
+247,Customer#000000247,606 Main St,0,99-460-681-3328,5194.2,BUILDING,silent unusual special special blithely special
+248,Customer#000000248,490 Main St,0,52-728-306-3137,2748.35,BUILDING,special pending carefully pending pending
+249,Customer#000000249,539 Main St,11,19-482-821-7481,5446.18,FURNITURE,express furiously carefully regular blithely
+250,Customer#000000250,499 Main St,20,50-278-824-6846,1455.61,HOUSEHOLD,final carefully express unusual
+251,Customer#000000251,2 Main St,22,83-500-971-1530,1002.91,FURNITURE,unusual silent furiously pending carefully unusual furiously
+252,Customer#000000252,172 Main St,20,21-941-825-6500,3912.93,FURNITURE,unusual special express pending
+253,Customer#000000253,2 Main St,1,59-548-850-7875,9660.11,MACHINERY,quickly final final slyly slyly silent
+254,Customer#000000254,777 Main St,21,38-266-562-2207,7791.13,AUTOMOBILE,special express pending final quickly
+255,Customer#000000255,165 Main St,23,19-660-195-6536,5534.33,HOUSEHOLD,carefully regular blithely blithely regular special
+256,Customer#000000256,340 Main St,6,34-519-813-9849,1917.92,FURNITURE,unusual special silent quickly pending
+257,Customer#000000257,370 Main St,0,64-189-401-8869,1196.43,AUTOMOBILE,unusual express special quickly
+258,Customer#000000258,316 Main St,12,70-600-776-5341,2.51,HOUSEHOLD,unusual quickly final regular express regular
+259,Customer#000000259,232 Main St,8,82-163-254-2584,-57.21,FURNITURE,final slyly unusual special final silent furiously
+260,Customer#000000260,704 Main St,15,83-341-587-5896,-131.49,AUTOMOBILE,silent silent silent furiously pending furiously regular
+261,Customer#000000261,972 Main St,5,37-927-297-3067,-530.56,AUTOMOBILE,regular furiously blithely quickly express quickly quickly special
+262,Customer#000000262,398 Main St,17,60-665-433-5525,4716.57,AUTOMOBILE,blithely silent regular final pending blithely slyly furiously
+263,Customer#000000263,948 Main St,3,82-898-203-5687,8542.22,FURNITURE,express blithely silent regular unusual final
+264,Customer#000000264,634 Main St,19,97-810-511-1635,3353.72,FURNITURE,unusual carefully furiously quickly special slyly express express
+265,Customer#000000265,504 Main St,22,97-200-989-4734,478.25,MACHINERY,express regular blithely unusual unusual
+266,Customer#000000266,844 Main St,13,72-877-628-7126,8031.18,HOUSEHOLD,special carefully final slyly
+267,Customer#000000267,537 Main St,18,13-277-297-4288,8206.74,BUILDING,regular furiously carefully
+268,Customer#000000268,281 Main St,11,69-617-506-3029,6492.91,BUILDING,regular regular furiously regular silent
+269,Customer#000000269,353 Main St,5,43-866-950-2480,2135.77,MACHINERY,pending silent furiously
+270,Customer#000000270,878 Main St,7,92-330-793-4387,1959.92,MACHINERY,special slyly slyly special quickly blithely blithely
+271,Customer#000000271,9 Main St,7,42-722-924-6004,6840.14,FURNITURE,quickly quickly regular unusual express silent
+272,Customer#000000272,639 Main St,12,84-204-107-9380,9993.71,FURNITURE,blithely blithely express pending special furiously blithely
+273,Customer#000000273,883 Main St,8,43-771-828-5895,1071.97,HOUSEHOLD,quickly slyly slyly blithely
+274,Customer#000000274,677 Main St,10,97-243-838-1417,6209.4,FURNITURE,quickly final carefully silent furiously
+275,Customer#000000275,836 Main St,6,53-843-830-4643,6549.5,MACHINERY,final express unusual blithely silent express regular carefully
+276,Customer#000000276,743 Main St,17,33-796-443-2463,1444.79,BUILDING,quickly regular quickly final blithely regular pending special
+277,Customer#000000277,650 Main St,18,84-735-172-8736,8783.68,HOUSEHOLD,quickly final express
+278,Customer#000000278,56 Main St,4,27-305-450-7704,9859.1,MACHINERY,express carefully slyly regular
+279,Customer#000000279,647 Main St,5,50-749-159-1077,3972.59,BUILDING,silent pending slyly slyly
+280,Customer#000000280,133 Main St,19,65-748-539-7609,3719.28,MACHINERY,special silent carefully furiously quickly slyly
+281,Customer#000000281,544 Main St,6,12-792-104-5076,1488.93,FURNITURE,pending final blithely unusual slyly
+282,Customer#000000282,306 Main St,9,68-845-632-9587,2716.19,BUILDING,furiously regular slyly pending quickly
+283,Customer#000000283,832 Main St,12,12-333-329-3149,1323.1,AUTOMOBILE,silent pending carefully slyly final blithely slyly
+284,Customer#000000284,639 Main St,1,86-149-777-2771,6189.24,AUTOMOBILE,carefully regular final
+285,Customer#000000285,561 Main St,8,70-818-256-4366,6647.11,AUTOMOBILE,regular pending silent blithely carefully
+286,Customer#000000286,429 Main St,3,75-836-732-2928,2109.78,AUTOMOBILE,unusual unusual express silent unusual carefully
+287,Customer#000000287,303 Main St,5,15-661-608-4402,6570.24,MACHINERY,unusual special pending pending silent
+288,Customer#000000288,506 Main St,4,21-898-623-2229,6959.2,AUTOMOBILE,blithely regular furiously express special
+289,Customer#000000289,833 Main St,5,15-972-397-6901,7817.55,FURNITURE,carefully pending slyly special quickly blithely
+290,Customer#000000290,175 Main St,10,55-548-736-5395,8663.22,AUTOMOBILE,slyly unusual final furiously express
+291,Customer#000000291,395 Main St,22,71-919-531-3732,243.63,AUTOMOBILE,pending quickly regular silent
+292,Customer#000000292,449 Main St,5,88-488-897-6875,5724.94,BUILDING,furiously pending final special express express
+293,Customer#000000293,722 Main St,21,77-885-861-4669,9756.84,FURNITURE,silent carefully pending blithely unusual final carefully
+294,Customer#000000294,395 Main St,4,81-727-155-1190,6077.38,BUILDING,quickly quickly quickly special regular unusual furiously
+295,Customer#000000295,52 Main St,16,38-663-758-7203,3436.05,BUILDING,regular slyly regular
+296,Customer#000000296,878 Main St,15,67-423-221-9148,7197.62,AUTOMOBILE,final special silent
+297,Customer#000000297,846 Main St,2,87-733-752-5990,8791.21,HOUSEHOLD,blithely regular final slyly
+298,Customer#000000298,837 Main St,7,68-439-673-8751,6883.23,FURNITURE,regular pending blithely special final blithely slyly silent
+299,Customer#000000299,383 Main St,22,23-146-268-9067,544.95,MACHINERY,express unusual pending
+300,Customer#000000300,873 Main St,12,37-568-944-4122,6884.66,AUTOMOBILE,special blithely carefully pending quickly regular
+301,Customer#000000301,604 Main St,16,27-610-104-9689,7098.35,HOUSEHOLD,quickly regular silent furiously unusual silent
+302,Customer#000000302,749 Main St,4,23-496-773-6273,4545.21,MACHINERY,furiously quickly slyly express furiously furiously
+303,Customer#000000303,464 Main St,4,27-522-716-9393,2288.05,HOUSEHOLD,carefully furiously blithely unusual blithely
+304,Customer#000000304,298 Main St,21,54-788-235-3913,4542.83,FURNITURE,pending final regular silent carefully regular carefully quickly
+305,Customer#000000305,293 Main St,13,11-635-209-1414,3189.58,AUTOMOBILE,special express slyly furiously carefully pending special slyly
+306,Customer#000000306,209 Main St,24,79-133-467-8415,127.29,HOUSEHOLD,carefully silent unusual slyly
+307,Customer#000000307,818 Main St,22,46-809-780-1769,9191.32,MACHINERY,furiously furiously express silent special express
+308,Customer#000000308,636 Main St,24,66-949-330-7025,7306.18,HOUSEHOLD,blithely slyly furiously express unusual carefully unusual unusual
+309,Customer#000000309,527 Main St,3,58-141-538-5572,5122.58,BUILDING,blithely express express carefully
+310,Customer#000000310,159 Main St,1,29-430-711-1833,7510.26,HOUSEHOLD,express slyly silent special carefully silent furiously silent
+311,Customer#000000311,806 Main St,16,30-525-656-9798,3437.59,FURNITURE,quickly blithely express express
+312,Customer#000000312,974 Main St,24,89-643-586-1144,261.95,FURNITURE,unusual blithely furiously unusual special quickly
+313,Customer#000000313,391 Main St,3,59-362-653-5633,-728.23,HOUSEHOLD,silent silent regular express blithely
+314,Customer#000000314,329 Main St,16,20-198-271-9814,4865.26,AUTOMOBILE,carefully slyly quickly regular
+315,Customer#000000315,107 Main St,6,78-948-819-8130,6112.17,AUTOMOBILE,carefully special carefully special special unusual express special
+316,Customer#000000316,842 Main St,7,43-517-497-8391,5932.39,MACHINERY,special carefully silent blithely blithely
+317,Customer#000000317,775 Main St,23,84-146-817-2189,2934.7,HOUSEHOLD,express carefully blithely
+318,Customer#000000318,289 Main St,24,66-490-504-1504,4213.86,HOUSEHOLD,pending final slyly silent
+319,Customer#000000319,984 Main St,20,28-405-793-7113,9531.3,AUTOMOBILE,quickly pending special silent final silent pending
+320,Customer#000000320,216 Main St,23,54-316-522-9397,567.01,BUILDING,blithely express pending carefully
+321,Customer#000000321,581 Main St,1,80-572-760-2198,2197.18,AUTOMOBILE,pending carefully regular express pending
+322,Customer#000000322,672 Main St,7,22-391-734-2143,8901.3,FURNITURE,regular blithely express blithely silent final
+323,Customer#000000323,324 Main St,13,31-104-420-5033,7642.26,MACHINERY,quickly pending carefully quickly regular
+324,Customer#000000324,368 Main St,24,49-598-664-2783,933.48,HOUSEHOLD,quickly quickly pending
+325,Customer#000000325,552 Main St,6,43-851-741-2252,7001.67,AUTOMOBILE,blithely slyly silent slyly unusual special express
+326,Customer#000000326,916 Main St,17,70-769-893-3435,3024.01,BUILDING,carefully express regular silent final silent blithely
+327,Customer#000000327,869 Main St,19,97-269-875-9423,544.08,BUILDING,silent silent quickly pending
+328,Customer#000000328,750 Main St,15,55-141-324-8989,1549.25,FURNITURE,unusual carefully silent slyly final
+329,Customer#000000329,940 Main St,14,15-140-764-6309,135.48,HOUSEHOLD,slyly quickly express silent unusual blithely final blithely
+330,Customer#000000330,856 Main St,2,76-357-485-4651,4680.09,FURNITURE,regular regular blithely silent pending
+331,Customer#000000331,170 Main St,7,19-626-758-5600,1326.69,BUILDING,final carefully pending unusual
+332,Customer#000000332,831 Main St,10,24-593-791-8844,4269.23,HOUSEHOLD,blithely final unusual pending
+333,Customer#000000333,607 Main St,5,27-744-624-1642,8798.77,BUILDING,pending furiously silent
+334,Customer#000000334,416 Main St,19,82-752-119-5644,9419.78,BUILDING,blithely regular regular unusual final pending
+335,Customer#000000335,597 Main St,24,33-738-775-9369,1909.73,FURNITURE,blithely special final pending special silent
+336,Customer#000000336,932 Main St,16,97-529-946-3450,5660.62,BUILDING,quickly blithely quickly silent slyly pending
+337,Customer#000000337,676 Main St,4,87-652-947-1019,8866.65,MACHINERY,regular quickly carefully regular furiously regular slyly
+338,Customer#000000338,359 Main St,18,99-689-200-7971,472.72,MACHINERY,quickly pending blithely silent
+339,Customer#000000339,264 Main St,6,10-826-861-1116,5357.86,AUTOMOBILE,special blithely carefully express final pending blithely
+340,Customer#000000340,260 Main St,8,78-533-678-6990,5730.69,MACHINERY,final slyly regular final
+341,Customer#000000341,569 Main St,15,42-414-691-6641,7516.13,MACHINERY,pending quickly pending unusual slyly furiously pending silent
+342,Customer#000000342,805 Main St,10,80-728-813-1852,768.12,AUTOMOBILE,slyly regular blithely
+343,Customer#000000343,91 Main St,2,43-327-479-2311,5699.32,MACHINERY,blithely silent carefully blithely furiously slyly
+344,Customer#000000344,656 Main St,15,66-110-306-9489,2146.08,AUTOMOBILE,silent carefully blithely carefully final blithely furiously
+345,Customer#000000345,89 Main St,8,61-461-785-7474,3459.96,BUILDING,special carefully furiously silent carefully silent silent
+346,Customer#000000346,356 Main St,8,38-720-299-8450,9226.84,HOUSEHOLD,express final pending
+347,Customer#000000347,75 Main St,16,47-448-219-9409,9523.79,HOUSEHOLD,express regular final regular unusual final slyly
+348,Customer#000000348,698 Main St,14,85-982-128-8896,278.96,AUTOMOBILE,blithely furiously carefully unusual express furiously
+349,Customer#000000349,529 Main St,17,11-817-952-5314,1730.84,AUTOMOBILE,carefully slyly special furiously regular final
+350,Customer#000000350,916 Main St,18,44-287-864-4115,4488.99,BUILDING,carefully quickly unusual unusual
+351,Customer#000000351,256 Main St,19,55-259-897-2747,318.67,AUTOMOBILE,furiously regular special quickly furiously quickly final express
+352,Customer#000000352,920 Main St,18,45-602-287-9374,2082.94,BUILDING,pending silent regular furiously special final quickly
+353,Customer#000000353,795 Main St,5,68-223-815-9490,4060.78,AUTOMOBILE,carefully final pending
+354,Customer#000000354,371 Main St,19,43-291-661-5306,1608.54,MACHINERY,final unusual regular regular slyly final final
+355,Customer#000000355,462 Main St,5,83-234-689-4744,7956.09,FURNITURE,silent quickly unusual slyly
+356,Customer#000000356,757 Main St,4,70-925-109-3893,3636.73,BUILDING,silent carefully slyly express silent silent final carefully
+357,Customer#000000357,62 Main St,6,42-587-959-2577,3948.4,FURNITURE,final silent furiously express special
+358,Customer#000000358,125 Main St,11,96-720-303-9821,919.93,FURNITURE,express silent slyly regular special
+359,Customer#000000359,629 Main St,9,69-746-248-3745,6046.38,FURNITURE,blithely silent quickly special pending unusual
+360,Customer#000000360,325 Main St,20,47-827-373-7479,1983.73,MACHINERY,carefully silent regular unusual quickly
+361,Customer#000000361,129 Main St,23,40-777-357-2311,1316.29,MACHINERY,pending furiously regular
+362,Customer#000000362,56 Main St,0,60-636-883-2363,143.22,HOUSEHOLD,pending furiously final unusual
+363,Customer#000000363,756 Main St,9,66-741-229-3150,4794.17,BUILDING,special final quickly
+364,Customer#000000364,885 Main St,15,69-991-653-5463,5034.0,BUILDING,silent blithely regular carefully quickly regular blithely silent
+365,Customer#000000365,931 Main St,11,71-652-332-2467,3860.46,FURNITURE,express express special slyly quickly final
+366,Customer#000000366,481 Main St,17,11-804-603-8816,2295.72,MACHINERY,blithely slyly silent unusual quickly
+367,Customer#000000367,448 Main St,12,41-267-832-7385,8112.69,BUILDING,special blithely silent slyly blithely
+368,Customer#000000368,711 Main St,21,44-391-764-9715,7896.89,MACHINERY,quickly unusual express blithely
+369,Customer#000000369,633 Main St,14,44-817-737-9060,1065.69,AUTOMOBILE,special silent unusual pending
+370,Customer#000000370,276 Main St,4,66-844-108-4814,-7.82,AUTOMOBILE,unusual regular slyly regular final carefully
+371,Customer#000000371,33 Main St,10,20-963-868-3393,-383.57,MACHINERY,silent unusual quickly
+372,Customer#000000372,257 Main St,12,11-224-886-5078,3232.78,MACHINERY,carefully special regular slyly
+373,Customer#000000373,534 Main St,21,36-584-498-6113,9298.36,BUILDING,carefully carefully silent pending regular express final special
+374,Customer#000000374,683 Main St,6,24-341-748-8113,2569.65,BUILDING,blithely final unusual furiously silent
+375,Customer#000000375,708 Main St,15,98-710-258-7084,7478.76,BUILDING,regular carefully final furiously
+376,Customer#000000376,778 Main St,20,17-161-464-3521,6714.61,AUTOMOBILE,regular express silent blithely
+377,Customer#000000377,356 Main St,14,34-121-805-7189,2939.85,BUILDING,quickly regular regular express carefully
+378,Customer#000000378,195 Main St,18,33-656-456-6303,7056.42,FURNITURE,quickly silent special pending express express final
+379,Customer#000000379,1 Main St,24,91-618-488-4039,8712.25,HOUSEHOLD,slyly unusual carefully blithely silent
+380,Customer#000000380,397 Main St,6,77-799-609-3525,5743.43,FURNITURE,blithely pending silent special quickly pending
+381,Customer#000000381,895 Main St,1,35-209-597-4139,86.3,HOUSEHOLD,quickly blithely silent carefully express final blithely special
+382,Customer#000000382,953 Main St,6,93-603-952-2310,4148.65,AUTOMOBILE,silent furiously final final carefully
+383,Customer#000000383,844 Main St,19,44-641-141-2153,8179.01,AUTOMOBILE,furiously pending carefully silent
+384,Customer#000000384,195 Main St,6,77-772-354-3931,5142.66,HOUSEHOLD,carefully slyly silent carefully carefully regular
+385,Customer#000000385,107 Main St,5,33-663-511-9268,2712.64,BUILDING,furiously regular final express furiously express final
+386,Customer#000000386,783 Main St,20,65-945-843-6299,5692.54,HOUSEHOLD,unusual slyly furiously express furiously regular final
+387,Customer#000000387,744 Main St,1,46-710-116-9480,485.95,FURNITURE,express unusual quickly
+388,Customer#000000388,23 Main St,24,98-942-382-9376,5119.55,HOUSEHOLD,pending regular pending express
+389,Customer#000000389,911 Main St,18,41-338-362-5920,10.96,MACHINERY,furiously carefully carefully slyly unusual slyly carefully
+390,Customer#000000390,591 Main St,3,86-757-407-1612,7038.68,HOUSEHOLD,special special slyly final slyly final
+391,Customer#000000391,889 Main St,3,39-865-768-1187,5972.76,MACHINERY,express special silent
+392,Customer#000000392,154 Main St,10,74-814-326-3509,-444.27,MACHINERY,slyly silent pending regular slyly pending
+393,Customer#000000393,345 Main St,2,70-685-863-1807,5029.68,FURNITURE,final regular carefully
+394,Customer#000000394,781 Main St,4,71-672-302-8993,3348.51,HOUSEHOLD,silent furiously silent unusual
+395,Customer#000000395,273 Main St,24,65-431-801-2467,237.84,MACHINERY,final unusual final blithely slyly unusual
+396,Customer#000000396,359 Main St,19,66-738-249-8216,-506.34,BUILDING,carefully pending carefully pending
+397,Customer#000000397,758 Main St,1,41-735-251-5713,-848.92,AUTOMOBILE,regular special unusual silent unusual
+398,Customer#000000398,536 Main St,24,43-661-594-3315,6645.78,AUTOMOBILE,silent blithely special unusual express slyly
+399,Customer#000000399,633 Main St,8,16-576-770-1136,-267.42,FURNITURE,quickly blithely quickly special quickly blithely unusual final
+400,Customer#000000400,727 Main St,3,50-596-987-9709,-31.76,BUILDING,furiously silent carefully special furiously express regular
+401,Customer#000000401,763 Main St,5,12-455-800-6765,2909.16,FURNITURE,furiously furiously express special
+402,Customer#000000402,264 Main St,12,13-668-386-4695,668.8,MACHINERY,pending carefully silent carefully quickly carefully regular silent
+403,Customer#000000403,437 Main St,9,87-437-559-9883,449.5,BUILDING,silent slyly quickly express carefully silent pending
+404,Customer#000000404,931 Main St,24,28-771-678-3589,2492.46,HOUSEHOLD,furiously pending express quickly carefully slyly quickly
+405,Customer#000000405,424 Main St,13,48-553-863-5485,671.53,BUILDING,pending special furiously
+406,Customer#000000406,632 Main St,8,87-680-727-4783,5559.97,BUILDING,special special slyly pending quickly regular blithely unusual
+407,Customer#000000407,397 Main St,15,70-240-267-4166,1489.01,MACHINERY,furiously furiously unusual
+408,Customer#000000408,688 Main St,6,36-167-281-8197,8538.41,MACHINERY,express regular unusual final special carefully final express
+409,Customer#000000409,627 Main St,23,83-708-649-9605,6055.33,AUTOMOBILE,pending regular quickly quickly unusual silent furiously
+410,Customer#000000410,41 Main St,17,59-628-883-1807,1088.36,MACHINERY,quickly slyly express pending express furiously
+411,Customer#000000411,707 Main St,16,28-574-949-8400,-5.14,HOUSEHOLD,unusual blithely quickly
+412,Customer#000000412,560 Main St,4,60-523-431-8387,-725.96,MACHINERY,quickly quickly quickly pending express blithely carefully
+413,Customer#000000413,168 Main St,22,25-193-216-8362,5974.79,AUTOMOBILE,carefully carefully furiously blithely pending silent special
+414,Customer#000000414,175 Main St,10,82-992-775-3459,783.37,BUILDING,slyly special express carefully
+415,Customer#000000415,985 Main St,14,46-741-285-2926,8883.95,BUILDING,blithely express regular
+416,Customer#000000416,876 Main St,15,79-926-105-9084,1616.67,HOUSEHOLD,regular final special blithely unusual silent blithely silent
+417,Customer#000000417,846 Main St,6,16-289-251-1902,6186.04,AUTOMOBILE,quickly carefully quickly express
+418,Customer#000000418,943 Main St,2,16-211-526-3920,774.69,FURNITURE,blithely carefully silent silent furiously carefully final
+419,Customer#000000419,37 Main St,2,48-430-477-7208,8022.91,MACHINERY,special regular pending quickly express final unusual
+420,Customer#000000420,215 Main St,19,17-211-685-9666,9859.07,MACHINERY,carefully furiously furiously express blithely express silent furiously
+421,Customer#000000421,363 Main St,4,88-676-608-9514,7021.03,MACHINERY,slyly quickly unusual express unusual pending
+422,Customer#000000422,477 Main St,20,25-855-968-4396,7795.2,MACHINERY,special final slyly unusual blithely carefully
+423,Customer#000000423,261 Main St,2,49-407-618-6307,7437.35,AUTOMOBILE,express final silent furiously slyly unusual quickly furiously
+424,Customer#000000424,491 Main St,15,14-761-239-8888,709.26,MACHINERY,quickly regular slyly furiously special silent silent
+425,Customer#000000425,695 Main St,10,81-648-119-4412,5351.37,FURNITURE,special pending quickly final final
+426,Customer#000000426,548 Main St,5,83-720-498-4070,5547.11,FURNITURE,quickly carefully express pending quickly final slyly express
+427,Customer#000000427,538 Main St,9,32-214-483-1612,7555.69,AUTOMOBILE,silent slyly quickly pending final regular
+428,Customer#000000428,895 Main St,16,49-894-435-3347,7464.29,AUTOMOBILE,carefully pending carefully regular carefully silent special
+429,Customer#000000429,955 Main St,1,97-968-708-2426,2666.19,AUTOMOBILE,silent blithely express
+430,Customer#000000430,592 Main St,24,49-754-314-6257,1206.12,FURNITURE,silent slyly carefully express pending
+431,Customer#000000431,118 Main St,0,89-673-626-2677,1272.36,FURNITURE,express pending carefully express unusual special blithely
+432,Customer#000000432,347 Main St,17,66-151-233-1475,4178.09,AUTOMOBILE,final pending final
+433,Customer#000000433,722 Main St,19,85-744-956-8304,5779.47,FURNITURE,slyly carefully carefully silent furiously
+434,Customer#000000434,774 Main St,24,69-681-234-2522,7941.35,MACHINERY,regular carefully carefully
+435,Customer#000000435,477 Main St,15,39-329-247-5227,9041.47,MACHINERY,carefully blithely slyly quickly
+436,Customer#000000436,465 Main St,15,13-166-586-2849,2865.85,MACHINERY,express final silent silent
+437,Customer#000000437,416 Main St,22,23-433-669-2162,7716.73,HOUSEHOLD,final final blithely silent furiously final
+438,Customer#000000438,349 Main St,6,98-705-541-8132,5239.32,FURNITURE,carefully unusual carefully carefully carefully quickly pending
+439,Customer#000000439,611 Main St,14,51-668-199-8294,937.92,MACHINERY,blithely carefully blithely
+440,Customer#000000440,840 Main St,12,51-606-760-2007,-4.13,BUILDING,quickly blithely special pending pending silent final
+441,Customer#000000441,592 Main St,14,35-310-797-6187,2297.09,FURNITURE,carefully quickly furiously silent blithely silent
+442,Customer#000000442,868 Main St,4,47-163-478-9992,9646.89,AUTOMOBILE,silent furiously pending express special regular blithely blithely
+443,Customer#000000443,729 Main St,12,61-490-545-9931,1323.38,BUILDING,pending silent quickly final regular express
+444,Customer#000000444,894 Main St,21,26-237-111-2175,6132.28,BUILDING,quickly blithely furiously pending pending slyly quickly quickly
+445,Customer#000000445,713 Main St,19,64-738-284-8444,4603.56,HOUSEHOLD,final unusual regular special regular carefully
+446,Customer#000000446,730 Main St,16,44-520-659-7012,-631.91,AUTOMOBILE,regular final silent furiously special carefully silent
+447,Customer#000000447,880 Main St,24,45-576-629-2281,4756.92,HOUSEHOLD,unusual blithely blithely
+448,Customer#000000448,685 Main St,2,97-748-652-6119,5743.43,FURNITURE,slyly regular silent regular carefully regular furiously
+449,Customer#000000449,818 Main St,9,47-271-136-5981,6996.68,HOUSEHOLD,special regular unusual special furiously
+450,Customer#000000450,829 Main St,23,89-127-393-8942,-92.38,HOUSEHOLD,quickly express pending
+451,Customer#000000451,288 Main St,8,42-114-859-2827,5642.03,HOUSEHOLD,pending regular slyly express carefully regular slyly quickly
+452,Customer#000000452,352 Main St,2,28-709-941-3525,8213.75,MACHINERY,unusual regular blithely unusual carefully final
+453,Customer#000000453,658 Main St,8,24-153-271-8602,3386.19,FURNITURE,carefully slyly silent final carefully regular
+454,Customer#000000454,149 Main St,16,65-112-395-8353,3202.05,FURNITURE,carefully special furiously blithely furiously regular furiously
+455,Customer#000000455,879 Main St,8,52-376-373-2610,1808.79,HOUSEHOLD,regular carefully unusual carefully slyly silent
+456,Customer#000000456,694 Main St,22,33-420-660-1173,6400.82,AUTOMOBILE,final silent carefully
+457,Customer#000000457,360 Main St,7,46-357-297-1557,-739.29,AUTOMOBILE,furiously blithely quickly
+458,Customer#000000458,974 Main St,19,91-224-825-2965,-49.74,HOUSEHOLD,final slyly blithely slyly
+459,Customer#000000459,190 Main St,3,99-288-359-5826,4136.51,AUTOMOBILE,regular furiously slyly carefully carefully slyly express slyly
+460,Customer#000000460,284 Main St,24,17-491-497-6450,9955.53,FURNITURE,unusual special furiously unusual final
+461,Customer#000000461,661 Main St,15,23-247-653-8065,1402.26,AUTOMOBILE,carefully pending special silent express regular
+462,Customer#000000462,919 Main St,15,29-768-755-1014,9261.82,MACHINERY,pending express final special carefully
+463,Customer#000000463,790 Main St,15,71-546-513-2148,4941.42,AUTOMOBILE,furiously slyly regular silent furiously final
+464,Customer#000000464,699 Main St,9,61-156-747-2485,3018.91,FURNITURE,quickly slyly express
+465,Customer#000000465,208 Main St,5,80-140-493-4129,2287.58,MACHINERY,blithely final pending
+466,Customer#000000466,648 Main St,14,34-243-136-4163,-720.98,HOUSEHOLD,regular special silent express
+467,Customer#000000467,547 Main St,14,12-137-447-1918,2714.91,AUTOMOBILE,pending slyly carefully regular carefully quickly
+468,Customer#000000468,153 Main St,23,84-338-173-1604,7090.05,MACHINERY,special quickly blithely unusual blithely special blithely quickly
+469,Customer#000000469,841 Main St,3,68-725-274-2047,7995.8,AUTOMOBILE,regular slyly unusual
+470,Customer#000000470,824 Main St,6,64-445-930-7586,2566.59,HOUSEHOLD,pending quickly slyly slyly blithely final pending
+471,Customer#000000471,145 Main St,24,63-272-813-7060,5087.48,MACHINERY,furiously special pending quickly
+472,Customer#000000472,628 Main St,12,30-116-598-2322,-930.14,BUILDING,carefully blithely express
+473,Customer#000000473,711 Main St,24,70-808-229-4377,573.97,FURNITURE,regular unusual unusual carefully blithely carefully blithely
+474,Customer#000000474,91 Main St,20,48-456-528-1074,5134.81,BUILDING,furiously furiously blithely
+475,Customer#000000475,884 Main St,24,79-619-324-8605,7473.64,BUILDING,special pending pending quickly quickly
+476,Customer#000000476,510 Main St,5,30-786-144-1885,6093.47,FURNITURE,regular final slyly slyly
+477,Customer#000000477,45 Main St,3,16-650-280-3589,7640.41,MACHINERY,pending quickly carefully blithely express unusual carefully
+478,Customer#000000478,334 Main St,7,24-433-333-2606,1608.31,MACHINERY,final unusual regular regular
+479,Customer#000000479,912 Main St,13,28-321-724-8454,958.67,FURNITURE,regular unusual final express
+480,Customer#000000480,344 Main St,4,14-808-682-1977,2086.65,AUTOMOBILE,regular unusual final quickly blithely slyly
+481,Customer#000000481,654 Main St,19,31-691-666-4763,-48.77,HOUSEHOLD,quickly unusual regular regular special regular
+482,Customer#000000482,894 Main St,7,41-435-544-4643,8810.04,HOUSEHOLD,quickly quickly regular special
+483,Customer#000000483,482 Main St,23,74-134-535-9701,3337.52,AUTOMOBILE,regular special slyly carefully final unusual
+484,Customer#000000484,368 Main St,9,40-763-192-1260,4277.61,FURNITURE,carefully quickly carefully special
+485,Customer#000000485,466 Main St,14,27-995-820-7641,1034.41,FURNITURE,regular blithely quickly special quickly express special regular
+486,Customer#000000486,277 Main St,22,88-655-689-4393,7664.6,AUTOMOBILE,quickly carefully special furiously carefully quickly pending
+487,Customer#000000487,375 Main St,14,89-141-474-7003,927.95,HOUSEHOLD,special carefully unusual furiously unusual pending regular furiously
+488,Customer#000000488,595 Main St,22,36-871-862-4693,2525.11,FURNITURE,carefully express special final regular silent pending
+489,Customer#000000489,727 Main St,17,96-945-645-5788,3971.76,FURNITURE,furiously slyly furiously special quickly regular special quickly
+490,Customer#000000490,296 Main St,2,23-268-382-2835,6667.9,MACHINERY,quickly silent blithely express
+491,Customer#000000491,993 Main St,21,79-235-585-6680,3621.43,AUTOMOBILE,unusual special slyly quickly silent
+492,Customer#000000492,344 Main St,13,84-451-771-6346,4347.63,HOUSEHOLD,regular express pending slyly unusual express regular
+493,Customer#000000493,995 Main St,9,16-251-461-5659,4015.19,BUILDING,furiously carefully express furiously quickly carefully blithely
+494,Customer#000000494,158 Main St,5,40-219-142-6187,5319.78,MACHINERY,final unusual carefully blithely furiously
+495,Customer#000000495,152 Main St,11,67-652-266-9743,2317.16,AUTOMOBILE,furiously slyly furiously furiously pending furiously
+496,Customer#000000496,560 Main St,16,52-762-822-5842,4213.02,FURNITURE,carefully slyly carefully furiously final pending regular
+497,Customer#000000497,42 Main St,4,96-664-219-6047,-727.24,HOUSEHOLD,regular pending special blithely
+498,Customer#000000498,598 Main St,16,38-900-885-5553,1152.88,AUTOMOBILE,quickly carefully furiously furiously final regular blithely
+499,Customer#000000499,524 Main St,1,95-469-507-3423,6875.6,MACHINERY,final special final express regular
+500,Customer#000000500,575 Main St,2,37-845-554-7809,7840.53,FURNITURE,slyly furiously regular quickly
+501,Customer#000000501,143 Main St,18,86-188-247-4404,2335.55,HOUSEHOLD,special furiously slyly pending final
+502,Customer#000000502,937 Main St,8,63-279-669-8571,6812.71,BUILDING,unusual final silent special
+503,Customer#000000503,847 Main St,9,84-411-605-8593,1469.73,AUTOMOBILE,express furiously quickly regular
+504,Customer#000000504,670 Main St,21,46-527-283-9059,8974.72,BUILDING,pending express furiously
+505,Customer#000000505,69 Main St,19,56-695-592-8144,8551.8,MACHINERY,slyly final carefully special express silent pending regular
+506,Customer#000000506,710 Main St,4,55-267-154-5467,2972.8,FURNITURE,express silent furiously
+507,Customer#000000507,527 Main St,6,90-287-883-2548,5586.39,BUILDING,express express quickly slyly express carefully final
+508,Customer#000000508,548 Main St,18,55-943-247-1211,506.45,FURNITURE,slyly final furiously pending unusual
+509,Customer#000000509,516 Main St,7,34-914-672-9612,8306.76,HOUSEHOLD,slyly pending regular special slyly furiously regular express
+510,Customer#000000510,372 Main St,4,66-711-635-6604,894.29,FURNITURE,carefully pending pending
+511,Customer#000000511,711 Main St,4,98-332-414-3053,1308.26,AUTOMOBILE,carefully slyly special slyly slyly special
+512,Customer#000000512,111 Main St,1,94-625-707-1971,4159.91,FURNITURE,special carefully slyly
+513,Customer#000000513,802 Main St,3,87-310-701-4277,1032.61,FURNITURE,pending quickly furiously
+514,Customer#000000514,972 Main St,18,54-460-264-9202,7588.82,HOUSEHOLD,silent special slyly slyly
+515,Customer#000000515,542 Main St,6,34-388-275-9800,-952.37,AUTOMOBILE,furiously quickly regular carefully
+516,Customer#000000516,190 Main St,14,96-209-285-6813,9794.3,MACHINERY,silent final slyly express
+517,Customer#000000517,478 Main St,3,76-239-607-6918,6752.04,HOUSEHOLD,special express pending express blithely express furiously regular
+518,Customer#000000518,568 Main St,13,47-975-538-4093,8424.5,MACHINERY,final special carefully carefully final silent carefully pending
+519,Customer#000000519,405 Main St,12,98-704-204-3764,-288.18,BUILDING,unusual quickly final unusual regular
+520,Customer#000000520,512 Main St,8,84-707-379-7557,2917.07,HOUSEHOLD,furiously silent pending regular pending regular
+521,Customer#000000521,237 Main St,20,27-130-201-1865,8133.43,MACHINERY,special unusual blithely express express blithely slyly blithely
+522,Customer#000000522,533 Main St,24,73-911-577-4308,2229.2,MACHINERY,silent silent slyly silent special slyly
+523,Customer#000000523,441 Main St,3,59-560-422-7165,3868.12,AUTOMOBILE,unusual blithely slyly
+524,Customer#000000524,906 Main St,22,31-603-541-3203,2437.06,MACHINERY,slyly silent regular silent silent regular
+525,Customer#000000525,576 Main St,5,74-157-500-5315,4441.6,MACHINERY,carefully slyly express special blithely pending final
+526,Customer#000000526,829 Main St,23,84-127-883-6591,3186.31,MACHINERY,furiously final special unusual unusual
+527,Customer#000000527,320 Main St,18,20-804-167-5995,259.19,BUILDING,silent special blithely
+528,Customer#000000528,433 Main St,18,75-531-373-1334,6655.54,HOUSEHOLD,furiously final final
+529,Customer#000000529,587 Main St,3,72-202-807-4373,2695.65,HOUSEHOLD,final blithely final regular regular quickly slyly quickly
+530,Customer#000000530,549 Main St,6,46-371-148-5871,9958.49,MACHINERY,blithely furiously carefully silent
+531,Customer#000000531,607 Main St,10,44-168-680-9700,4227.95,BUILDING,slyly blithely express slyly regular
+532,Customer#000000532,553 Main St,10,35-524-511-5116,5874.6,MACHINERY,slyly unusual special carefully quickly silent unusual furiously
+533,Customer#000000533,761 Main St,14,44-753-645-8106,9280.99,AUTOMOBILE,unusual regular unusual carefully slyly quickly final
+534,Customer#000000534,881 Main St,2,91-308-966-7757,1936.29,FURNITURE,pending carefully unusual unusual pending special slyly express
+535,Customer#000000535,498 Main St,17,65-532-762-1606,1221.9,FURNITURE,special slyly express silent
+536,Customer#000000536,660 Main St,1,72-901-120-1906,8455.42,AUTOMOBILE,blithely quickly quickly final final
+537,Customer#000000537,674 Main St,2,60-959-841-3302,1596.46,HOUSEHOLD,silent pending blithely silent slyly silent regular pending
+538,Customer#000000538,615 Main St,3,50-437-952-7388,7864.25,BUILDING,unusual pending unusual express final quickly
+539,Customer#000000539,58 Main St,15,78-483-816-2850,2481.39,MACHINERY,carefully furiously quickly furiously final carefully
+540,Customer#000000540,842 Main St,9,12-760-720-1570,8256.2,AUTOMOBILE,furiously carefully express final blithely carefully quickly carefully
+541,Customer#000000541,548 Main St,7,66-497-108-7438,9202.57,FURNITURE,pending slyly unusual unusual quickly
+542,Customer#000000542,938 Main St,14,90-424-931-7656,7682.49,FURNITURE,slyly furiously regular
+543,Customer#000000543,423 Main St,10,64-997-939-2644,8068.4,FURNITURE,special regular carefully silent express carefully slyly
+544,Customer#000000544,657 Main St,20,33-745-554-3229,-966.16,BUILDING,express silent pending unusual carefully slyly blithely pending
+545,Customer#000000545,609 Main St,21,62-911-427-8397,4262.02,BUILDING,unusual blithely express express pending
+546,Customer#000000546,377 Main St,5,60-997-486-4677,-771.91,AUTOMOBILE,blithely blithely quickly furiously unusual carefully unusual
+547,Customer#000000547,411 Main St,19,64-714-366-3445,-20.32,FURNITURE,furiously pending carefully regular
+548,Customer#000000548,943 Main St,14,96-606-221-4677,6849.2,BUILDING,express regular pending quickly blithely
+549,Customer#000000549,844 Main St,9,96-293-528-3955,3493.77,BUILDING,express express blithely
+550,Customer#000000550,930 Main St,7,57-696-800-8506,-56.87,MACHINERY,quickly furiously final unusual
+551,Customer#000000551,393 Main St,22,64-853-711-5198,-196.38,HOUSEHOLD,special furiously regular
+552,Customer#000000552,363 Main St,19,95-921-712-1745,-941.02,HOUSEHOLD,final furiously carefully pending quickly special unusual
+553,Customer#000000553,174 Main St,16,73-447-998-8669,451.12,FURNITURE,silent pending pending special pending quickly quickly carefully
+554,Customer#000000554,949 Main St,13,46-997-369-5321,4686.7,MACHINERY,express furiously slyly pending
+555,Customer#000000555,874 Main St,21,91-917-550-1871,1078.13,AUTOMOBILE,unusual regular pending regular
+556,Customer#000000556,119 Main St,15,15-552-465-8949,4035.36,AUTOMOBILE,quickly pending pending quickly unusual unusual silent express
+557,Customer#000000557,913 Main St,21,84-317-697-1067,4786.17,HOUSEHOLD,final special slyly carefully
+558,Customer#000000558,909 Main St,10,13-391-797-2998,3335.87,HOUSEHOLD,quickly pending special
+559,Customer#000000559,851 Main St,22,94-591-564-5412,5536.24,AUTOMOBILE,furiously blithely furiously express carefully
+560,Customer#000000560,752 Main St,18,26-316-983-1797,7817.13,FURNITURE,slyly carefully silent blithely pending
+561,Customer#000000561,262 Main St,5,40-889-986-7535,-18.92,BUILDING,final final blithely furiously
+562,Customer#000000562,158 Main St,3,48-602-920-8083,7094.78,FURNITURE,blithely final pending final unusual regular final express
+563,Customer#000000563,615 Main St,13,21-874-532-7033,5752.54,MACHINERY,regular special final regular unusual carefully pending regular
+564,Customer#000000564,645 Main St,20,77-185-397-8671,3810.91,MACHINERY,pending pending quickly quickly silent
+565,Customer#000000565,303 Main St,18,16-664-178-1738,4647.56,HOUSEHOLD,final regular carefully slyly final blithely
+566,Customer#000000566,788 Main St,16,12-216-858-8583,975.08,BUILDING,special final carefully express carefully slyly
+567,Customer#000000567,461 Main St,19,43-449-992-4066,1321.76,AUTOMOBILE,furiously express carefully regular special final special blithely
+568,Customer#000000568,472 Main St,22,61-989-773-8974,2330.8,HOUSEHOLD,carefully furiously carefully slyly pending
+569,Customer#000000569,139 Main St,0,34-214-935-1260,6656.35,BUILDING,unusual blithely blithely
+570,Customer#000000570,447 Main St,20,78-295-188-5930,7466.93,BUILDING,regular pending quickly carefully regular regular
+571,Customer#000000571,21 Main St,14,84-348-306-5830,5263.73,MACHINERY,final pending quickly
+572,Customer#000000572,443 Main St,13,73-854-692-5764,-592.8,MACHINERY,silent carefully furiously quickly quickly unusual
+573,Customer#000000573,63 Main St,16,12-532-690-6174,5085.81,FURNITURE,regular regular regular furiously final carefully special express
+574,Customer#000000574,197 Main St,15,54-548-337-9317,1416.73,FURNITURE,quickly carefully regular quickly carefully final regular
+575,Customer#000000575,964 Main St,21,93-852-468-8738,7797.3,BUILDING,unusual carefully pending regular unusual pending regular
+576,Customer#000000576,813 Main St,13,73-410-340-4431,5125.13,AUTOMOBILE,quickly final pending slyly quickly
+577,Customer#000000577,33 Main St,2,53-540-216-4714,327.58,BUILDING,express final final special quickly express
+578,Customer#000000578,155 Main St,22,75-718-785-2706,6770.45,MACHINERY,furiously slyly furiously slyly blithely quickly
+579,Customer#000000579,105 Main St,17,15-619-207-3736,5929.18,BUILDING,pending express regular silent carefully
+580,Customer#000000580,102 Main St,4,92-472-442-3257,352.83,BUILDING,furiously slyly special quickly regular express
+581,Customer#000000581,176 Main St,2,44-481-832-7799,2967.08,BUILDING,slyly silent slyly pending
+582,Customer#000000582,440 Main St,13,62-569-972-9456,7740.67,FURNITURE,regular slyly carefully
+583,Customer#000000583,530 Main St,2,20-446-422-7580,9801.38,BUILDING,special slyly blithely blithely quickly special
+584,Customer#000000584,647 Main St,22,94-996-632-5845,3612.36,HOUSEHOLD,carefully express final slyly quickly
+585,Customer#000000585,626 Main St,4,99-513-556-4360,8763.37,HOUSEHOLD,blithely carefully quickly slyly final unusual express
+586,Customer#000000586,38 Main St,17,52-499-842-3064,4725.17,HOUSEHOLD,unusual silent express final blithely
+587,Customer#000000587,24 Main St,0,79-706-364-4954,8154.51,FURNITURE,regular silent carefully quickly express silent pending slyly
+588,Customer#000000588,964 Main St,3,67-405-686-1085,3984.62,BUILDING,furiously silent quickly blithely silent blithely final express
+589,Customer#000000589,804 Main St,22,83-788-243-7187,4716.33,BUILDING,express silent slyly
+590,Customer#000000590,370 Main St,14,22-250-828-7974,8112.81,AUTOMOBILE,special quickly regular
+591,Customer#000000591,457 Main St,2,57-793-638-7598,5470.63,HOUSEHOLD,quickly blithely blithely furiously carefully furiously
+592,Customer#000000592,750 Main St,13,30-247-617-3082,4332.41,MACHINERY,furiously silent silent carefully
+593,Customer#000000593,467 Main St,15,14-864-260-7051,9138.66,AUTOMOBILE,quickly pending final express silent pending express
+594,Customer#000000594,384 Main St,9,47-597-128-3340,563.55,HOUSEHOLD,special quickly quickly unusual slyly regular
+595,Customer#000000595,126 Main St,17,54-169-991-1732,3593.33,HOUSEHOLD,silent quickly slyly regular carefully
+596,Customer#000000596,621 Main St,4,27-616-751-8551,7378.46,MACHINERY,quickly express slyly blithely
+597,Customer#000000597,420 Main St,12,39-504-447-9863,-495.97,MACHINERY,express pending pending special blithely slyly express blithely
+598,Customer#000000598,660 Main St,17,20-297-733-9877,5345.41,AUTOMOBILE,silent slyly silent special blithely silent furiously
+599,Customer#000000599,282 Main St,6,41-949-822-8278,-68.86,HOUSEHOLD,express blithely regular furiously final unusual special
+600,Customer#000000600,541 Main St,10,58-363-193-2878,9777.64,HOUSEHOLD,express unusual slyly pending
+601,Customer#000000601,976 Main St,13,96-273-160-6329,996.04,AUTOMOBILE,final express final express final
+602,Customer#000000602,848 Main St,3,16-307-345-4874,4422.77,HOUSEHOLD,furiously express express silent special special
+603,Customer#000000603,649 Main St,7,12-375-667-2663,1709.48,HOUSEHOLD,slyly express final pending blithely unusual furiously final
+604,Customer#000000604,173 Main St,7,78-533-668-8401,-540.28,MACHINERY,express furiously special furiously regular blithely quickly
+605,Customer#000000605,390 Main St,11,90-317-699-9361,2094.43,BUILDING,silent special pending carefully slyly carefully furiously quickly
+606,Customer#000000606,216 Main St,19,74-921-425-6613,5986.87,MACHINERY,unusual furiously final regular blithely
+607,Customer#000000607,17 Main St,22,27-761-102-8807,-952.92,AUTOMOBILE,unusual silent carefully regular final special quickly blithely
+608,Customer#000000608,552 Main St,0,95-555-788-3022,2882.94,MACHINERY,final unusual slyly carefully special regular furiously
+609,Customer#000000609,456 Main St,0,38-860-120-5606,6486.09,FURNITURE,pending blithely express carefully
+610,Customer#000000610,240 Main St,15,56-137-387-9074,8949.58,HOUSEHOLD,special furiously blithely pending
+611,Customer#000000611,285 Main St,18,74-605-274-4174,6258.22,HOUSEHOLD,carefully silent special pending special express silent unusual
+612,Customer#000000612,536 Main St,23,45-296-968-1378,9911.46,HOUSEHOLD,express silent regular furiously blithely furiously special
+613,Customer#000000613,962 Main St,10,65-964-516-5489,338.9,HOUSEHOLD,regular silent special carefully special furiously
+614,Customer#000000614,546 Main St,14,50-105-501-4188,2681.77,HOUSEHOLD,furiously unusual carefully
+615,Customer#000000615,981 Main St,2,41-301-268-6394,2418.87,AUTOMOBILE,regular slyly blithely
+616,Customer#000000616,642 Main St,10,42-353-210-8759,1621.96,FURNITURE,slyly silent unusual
+617,Customer#000000617,75 Main St,24,86-734-549-2567,5878.83,HOUSEHOLD,pending special special
+618,Customer#000000618,321 Main St,22,18-901-230-2015,9110.27,MACHINERY,express blithely special
+619,Customer#000000619,694 Main St,1,81-153-401-7249,3418.52,HOUSEHOLD,unusual blithely blithely special final slyly
+620,Customer#000000620,902 Main St,19,89-203-447-1425,3994.85,FURNITURE,unusual pending blithely special slyly unusual silent
+621,Customer#000000621,653 Main St,16,42-463-531-8887,6970.85,MACHINERY,unusual slyly special express
+622,Customer#000000622,447 Main St,16,93-872-466-6098,5420.32,HOUSEHOLD,pending express final final
+623,Customer#000000623,9 Main St,16,85-773-794-3369,-369.5,HOUSEHOLD,quickly regular unusual unusual quickly slyly final
+624,Customer#000000624,684 Main St,15,98-808-578-6425,8372.09,HOUSEHOLD,blithely regular pending regular slyly
+625,Customer#000000625,44 Main St,15,38-103-754-4654,6625.42,MACHINERY,unusual regular slyly slyly slyly final final
+626,Customer#000000626,846 Main St,0,56-110-175-6863,-669.8,AUTOMOBILE,express unusual blithely slyly
+627,Customer#000000627,45 Main St,0,35-302-390-3853,1408.4,FURNITURE,unusual quickly unusual unusual unusual express pending slyly
+628,Customer#000000628,141 Main St,12,93-906-213-6544,9297.25,FURNITURE,unusual slyly blithely furiously furiously furiously
+629,Customer#000000629,903 Main St,13,18-221-247-3142,7743.87,BUILDING,final final blithely furiously unusual special blithely
+630,Customer#000000630,194 Main St,17,47-908-252-6368,1718.89,FURNITURE,quickly furiously quickly unusual
+631,Customer#000000631,84 Main St,15,94-729-166-3743,4594.75,HOUSEHOLD,regular regular express final carefully
+632,Customer#000000632,733 Main St,15,70-374-695-7569,6019.16,HOUSEHOLD,special unusual unusual quickly final express quickly silent
+633,Customer#000000633,958 Main St,11,42-663-186-3200,7267.85,FURNITURE,silent unusual special silent final regular
+634,Customer#000000634,443 Main St,13,57-923-609-6194,2003.22,AUTOMOBILE,regular express special quickly
+635,Customer#000000635,302 Main St,16,75-659-759-2280,7644.6,BUILDING,pending final silent
+636,Customer#000000636,342 Main St,6,96-437-356-5959,7197.32,FURNITURE,carefully furiously furiously slyly
+637,Customer#000000637,758 Main St,17,43-108-888-5906,2100.3,FURNITURE,furiously slyly slyly special blithely furiously
+638,Customer#000000638,975 Main St,4,60-333-332-4438,4218.82,HOUSEHOLD,slyly slyly carefully regular slyly express unusual
+639,Customer#000000639,789 Main St,22,63-314-549-8372,8382.38,AUTOMOBILE,pending quickly express carefully regular
+640,Customer#000000640,675 Main St,11,53-330-529-7974,6543.39,MACHINERY,silent express special slyly furiously pending furiously express
+641,Customer#000000641,645 Main St,19,87-687-987-7404,9781.88,BUILDING,special final regular express furiously blithely
+642,Customer#000000642,312 Main St,2,31-206-791-3910,-647.34,HOUSEHOLD,special unusual quickly final unusual express
+643,Customer#000000643,537 Main St,2,68-158-477-9495,-878.47,FURNITURE,final furiously pending regular carefully final
+644,Customer#000000644,926 Main St,6,26-991-310-6075,3754.21,MACHINERY,blithely furiously blithely silent
+645,Customer#000000645,702 Main St,14,45-306-107-3337,3903.05,MACHINERY,slyly silent quickly quickly regular silent carefully
+646,Customer#000000646,295 Main St,20,68-455-817-5873,3302.0,BUILDING,unusual quickly carefully regular quickly unusual
+647,Customer#000000647,583 Main St,3,60-815-144-4927,8740.95,BUILDING,quickly silent blithely special carefully
+648,Customer#000000648,924 Main St,6,73-521-880-2986,9948.47,AUTOMOBILE,silent slyly final
+649,Customer#000000649,169 Main St,8,36-618-145-8572,-706.09,MACHINERY,final final unusual special express carefully
+650,Customer#000000650,140 Main St,10,95-866-575-8942,4074.93,AUTOMOBILE,blithely carefully regular regular express pending quickly
+651,Customer#000000651,622 Main St,3,32-401-227-9759,7155.91,BUILDING,carefully special express
+652,Customer#000000652,452 Main St,11,32-321-831-1564,8819.56,HOUSEHOLD,regular special blithely silent
+653,Customer#000000653,679 Main St,22,94-205-499-6051,3883.85,HOUSEHOLD,special final unusual
+654,Customer#000000654,256 Main St,11,40-304-193-1262,3638.51,AUTOMOBILE,slyly carefully special furiously pending
+655,Customer#000000655,856 Main St,21,31-841-271-1721,3572.48,AUTOMOBILE,express blithely blithely furiously final
+656,Customer#000000656,439 Main St,3,39-318-208-6842,2557.05,AUTOMOBILE,blithely special unusual unusual blithely express
+657,Customer#000000657,639 Main St,11,15-168-323-7735,2316.88,HOUSEHOLD,furiously pending silent furiously quickly unusual
+658,Customer#000000658,983 Main St,3,86-432-746-7366,6456.9,BUILDING,unusual slyly carefully furiously blithely
+659,Customer#000000659,70 Main St,10,12-723-699-8354,3206.09,BUILDING,blithely furiously unusual blithely quickly express carefully
+660,Customer#000000660,776 Main St,7,89-181-161-3253,3119.76,FURNITURE,pending unusual special furiously
+661,Customer#000000661,613 Main St,14,52-237-384-6202,6079.62,AUTOMOBILE,slyly final slyly slyly unusual carefully final
+662,Customer#000000662,211 Main St,17,16-780-354-4644,5688.69,MACHINERY,express regular special quickly special unusual blithely
+663,Customer#000000663,145 Main St,6,26-193-277-9992,8143.42,BUILDING,silent regular regular pending
+664,Customer#000000664,203 Main St,7,64-280-720-5079,2334.11,HOUSEHOLD,furiously unusual quickly regular furiously final
+665,Customer#000000665,387 Main St,5,70-551-532-9278,5703.33,MACHINERY,slyly slyly special final
+666,Customer#000000666,875 Main St,2,48-709-650-3503,5081.37,BUILDING,final express express silent regular
+667,Customer#000000667,342 Main St,4,70-300-258-4106,-954.0,HOUSEHOLD,carefully regular furiously furiously furiously final regular blithely
+668,Customer#000000668,603 Main St,2,62-139-227-7304,9253.42,BUILDING,slyly furiously slyly slyly
+669,Customer#000000669,357 Main St,16,72-750-805-7032,6661.01,MACHINERY,carefully unusual special slyly blithely carefully
+670,Customer#000000670,715 Main St,21,92-251-367-8462,9386.91,BUILDING,unusual silent blithely pending pending
+671,Customer#000000671,95 Main St,20,59-507-823-2316,4703.91,BUILDING,pending regular carefully silent silent quickly
+672,Customer#000000672,601 Main St,9,62-870-997-2456,202.02,HOUSEHOLD,slyly express unusual carefully carefully
+673,Customer#000000673,7 Main St,5,72-101-199-2144,7511.17,MACHINERY,regular express regular unusual unusual pending regular
+674,Customer#000000674,515 Main St,3,67-680-933-4482,1042.02,AUTOMOBILE,unusual slyly express quickly final blithely blithely quickly
+675,Customer#000000675,171 Main St,2,47-187-486-3042,2044.39,FURNITURE,blithely regular carefully
+676,Customer#000000676,104 Main St,0,17-372-869-1118,6318.54,AUTOMOBILE,unusual slyly final
+677,Customer#000000677,533 Main St,24,44-597-584-6521,5648.08,FURNITURE,carefully final express unusual final
+678,Customer#000000678,409 Main St,12,88-158-464-6410,7868.97,AUTOMOBILE,quickly final quickly furiously special pending
+679,Customer#000000679,544 Main St,8,99-869-934-5072,3052.73,HOUSEHOLD,blithely regular final unusual furiously furiously slyly special
+680,Customer#000000680,369 Main St,1,51-794-554-4826,5674.39,MACHINERY,blithely special regular furiously furiously furiously quickly quickly
+681,Customer#000000681,752 Main St,12,47-721-299-3345,8568.44,HOUSEHOLD,silent pending slyly express carefully silent quickly unusual
+682,Customer#000000682,457 Main St,3,71-778-653-4946,1676.92,BUILDING,carefully pending furiously special furiously express final express
+683,Customer#000000683,737 Main St,8,95-587-786-3016,6320.24,HOUSEHOLD,carefully pending carefully quickly furiously slyly blithely blithely
+684,Customer#000000684,387 Main St,22,58-769-757-8159,7892.92,BUILDING,pending pending pending carefully furiously
+685,Customer#000000685,763 Main St,3,83-476-230-6134,9494.75,HOUSEHOLD,special special silent quickly furiously express final carefully
+686,Customer#000000686,816 Main St,4,76-779-716-4639,172.45,AUTOMOBILE,quickly express slyly express unusual carefully pending
+687,Customer#000000687,291 Main St,4,95-969-920-1562,5587.68,FURNITURE,furiously pending furiously carefully regular slyly regular
+688,Customer#000000688,722 Main St,12,17-929-441-3501,8106.73,BUILDING,furiously unusual carefully furiously slyly quickly carefully express
+689,Customer#000000689,835 Main St,21,30-122-661-7427,2711.51,MACHINERY,slyly final silent express carefully
+690,Customer#000000690,200 Main St,22,80-503-199-3144,2557.61,HOUSEHOLD,quickly carefully regular
+691,Customer#000000691,168 Main St,18,27-552-812-8904,2201.9,BUILDING,unusual carefully carefully special
+692,Customer#000000692,744 Main St,18,23-794-904-3418,3142.12,MACHINERY,quickly furiously pending furiously unusual special furiously blithely
+693,Customer#000000693,608 Main St,13,29-742-839-7619,1695.02,AUTOMOBILE,final express blithely unusual
+694,Customer#000000694,764 Main St,12,98-914-786-2468,7555.03,MACHINERY,blithely regular special pending pending
+695,Customer#000000695,657 Main St,21,75-330-123-8856,2010.98,AUTOMOBILE,unusual regular blithely regular silent pending special
+696,Customer#000000696,931 Main St,17,33-515-932-1323,3331.76,HOUSEHOLD,regular silent blithely carefully slyly pending slyly
+697,Customer#000000697,989 Main St,21,25-285-982-3948,-941.43,MACHINERY,pending pending unusual pending silent
+698,Customer#000000698,872 Main St,24,14-186-227-9292,2284.36,HOUSEHOLD,regular furiously special express
+699,Customer#000000699,969 Main St,16,47-774-646-8289,538.41,MACHINERY,express quickly furiously blithely silent carefully blithely special
+700,Customer#000000700,38 Main St,6,28-406-976-4526,9531.64,HOUSEHOLD,unusual final pending blithely special express final
+701,Customer#000000701,926 Main St,5,61-567-185-5164,6441.78,BUILDING,unusual blithely express blithely blithely carefully silent
+702,Customer#000000702,664 Main St,16,87-267-529-3514,2479.97,MACHINERY,special blithely special pending pending silent
+703,Customer#000000703,68 Main St,10,91-191-471-6464,7558.77,BUILDING,express pending furiously unusual
+704,Customer#000000704,975 Main St,3,25-279-639-6022,5477.1,MACHINERY,silent carefully quickly
+705,Customer#000000705,565 Main St,8,87-201-149-3797,2497.96,MACHINERY,final carefully furiously silent
+706,Customer#000000706,609 Main St,12,71-706-230-5244,-895.52,HOUSEHOLD,pending pending final carefully special carefully furiously carefully
+707,Customer#000000707,256 Main St,21,87-528-823-8500,1014.16,FURNITURE,silent express regular furiously quickly slyly
+708,Customer#000000708,313 Main St,20,21-412-516-6123,8297.69,AUTOMOBILE,carefully furiously pending
+709,Customer#000000709,59 Main St,2,46-667-604-1175,9583.82,MACHINERY,silent carefully regular silent furiously quickly carefully final
+710,Customer#000000710,632 Main St,6,10-831-535-9754,7246.34,BUILDING,blithely furiously furiously furiously carefully special regular unusual
+711,Customer#000000711,953 Main St,24,77-330-279-2230,3037.56,BUILDING,final special regular unusual furiously final carefully
+712,Customer#000000712,852 Main St,17,25-397-406-8915,2229.0,BUILDING,carefully silent unusual
+713,Customer#000000713,313 Main St,20,75-945-136-8586,8817.43,MACHINERY,final blithely express
+714,Customer#000000714,363 Main St,3,10-458-839-4050,3422.75,AUTOMOBILE,regular unusual silent
+715,Customer#000000715,921 Main St,4,62-226-599-1113,711.94,FURNITURE,regular final final quickly
+716,Customer#000000716,550 Main St,8,23-549-772-8198,780.18,FURNITURE,regular final quickly unusual unusual special final carefully
+717,Customer#000000717,923 Main St,1,30-782-303-8852,9556.68,FURNITURE,regular silent slyly
+718,Customer#000000718,732 Main St,4,51-869-882-7551,4520.44,MACHINERY,pending pending special pending
+719,Customer#000000719,513 Main St,0,97-342-153-6605,3726.32,HOUSEHOLD,special regular express special regular blithely carefully unusual
+720,Customer#000000720,288 Main St,24,24-984-369-5052,6329.63,MACHINERY,regular slyly pending carefully
+721,Customer#000000721,626 Main St,5,34-975-705-3436,1523.23,BUILDING,special furiously furiously regular blithely pending
+722,Customer#000000722,53 Main St,12,62-637-413-4791,1439.53,MACHINERY,special regular special pending final furiously
+723,Customer#000000723,729 Main St,13,41-427-148-3977,-550.21,AUTOMOBILE,carefully unusual regular quickly pending unusual furiously final
+724,Customer#000000724,312 Main St,3,22-785-113-3134,2643.33,FURNITURE,slyly silent final blithely unusual final quickly pending
+725,Customer#000000725,761 Main St,19,25-142-700-4120,1122.21,MACHINERY,special silent final
+726,Customer#000000726,743 Main St,15,35-646-838-3517,-518.07,BUILDING,silent express quickly quickly quickly furiously
+727,Customer#000000727,917 Main St,11,67-744-834-2923,9019.33,AUTOMOBILE,regular furiously silent special blithely carefully
+728,Customer#000000728,133 Main St,9,15-679-162-4116,7147.86,MACHINERY,carefully quickly furiously pending slyly final
+729,Customer#000000729,799 Main St,12,61-721-378-4390,1024.74,BUILDING,unusual carefully quickly slyly regular carefully silent
+730,Customer#000000730,311 Main St,7,47-825-374-2951,882.21,AUTOMOBILE,unusual special pending quickly furiously express slyly
+731,Customer#000000731,658 Main St,7,36-647-218-1022,6135.1,HOUSEHOLD,express furiously quickly express pending
+732,Customer#000000732,920 Main St,19,47-432-158-1170,8063.24,BUILDING,furiously unusual furiously silent furiously slyly slyly pending
+733,Customer#000000733,764 Main St,22,58-769-363-4377,7985.31,BUILDING,express silent slyly slyly pending
+734,Customer#000000734,238 Main St,23,65-477-251-8848,30.61,BUILDING,unusual quickly unusual regular carefully blithely
+735,Customer#000000735,22 Main St,9,30-281-937-7458,6561.03,BUILDING,pending regular regular
+736,Customer#000000736,661 Main St,12,22-841-639-3249,6994.41,AUTOMOBILE,pending final pending special slyly furiously pending
+737,Customer#000000737,789 Main St,2,44-246-742-1221,7716.4,AUTOMOBILE,silent slyly quickly
+738,Customer#000000738,88 Main St,6,27-591-877-8279,7970.11,FURNITURE,regular unusual silent express silent
+739,Customer#000000739,22 Main St,1,23-657-403-2680,4626.97,MACHINERY,special unusual unusual final
+740,Customer#000000740,362 Main St,20,46-331-800-7303,6554.43,AUTOMOBILE,unusual pending pending furiously final blithely
+741,Customer#000000741,122 Main St,11,20-144-719-3475,958.75,HOUSEHOLD,blithely carefully pending carefully express
+742,Customer#000000742,838 Main St,9,54-996-206-5441,9078.57,FURNITURE,slyly carefully special special furiously
+743,Customer#000000743,153 Main St,24,93-250-427-3421,3296.6,MACHINERY,pending regular carefully
+744,Customer#000000744,149 Main St,2,51-230-286-7308,2878.7,MACHINERY,regular furiously blithely blithely pending furiously
+745,Customer#000000745,944 Main St,7,59-528-662-9144,4926.22,MACHINERY,silent unusual pending carefully silent slyly slyly
+746,Customer#000000746,225 Main St,22,21-340-470-1046,1236.08,AUTOMOBILE,silent furiously furiously special final
+747,Customer#000000747,870 Main St,24,27-401-571-3361,8187.77,HOUSEHOLD,unusual slyly special pending furiously carefully
+748,Customer#000000748,387 Main St,23,13-812-534-7089,-405.07,AUTOMOBILE,silent regular blithely pending pending pending unusual special
+749,Customer#000000749,852 Main St,13,29-883-286-8696,7179.13,HOUSEHOLD,furiously regular carefully regular blithely special pending special
+750,Customer#000000750,658 Main St,1,87-869-277-9245,763.84,MACHINERY,carefully quickly silent slyly furiously silent
+751,Customer#000000751,727 Main St,7,64-260-378-2506,4736.51,BUILDING,unusual blithely unusual unusual carefully silent quickly slyly
+752,Customer#000000752,480 Main St,15,50-768-757-7637,8099.78,BUILDING,slyly blithely unusual
+753,Customer#000000753,112 Main St,3,19-471-717-6496,-691.45,FURNITURE,silent special blithely slyly
+754,Customer#000000754,317 Main St,6,80-306-753-1530,1643.69,AUTOMOBILE,silent silent slyly special express furiously special
+755,Customer#000000755,366 Main St,24,46-507-612-4192,2459.2,MACHINERY,final pending carefully express quickly silent silent slyly
+756,Customer#000000756,25 Main St,18,58-588-700-1612,2191.32,BUILDING,regular quickly pending carefully quickly slyly blithely slyly
+757,Customer#000000757,165 Main St,16,76-846-723-9573,9232.49,FURNITURE,slyly final final quickly regular quickly
+758,Customer#000000758,793 Main St,21,59-344-313-2228,9538.16,HOUSEHOLD,furiously pending special slyly express quickly slyly quickly
+759,Customer#000000759,511 Main St,3,68-421-273-5843,776.2,FURNITURE,final pending unusual slyly express regular express
+760,Customer#000000760,898 Main St,14,93-243-226-8999,-564.47,FURNITURE,final blithely carefully regular silent blithely
+761,Customer#000000761,322 Main St,11,20-798-523-9289,3951.02,AUTOMOBILE,furiously special slyly carefully silent pending pending
+762,Customer#000000762,385 Main St,5,82-508-974-2195,1453.57,MACHINERY,pending regular blithely quickly regular pending carefully furiously
+763,Customer#000000763,945 Main St,12,65-304-511-6385,-290.8,FURNITURE,regular carefully regular express special pending regular
+764,Customer#000000764,656 Main St,6,50-681-132-7230,-313.59,FURNITURE,furiously unusual unusual special slyly regular
+765,Customer#000000765,259 Main St,20,32-185-245-2134,2012.96,AUTOMOBILE,quickly regular regular unusual quickly
+766,Customer#000000766,189 Main St,1,21-538-450-5864,809.87,FURNITURE,regular silent slyly furiously regular quickly
+767,Customer#000000767,585 Main St,12,11-674-901-4253,-144.1,HOUSEHOLD,pending blithely slyly carefully slyly carefully special
+768,Customer#000000768,919 Main St,14,28-611-985-6184,249.68,MACHINERY,silent special regular slyly pending
+769,Customer#000000769,461 Main St,20,84-199-137-4581,7202.78,BUILDING,carefully slyly blithely unusual unusual unusual
+770,Customer#000000770,696 Main St,18,11-479-933-6960,-821.89,FURNITURE,slyly pending regular furiously final final slyly
+771,Customer#000000771,437 Main St,16,52-216-280-8517,3712.22,BUILDING,blithely silent final quickly carefully regular express
+772,Customer#000000772,636 Main St,3,21-925-957-2700,-13.97,AUTOMOBILE,furiously pending carefully blithely silent blithely silent
+773,Customer#000000773,826 Main St,1,95-396-972-7891,1330.59,MACHINERY,final unusual regular pending furiously quickly final
+774,Customer#000000774,841 Main St,20,60-107-483-4668,4583.17,FURNITURE,express quickly slyly final unusual quickly final special
+775,Customer#000000775,158 Main St,11,76-939-859-6201,2685.99,HOUSEHOLD,unusual furiously unusual blithely slyly slyly
+776,Customer#000000776,592 Main St,13,26-751-499-3846,3434.31,FURNITURE,pending unusual carefully pending pending silent final
+777,Customer#000000777,781 Main St,20,43-957-666-3605,9435.69,BUILDING,pending regular blithely
+778,Customer#000000778,608 Main St,4,13-732-824-9907,9126.53,AUTOMOBILE,final carefully pending regular blithely final unusual
+779,Customer#000000779,920 Main St,7,48-298-648-5018,6989.43,MACHINERY,blithely express furiously blithely blithely
+780,Customer#000000780,594 Main St,3,24-570-710-3010,177.85,FURNITURE,quickly pending regular final quickly
+781,Customer#000000781,401 Main St,3,72-914-122-7778,-190.66,AUTOMOBILE,carefully final express quickly
+782,Customer#000000782,828 Main St,5,33-405-110-3927,6256.33,HOUSEHOLD,pending final final
+783,Customer#000000783,629 Main St,19,79-105-262-9548,7158.66,AUTOMOBILE,blithely silent silent slyly
+784,Customer#000000784,222 Main St,11,24-322-130-6366,524.22,AUTOMOBILE,carefully pending express unusual pending carefully blithely regular
+785,Customer#000000785,829 Main St,15,65-624-509-4163,1751.03,BUILDING,quickly carefully furiously pending slyly blithely pending unusual
+786,Customer#000000786,740 Main St,15,65-556-533-5451,7974.81,HOUSEHOLD,blithely regular silent
+787,Customer#000000787,383 Main St,20,18-560-271-1553,9539.06,FURNITURE,final blithely quickly furiously silent final pending
+788,Customer#000000788,829 Main St,10,64-909-290-6861,1698.5,BUILDING,final pending express special carefully carefully unusual silent
+789,Customer#000000789,330 Main St,7,81-167-494-5646,5619.82,HOUSEHOLD,pending express blithely quickly
+790,Customer#000000790,881 Main St,21,19-687-761-7909,6503.45,MACHINERY,slyly unusual special regular special
+791,Customer#000000791,282 Main St,13,25-227-563-3803,5615.74,HOUSEHOLD,unusual special special slyly silent special
+792,Customer#000000792,473 Main St,9,26-961-512-1606,8854.12,HOUSEHOLD,final special regular
+793,Customer#000000793,850 Main St,13,48-381-424-6665,3403.79,HOUSEHOLD,regular special express furiously regular
+794,Customer#000000794,657 Main St,3,57-732-205-1479,1464.16,AUTOMOBILE,pending express carefully regular
+795,Customer#000000795,175 Main St,2,34-841-931-7043,7977.62,HOUSEHOLD,furiously quickly express
+796,Customer#000000796,804 Main St,1,24-149-411-2229,1901.0,HOUSEHOLD,express unusual pending regular pending quickly
+797,Customer#000000797,772 Main St,18,62-752-557-3004,4739.4,BUILDING,regular regular express slyly regular pending slyly
+798,Customer#000000798,729 Main St,2,55-671-955-4971,6254.29,BUILDING,special furiously special special unusual slyly unusual pending
+799,Customer#000000799,214 Main St,18,77-626-979-6134,7365.36,FURNITURE,regular pending silent quickly unusual final furiously quickly
+800,Customer#000000800,526 Main St,6,61-292-170-5552,3654.04,FURNITURE,blithely pending quickly carefully unusual quickly unusual
+801,Customer#000000801,30 Main St,15,94-643-563-6766,1921.37,HOUSEHOLD,final unusual final
+802,Customer#000000802,442 Main St,16,52-154-551-5466,3067.59,AUTOMOBILE,final furiously unusual unusual unusual express blithely silent
+803,Customer#000000803,112 Main St,21,16-761-354-2819,1415.38,AUTOMOBILE,silent unusual silent
+804,Customer#000000804,283 Main St,7,89-816-833-7628,3310.99,AUTOMOBILE,carefully quickly express unusual
+805,Customer#000000805,805 Main St,6,54-752-394-5718,7072.7,AUTOMOBILE,silent carefully regular express
+806,Customer#000000806,929 Main St,22,40-274-422-2137,833.11,FURNITURE,pending special regular final unusual express
+807,Customer#000000807,79 Main St,5,96-878-973-1159,5534.05,MACHINERY,special quickly regular special special carefully express
+808,Customer#000000808,234 Main St,16,74-271-873-3401,7527.82,AUTOMOBILE,slyly final regular final silent
+809,Customer#000000809,680 Main St,15,42-473-569-1222,8105.24,FURNITURE,final silent blithely quickly quickly regular express silent
+810,Customer#000000810,656 Main St,0,28-520-976-4608,6253.03,BUILDING,regular unusual carefully furiously final
+811,Customer#000000811,763 Main St,2,34-486-754-2768,9619.97,HOUSEHOLD,furiously quickly unusual quickly final express
+812,Customer#000000812,604 Main St,13,45-416-295-1673,5374.68,FURNITURE,pending slyly silent slyly final pending special
+813,Customer#000000813,950 Main St,21,28-577-797-3461,4755.05,FURNITURE,silent pending regular special express regular unusual
+814,Customer#000000814,846 Main St,18,25-154-600-6010,-944.0,FURNITURE,quickly special pending quickly slyly silent furiously silent
+815,Customer#000000815,977 Main St,2,44-246-850-4223,3752.56,AUTOMOBILE,unusual regular final slyly blithely
+816,Customer#000000816,433 Main St,12,22-367-409-6091,906.33,MACHINERY,quickly slyly pending slyly express final unusual express
+817,Customer#000000817,305 Main St,18,90-572-658-4004,3135.63,MACHINERY,pending regular express
+818,Customer#000000818,958 Main St,21,55-579-462-8006,4132.08,MACHINERY,special silent furiously regular slyly blithely
+819,Customer#000000819,310 Main St,7,84-624-482-3085,5829.78,HOUSEHOLD,special quickly pending carefully regular
+820,Customer#000000820,782 Main St,16,68-959-155-2387,-398.37,AUTOMOBILE,blithely slyly silent carefully quickly
+821,Customer#000000821,125 Main St,23,84-790-623-1868,6717.3,HOUSEHOLD,silent furiously pending quickly
+822,Customer#000000822,656 Main St,4,48-743-418-1105,7861.78,HOUSEHOLD,unusual special pending quickly silent unusual pending special
+823,Customer#000000823,518 Main St,14,60-156-224-5913,3450.13,BUILDING,quickly silent slyly carefully
+824,Customer#000000824,880 Main St,21,88-226-542-3396,5998.17,BUILDING,slyly blithely unusual carefully
+825,Customer#000000825,560 Main St,6,70-591-396-5742,6342.89,HOUSEHOLD,final express final slyly regular slyly
+826,Customer#000000826,152 Main St,0,46-568-223-7380,-878.77,FURNITURE,blithely quickly blithely
+827,Customer#000000827,44 Main St,11,27-579-840-8509,2045.95,BUILDING,silent quickly unusual quickly silent
+828,Customer#000000828,526 Main St,2,32-771-255-6764,6215.26,HOUSEHOLD,regular quickly pending slyly blithely
+829,Customer#000000829,946 Main St,12,18-959-760-8925,3141.75,MACHINERY,blithely silent furiously slyly silent pending express
+830,Customer#000000830,979 Main St,18,54-698-732-7615,-256.72,AUTOMOBILE,pending pending pending furiously regular slyly furiously slyly
+831,Customer#000000831,751 Main St,7,23-278-845-7292,7313.95,MACHINERY,special express special
+832,Customer#000000832,768 Main St,2,66-881-483-1482,9159.05,FURNITURE,carefully final furiously
+833,Customer#000000833,588 Main St,17,35-300-358-9046,3812.66,FURNITURE,unusual pending slyly slyly
+834,Customer#000000834,197 Main St,2,84-124-744-2576,1238.94,BUILDING,final final silent
+835,Customer#000000835,74 Main St,10,33-798-847-9653,4457.93,BUILDING,slyly silent final quickly quickly slyly regular
+836,Customer#000000836,641 Main St,12,19-682-180-3083,7606.26,FURNITURE,pending unusual blithely
+837,Customer#000000837,339 Main St,0,38-941-396-5118,3294.69,FURNITURE,quickly pending express
+838,Customer#000000838,548 Main St,18,40-973-630-9192,2434.64,HOUSEHOLD,silent quickly silent
+839,Customer#000000839,960 Main St,8,93-130-133-6538,3635.46,BUILDING,quickly special unusual slyly express
+840,Customer#000000840,776 Main St,21,17-341-605-2194,7862.28,HOUSEHOLD,carefully slyly special furiously furiously blithely blithely
+841,Customer#000000841,83 Main St,17,71-232-377-1683,144.68,MACHINERY,unusual final regular slyly quickly unusual furiously
+842,Customer#000000842,27 Main St,24,35-647-722-7215,6501.35,AUTOMOBILE,regular final final pending carefully silent pending
+843,Customer#000000843,121 Main St,19,57-460-298-6621,3801.77,AUTOMOBILE,unusual blithely unusual carefully
+844,Customer#000000844,910 Main St,17,82-146-921-1244,8605.81,BUILDING,special pending unusual
+845,Customer#000000845,45 Main St,10,54-716-770-5001,9978.97,BUILDING,final blithely blithely special furiously unusual carefully
+846,Customer#000000846,833 Main St,11,38-554-830-5959,9355.69,HOUSEHOLD,quickly unusual quickly express silent
+847,Customer#000000847,107 Main St,1,54-520-822-8966,2077.63,BUILDING,quickly silent express silent
+848,Customer#000000848,126 Main St,11,28-136-340-8213,6148.99,MACHINERY,special quickly express
+849,Customer#000000849,603 Main St,12,48-947-186-1978,2070.02,HOUSEHOLD,regular quickly final special unusual unusual
+850,Customer#000000850,442 Main St,17,16-776-412-1512,4957.04,FURNITURE,quickly slyly final
+851,Customer#000000851,849 Main St,8,85-321-875-1448,2750.39,HOUSEHOLD,quickly slyly furiously slyly slyly silent
+852,Customer#000000852,976 Main St,23,96-394-979-9761,4098.53,HOUSEHOLD,silent silent pending final carefully furiously pending special
+853,Customer#000000853,819 Main St,21,45-187-355-9893,2254.08,HOUSEHOLD,special express express express blithely slyly
+854,Customer#000000854,13 Main St,3,49-682-776-6259,8195.99,BUILDING,regular regular regular furiously regular quickly
+855,Customer#000000855,224 Main St,13,17-693-181-5529,8867.48,HOUSEHOLD,furiously regular express slyly express
+856,Customer#000000856,507 Main St,4,39-745-278-3406,8583.62,AUTOMOBILE,pending special carefully quickly
+857,Customer#000000857,594 Main St,10,15-666-834-4734,-331.05,FURNITURE,special quickly quickly silent special
+858,Customer#000000858,241 Main St,11,23-179-619-8271,245.02,AUTOMOBILE,unusual silent slyly carefully
+859,Customer#000000859,74 Main St,20,64-996-389-3344,-728.35,HOUSEHOLD,final final blithely regular furiously
+860,Customer#000000860,637 Main St,0,30-477-145-5765,9233.39,HOUSEHOLD,pending unusual express
+861,Customer#000000861,733 Main St,24,75-902-695-6636,9339.33,MACHINERY,special carefully final furiously special special furiously
+862,Customer#000000862,230 Main St,18,74-688-745-9982,7073.46,HOUSEHOLD,pending quickly slyly blithely blithely silent express unusual
+863,Customer#000000863,590 Main St,9,41-436-348-6930,1539.8,FURNITURE,furiously carefully regular furiously final special silent special
+864,Customer#000000864,371 Main St,20,71-719-335-8355,7649.34,BUILDING,slyly furiously furiously unusual quickly carefully blithely
+865,Customer#000000865,621 Main St,8,46-449-421-2932,-103.43,MACHINERY,furiously silent blithely slyly quickly quickly special
+866,Customer#000000866,124 Main St,13,43-883-667-8698,7171.39,BUILDING,quickly special unusual
+867,Customer#000000867,75 Main St,4,75-987-642-7358,8946.86,FURNITURE,final silent carefully pending
+868,Customer#000000868,919 Main St,10,85-723-731-2765,9935.47,AUTOMOBILE,carefully final regular
+869,Customer#000000869,419 Main St,20,67-858-954-8138,2182.21,MACHINERY,pending unusual slyly quickly furiously pending quickly blithely
+870,Customer#000000870,379 Main St,21,93-564-488-6250,3824.46,HOUSEHOLD,blithely furiously pending express final silent quickly silent
+871,Customer#000000871,865 Main St,13,46-430-493-6219,7330.3,BUILDING,slyly carefully furiously
+872,Customer#000000872,216 Main St,13,76-384-688-6150,94.14,FURNITURE,pending express regular quickly
+873,Customer#000000873,296 Main St,8,87-871-208-4795,6330.77,BUILDING,unusual quickly slyly
+874,Customer#000000874,29 Main St,19,15-652-650-4197,-926.67,AUTOMOBILE,unusual furiously silent carefully silent
+875,Customer#000000875,851 Main St,14,47-212-833-2965,3888.46,MACHINERY,express quickly furiously carefully pending final
+876,Customer#000000876,81 Main St,23,38-844-176-6359,724.01,FURNITURE,regular carefully carefully special carefully
+877,Customer#000000877,914 Main St,1,65-202-822-9540,2492.8,HOUSEHOLD,quickly blithely furiously blithely unusual blithely quickly unusual
+878,Customer#000000878,201 Main St,8,70-255-596-4065,7069.16,FURNITURE,unusual quickly furiously quickly
+879,Customer#000000879,768 Main St,6,10-544-168-9039,5135.11,BUILDING,unusual regular express final blithely blithely regular blithely
+880,Customer#000000880,185 Main St,9,39-996-399-8947,4392.44,MACHINERY,final regular pending pending quickly slyly express
+881,Customer#000000881,993 Main St,14,51-353-778-7960,274.02,MACHINERY,blithely final final pending quickly
+882,Customer#000000882,861 Main St,15,86-521-803-4847,-681.4,FURNITURE,unusual quickly final silent express carefully final
+883,Customer#000000883,829 Main St,14,64-508-366-1895,1951.49,BUILDING,blithely special regular unusual quickly
+884,Customer#000000884,549 Main St,6,90-212-728-6401,421.38,HOUSEHOLD,furiously special final
+885,Customer#000000885,800 Main St,22,52-461-885-2039,6204.24,HOUSEHOLD,final unusual pending silent
+886,Customer#000000886,881 Main St,22,39-397-920-3644,9017.18,FURNITURE,unusual carefully furiously special special furiously
+887,Customer#000000887,105 Main St,16,60-910-596-1692,726.41,FURNITURE,unusual slyly unusual
+888,Customer#000000888,279 Main St,23,25-932-902-7190,6208.03,BUILDING,quickly quickly special silent carefully carefully special carefully
+889,Customer#000000889,555 Main St,19,29-197-853-7408,1137.13,HOUSEHOLD,slyly regular carefully express regular
+890,Customer#000000890,103 Main St,8,93-690-582-7169,2203.63,AUTOMOBILE,furiously silent regular quickly
+891,Customer#000000891,547 Main St,16,41-491-117-9143,7003.13,FURNITURE,carefully regular silent special slyly regular regular
+892,Customer#000000892,112 Main St,20,49-440-247-2370,49.29,BUILDING,quickly regular unusual pending
+893,Customer#000000893,632 Main St,15,76-840-959-4808,-351.73,MACHINERY,final carefully quickly special carefully
+894,Customer#000000894,614 Main St,13,10-374-806-4427,7305.41,MACHINERY,regular furiously unusual regular regular silent carefully
+895,Customer#000000895,751 Main St,2,23-535-816-2269,3132.55,AUTOMOBILE,silent pending unusual quickly
+896,Customer#000000896,117 Main St,1,64-607-274-9594,4359.13,HOUSEHOLD,final express regular express furiously carefully
+897,Customer#000000897,536 Main St,10,88-480-677-3718,556.7,HOUSEHOLD,unusual blithely carefully silent express regular furiously furiously
+898,Customer#000000898,738 Main St,4,31-636-832-8763,-891.96,MACHINERY,pending special furiously express
+899,Customer#000000899,193 Main St,6,98-196-650-8513,2641.39,AUTOMOBILE,regular pending final silent unusual blithely furiously
+900,Customer#000000900,282 Main St,9,64-698-846-6009,3040.03,MACHINERY,silent blithely unusual blithely pending
+901,Customer#000000901,222 Main St,8,32-369-677-2676,393.75,HOUSEHOLD,blithely final silent quickly blithely furiously carefully
+902,Customer#000000902,631 Main St,21,70-314-272-1043,7617.01,BUILDING,furiously blithely pending
+903,Customer#000000903,487 Main St,0,51-179-153-3244,4628.76,MACHINERY,blithely express silent pending silent final
+904,Customer#000000904,395 Main St,22,70-463-419-9552,2486.69,AUTOMOBILE,quickly furiously furiously quickly carefully quickly silent
+905,Customer#000000905,502 Main St,22,42-801-223-8133,6173.01,BUILDING,quickly quickly slyly
+906,Customer#000000906,355 Main St,23,64-318-731-4129,3207.03,BUILDING,furiously unusual final unusual blithely express quickly quickly
+907,Customer#000000907,515 Main St,0,87-379-134-5504,6058.41,MACHINERY,furiously carefully express
+908,Customer#000000908,59 Main St,18,13-983-835-8713,9969.54,MACHINERY,unusual carefully blithely silent pending final
+909,Customer#000000909,628 Main St,22,29-822-853-3898,8580.04,BUILDING,regular quickly special
+910,Customer#000000910,653 Main St,22,17-421-199-9914,2052.26,BUILDING,blithely special quickly quickly express carefully quickly blithely
+911,Customer#000000911,967 Main St,11,76-114-780-7605,3580.17,AUTOMOBILE,unusual slyly pending
+912,Customer#000000912,274 Main St,2,32-554-145-5514,5693.82,HOUSEHOLD,unusual carefully quickly special express final
+913,Customer#000000913,350 Main St,14,82-956-813-2410,5228.08,MACHINERY,pending pending carefully
+914,Customer#000000914,191 Main St,10,85-741-120-3774,7676.1,BUILDING,final special carefully unusual quickly blithely quickly unusual
+915,Customer#000000915,774 Main St,23,26-417-154-7214,6765.05,BUILDING,pending express unusual unusual quickly
+916,Customer#000000916,182 Main St,9,43-814-550-5334,16.54,FURNITURE,final slyly silent slyly carefully unusual furiously
+917,Customer#000000917,600 Main St,12,29-650-682-4451,9931.3,MACHINERY,blithely carefully express final furiously
+918,Customer#000000918,565 Main St,23,44-192-625-4452,1840.36,MACHINERY,special pending blithely unusual pending
+919,Customer#000000919,601 Main St,10,57-677-486-1554,2546.1,AUTOMOBILE,final quickly pending regular final quickly unusual final
+920,Customer#000000920,167 Main St,14,79-290-870-1356,3829.1,HOUSEHOLD,blithely carefully carefully regular unusual carefully
+921,Customer#000000921,616 Main St,10,71-794-510-5918,-558.57,BUILDING,pending regular express silent blithely pending pending
+922,Customer#000000922,308 Main St,19,99-636-303-3286,428.81,FURNITURE,furiously express slyly
+923,Customer#000000923,821 Main St,11,68-505-269-8546,-990.71,BUILDING,quickly express special unusual
+924,Customer#000000924,209 Main St,13,21-841-350-3525,6531.85,FURNITURE,regular final regular
+925,Customer#000000925,704 Main St,12,99-317-583-7165,8144.81,BUILDING,final express furiously
+926,Customer#000000926,410 Main St,24,51-389-939-7956,5566.33,HOUSEHOLD,final carefully furiously
+927,Customer#000000927,28 Main St,7,87-282-886-4852,3060.46,FURNITURE,slyly blithely slyly quickly blithely pending unusual
+928,Customer#000000928,217 Main St,9,65-195-447-7292,6194.49,MACHINERY,express final slyly special
+929,Customer#000000929,982 Main St,13,32-267-507-9476,8176.55,MACHINERY,final carefully blithely
+930,Customer#000000930,415 Main St,0,30-426-231-9306,3223.9,MACHINERY,regular furiously final
+931,Customer#000000931,790 Main St,1,48-535-364-2899,5639.99,MACHINERY,final regular final silent final slyly furiously
+932,Customer#000000932,545 Main St,24,59-991-790-2310,654.27,FURNITURE,blithely unusual slyly carefully regular special express pending
+933,Customer#000000933,502 Main St,14,56-151-713-7050,1775.6,FURNITURE,express slyly silent unusual final special express blithely
+934,Customer#000000934,611 Main St,3,55-849-137-9704,7125.48,BUILDING,pending pending carefully blithely
+935,Customer#000000935,442 Main St,8,54-569-805-4999,9106.52,HOUSEHOLD,regular special final pending furiously blithely quickly
+936,Customer#000000936,392 Main St,16,20-445-752-5947,3647.83,AUTOMOBILE,furiously express blithely quickly
+937,Customer#000000937,857 Main St,13,24-912-296-5275,9944.09,HOUSEHOLD,silent slyly carefully special silent unusual furiously
+938,Customer#000000938,282 Main St,23,98-896-290-5535,4517.19,AUTOMOBILE,final unusual express special unusual slyly blithely
+939,Customer#000000939,282 Main St,8,69-713-909-6212,68.63,BUILDING,carefully unusual blithely
+940,Customer#000000940,746 Main St,22,87-946-571-7893,5982.5,FURNITURE,final furiously special final final regular regular
+941,Customer#000000941,761 Main St,15,36-645-814-3785,6402.84,FURNITURE,special quickly furiously blithely silent final
+942,Customer#000000942,213 Main St,23,77-478-411-5781,7259.43,MACHINERY,regular pending blithely blithely silent final slyly slyly
+943,Customer#000000943,291 Main St,17,72-340-484-9807,448.68,HOUSEHOLD,pending unusual furiously
+944,Customer#000000944,585 Main St,9,32-985-262-7571,5050.77,FURNITURE,regular blithely express final
+945,Customer#000000945,109 Main St,21,97-748-880-6206,4525.35,HOUSEHOLD,unusual final slyly express furiously pending
+946,Customer#000000946,895 Main St,5,61-395-103-9727,8128.52,MACHINERY,unusual quickly final blithely furiously final blithely blithely
+947,Customer#000000947,142 Main St,19,89-615-182-7697,9400.37,FURNITURE,unusual silent regular pending final carefully quickly
+948,Customer#000000948,670 Main St,12,80-623-984-4162,8353.39,BUILDING,final quickly unusual furiously furiously express
+949,Customer#000000949,301 Main St,2,13-311-691-8555,4051.12,HOUSEHOLD,furiously slyly furiously silent pending blithely
+950,Customer#000000950,340 Main St,5,41-573-839-2144,-924.27,AUTOMOBILE,carefully quickly furiously quickly special regular express carefully
+951,Customer#000000951,124 Main St,22,87-762-646-1388,3823.73,AUTOMOBILE,slyly slyly carefully special final
+952,Customer#000000952,950 Main St,16,90-765-550-8021,7661.65,AUTOMOBILE,quickly slyly silent slyly
+953,Customer#000000953,740 Main St,5,56-522-772-6567,561.46,BUILDING,unusual pending blithely special quickly regular
+954,Customer#000000954,251 Main St,24,43-450-402-8285,2637.28,MACHINERY,express express special pending silent special quickly silent
+955,Customer#000000955,731 Main St,9,49-833-262-5992,4228.13,MACHINERY,express carefully carefully pending express final blithely special
+956,Customer#000000956,217 Main St,18,48-251-698-1197,1853.64,HOUSEHOLD,quickly silent regular quickly furiously blithely blithely silent
+957,Customer#000000957,536 Main St,11,58-986-596-3770,8578.6,MACHINERY,regular final carefully special
+958,Customer#000000958,231 Main St,9,36-329-253-5559,5695.05,AUTOMOBILE,unusual regular silent blithely special carefully slyly slyly
+959,Customer#000000959,920 Main St,7,35-472-780-1538,3383.41,AUTOMOBILE,silent express furiously quickly silent
+960,Customer#000000960,82 Main St,1,67-680-635-5062,1691.62,BUILDING,furiously quickly unusual carefully unusual furiously express express
+961,Customer#000000961,761 Main St,6,18-235-635-5960,-330.47,BUILDING,blithely silent regular silent
+962,Customer#000000962,801 Main St,1,50-908-749-2196,1160.69,AUTOMOBILE,pending unusual silent unusual regular silent
+963,Customer#000000963,596 Main St,13,24-837-553-4191,5478.31,HOUSEHOLD,furiously express final express blithely express
+964,Customer#000000964,495 Main St,16,46-760-406-5328,8539.86,BUILDING,express silent express regular furiously
+965,Customer#000000965,969 Main St,5,72-106-426-9348,4175.57,BUILDING,special regular express furiously
+966,Customer#000000966,454 Main St,10,91-803-651-3992,1129.56,AUTOMOBILE,unusual silent express silent
+967,Customer#000000967,106 Main St,21,48-724-315-3532,2561.42,BUILDING,slyly quickly blithely pending furiously furiously
+968,Customer#000000968,670 Main St,19,63-898-843-5413,1515.97,FURNITURE,furiously quickly final express carefully slyly
+969,Customer#000000969,323 Main St,14,49-535-676-7447,7389.64,AUTOMOBILE,special final blithely pending regular express
+970,Customer#000000970,839 Main St,22,35-313-777-5193,2242.77,FURNITURE,express slyly express
+971,Customer#000000971,574 Main St,23,35-916-320-9240,3841.14,FURNITURE,special pending carefully
+972,Customer#000000972,965 Main St,23,85-581-147-7390,6565.81,MACHINERY,express blithely final pending
+973,Customer#000000973,655 Main St,10,45-650-478-8178,9159.66,AUTOMOBILE,pending carefully express slyly final pending
+974,Customer#000000974,155 Main St,18,48-687-304-2441,3820.87,FURNITURE,silent blithely silent slyly carefully pending slyly
+975,Customer#000000975,892 Main St,22,50-973-469-8304,7220.0,BUILDING,express unusual final unusual
+976,Customer#000000976,995 Main St,22,43-361-718-1379,542.98,MACHINERY,final regular special silent quickly silent
+977,Customer#000000977,17 Main St,18,65-132-616-6358,7691.51,MACHINERY,silent blithely carefully silent furiously
+978,Customer#000000978,800 Main St,3,78-262-917-9413,8309.29,AUTOMOBILE,furiously blithely furiously slyly slyly regular express
+979,Customer#000000979,463 Main St,23,29-766-438-2196,998.42,HOUSEHOLD,regular slyly carefully furiously quickly
+980,Customer#000000980,412 Main St,18,47-106-738-7388,-792.4,BUILDING,regular express unusual carefully express
+981,Customer#000000981,469 Main St,20,95-305-888-6810,8825.67,HOUSEHOLD,unusual pending express pending
+982,Customer#000000982,547 Main St,19,15-898-230-9848,2833.72,AUTOMOBILE,quickly furiously blithely unusual pending
+983,Customer#000000983,278 Main St,7,37-890-463-1447,510.44,MACHINERY,quickly final regular
+984,Customer#000000984,762 Main St,23,36-489-150-8320,3824.02,BUILDING,slyly blithely pending furiously
+985,Customer#000000985,519 Main St,18,76-224-266-4434,323.95,MACHINERY,blithely carefully express unusual furiously slyly final express
+986,Customer#000000986,115 Main St,14,12-107-489-7881,3403.39,AUTOMOBILE,final express special furiously blithely
+987,Customer#000000987,235 Main St,22,20-766-759-7384,8635.35,AUTOMOBILE,carefully quickly special quickly unusual
+988,Customer#000000988,10 Main St,4,76-259-243-8697,7385.16,AUTOMOBILE,slyly quickly blithely final final pending unusual
+989,Customer#000000989,959 Main St,16,29-859-928-3975,3015.75,AUTOMOBILE,special unusual final final
+990,Customer#000000990,862 Main St,8,89-428-129-1423,2647.41,MACHINERY,carefully pending final
+991,Customer#000000991,553 Main St,12,86-839-637-3781,739.91,AUTOMOBILE,quickly pending furiously pending regular
+992,Customer#000000992,426 Main St,17,66-237-977-1011,2425.74,MACHINERY,pending blithely final blithely carefully
+993,Customer#000000993,490 Main St,15,83-300-228-4593,4662.07,BUILDING,blithely carefully carefully express
+994,Customer#000000994,630 Main St,3,41-331-356-4024,7030.33,FURNITURE,carefully regular blithely silent furiously
+995,Customer#000000995,274 Main St,24,26-435-532-7140,6273.22,HOUSEHOLD,furiously special quickly final special unusual unusual pending
+996,Customer#000000996,35 Main St,7,30-506-430-1191,5292.95,MACHINERY,unusual quickly furiously final furiously
+997,Customer#000000997,465 Main St,19,43-658-550-2930,7194.56,HOUSEHOLD,final quickly express slyly regular
+998,Customer#000000998,563 Main St,14,94-198-784-6609,7395.96,FURNITURE,slyly regular special
+999,Customer#000000999,557 Main St,4,22-332-568-2820,323.06,FURNITURE,quickly express regular furiously
+1000,Customer#000001000,85 Main St,16,33-507-939-9370,1143.66,BUILDING,unusual carefully silent

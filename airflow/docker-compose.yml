@@ -1,0 +1,66 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:15
+    container_name: lineageiq-tpch-db
+    environment:
+      POSTGRES_USER: tpch_user
+      POSTGRES_PASSWORD: tpch_pass
+      POSTGRES_DB: tpch
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - lineageiq-network
+
+  airflow-db:
+    image: postgres:15
+    container_name: lineageiq-airflow-db
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - airflow-db-data:/var/lib/postgresql/data
+    networks:
+      - lineageiq-network
+
+  airflow:
+    image: apache/airflow:2.9.1
+    container_name: lineageiq-airflow
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@lineageiq-airflow-db/airflow
+      AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+      AIRFLOW__WEBSERVER__SECRET_KEY: 'lineageiq-secret-key-2024'
+      AIRFLOW__CORE__FERNET_KEY: 'ZmDfcTF7_60GrrY167zsiPd67pEvs0aGOv2oasOM1Pg='
+      SNOWFLAKE_ACCOUNT: RGNNREH-EJ85746
+      SNOWFLAKE_USER: CHETANAMURALI
+      SNOWFLAKE_PASSWORD: Mypuppyl@vesch33s3
+      SNOWFLAKE_ROLE: ACCOUNTADMIN
+      SNOWFLAKE_WAREHOUSE: COMPUTE_WH
+      SNOWFLAKE_DATABASE: PIPELINE_PLATFORM
+      PG_HOST: lineageiq-tpch-db
+      PG_PORT: 5432
+      PG_USER: tpch_user
+      PG_PASSWORD: tpch_pass
+      PG_DB: tpch
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ../:/opt/airflow/project
+    ports:
+      - "8081:8080"
+    depends_on:
+      - airflow-db
+    command: standalone
+    networks:
+      - lineageiq-network
+
+networks:
+  lineageiq-network:
+    driver: bridge
+
+volumes:
+  pgdata:
+  airflow-db-data:
