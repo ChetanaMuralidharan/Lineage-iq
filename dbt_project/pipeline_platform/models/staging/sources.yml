@@ -1,0 +1,11 @@
+version: 2
+sources:
+  - name: raw
+    database: PIPELINE_PLATFORM
+    schema: RAW
+    tables:
+      - name: CUSTOMER
+      - name: ORDERS
+      - name: LINEITEM
+      - name: SUPPLIER
+      - name: PART

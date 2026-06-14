@@ -1,0 +1,50 @@
+version: 2
+models:
+  - name: dim_customer
+    columns:
+      - name: customer_key
+        tests:
+          - unique
+          - not_null
+      - name: market_segment
+        tests:
+          - accepted_values:
+              values: ['AUTOMOBILE', 'BUILDING', 'FURNITURE', 'MACHINERY', 'HOUSEHOLD']
+  
+  - name: dim_supplier
+    columns:
+      - name: supplier_key
+        tests:
+          - unique
+          - not_null
+      
+  - name: dim_part
+    columns:
+      - name: part_key
+        tests:
+          - unique
+          - not_null
+
+  - name: fact_orders
+    columns:
+      - name: order_key
+        tests:
+          - unique
+          - not_null
+      - name: customer_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_customer')
+              field: customer_key
+    
+  - name: fact_lineitem
+    columns:
+      - name: order_key
+        tests:
+          - not_null
+      - name: part_key
+        tests:
+          - relationships:
+              to: ref('dim_part')
+              field: part_key
