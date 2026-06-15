@@ -1,4 +1,5 @@
 import os
+os.environ["SF_USE_OPENSSL_ONLY"] = "false"
 import json
 import snowflake.connector
 from dotenv import load_dotenv

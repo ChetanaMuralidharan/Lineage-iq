@@ -27,7 +27,8 @@ services:
       - lineageiq-network
 
   airflow:
-    image: apache/airflow:2.9.1
+    build: .
+    image: lineageiq-airflow:latest
     container_name: lineageiq-airflow
     environment:
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
@@ -46,6 +47,7 @@ services:
       PG_USER: tpch_user
       PG_PASSWORD: tpch_pass
       PG_DB: tpch
+      OLLAMA_HOST: host.docker.internal
     volumes:
       - ./dags:/opt/airflow/dags
       - ../:/opt/airflow/project
@@ -57,6 +59,15 @@ services:
     networks:
       - lineageiq-network
 
+  metabase:
+    image: metabase/metabase:latest
+    ports:
+      - "3000:3000"
+    volumes:
+      - metabase-data:/metabase-data
+    environment:
+      MB_DB_FILE: /metabase-data/metabase.db
+
 networks:
   lineageiq-network:
     driver: bridge
@@ -64,3 +75,4 @@ networks:
 volumes:
   pgdata:
   airflow-db-data:
+  metabase-data:
