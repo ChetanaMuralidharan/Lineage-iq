@@ -596,3 +596,13 @@ The architecture is designed to extend cleanly:
 ## License
 
 MIT
+
+---
+
+## Author
+
+Chetana Muralidharan
+
+Master's Student | Applied Data Intelligence
+
+GitHub: https://github.com/ChetanaMuralidharan
