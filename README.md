@@ -601,8 +601,10 @@ MIT
 
 ## Author
 
-Chetana Muralidharan
+# Author
 
-Master's Student | Applied Data Intelligence
+**Chetana Muralidharan**
 
-GitHub: https://github.com/ChetanaMuralidharan
+Data Engineer | AI Engineer | Applied Data Intelligence
+
+GitHub: https://github.com/ChetanaMuralidharan 
