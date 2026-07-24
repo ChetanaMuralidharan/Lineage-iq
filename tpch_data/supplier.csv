@@ -1,101 +1,1001 @@
 s_suppkey,s_name,s_address,s_nationkey,s_phone,s_acctbal,s_comment
-1,Supplier#000000001,799 Commerce Ave,4,82-980-643-9602,-483.04,final unusual furiously silent final pending pending
-2,Supplier#000000002,650 Commerce Ave,19,38-963-869-3491,4949.04,regular unusual special furiously final final silent
-3,Supplier#000000003,432 Commerce Ave,15,69-429-239-5915,-996.1,carefully carefully unusual carefully blithely
-4,Supplier#000000004,69 Commerce Ave,1,62-243-247-8879,8046.85,final pending regular blithely
-5,Supplier#000000005,255 Commerce Ave,11,19-331-382-3300,8819.02,carefully blithely carefully
-6,Supplier#000000006,211 Commerce Ave,14,28-788-382-6365,-881.53,silent silent slyly
-7,Supplier#000000007,613 Commerce Ave,15,39-776-548-5895,8044.64,carefully regular special furiously quickly final express
-8,Supplier#000000008,42 Commerce Ave,12,42-215-741-8643,3685.02,quickly carefully slyly slyly
-9,Supplier#000000009,231 Commerce Ave,16,23-190-849-6940,1654.22,regular carefully regular special pending slyly quickly carefully
-10,Supplier#000000010,927 Commerce Ave,8,91-620-436-7875,6336.76,furiously special pending slyly unusual
-11,Supplier#000000011,507 Commerce Ave,7,85-544-781-5354,143.63,regular blithely silent blithely quickly carefully special pending
-12,Supplier#000000012,859 Commerce Ave,20,22-689-197-2924,9634.02,final carefully quickly regular
-13,Supplier#000000013,404 Commerce Ave,22,15-455-762-8212,8374.56,quickly special final slyly carefully regular quickly
-14,Supplier#000000014,222 Commerce Ave,18,33-124-745-6389,86.85,slyly carefully quickly express slyly final
-15,Supplier#000000015,997 Commerce Ave,7,45-556-902-1783,2569.64,furiously express slyly unusual slyly silent express final
-16,Supplier#000000016,357 Commerce Ave,24,32-964-611-2456,2671.4,silent slyly furiously express express quickly pending
-17,Supplier#000000017,416 Commerce Ave,10,89-609-754-4050,7322.2,express carefully final slyly
-18,Supplier#000000018,918 Commerce Ave,11,30-272-430-1260,226.29,express silent blithely express silent unusual blithely
-19,Supplier#000000019,78 Commerce Ave,6,21-192-828-7629,8374.29,carefully silent final furiously
-20,Supplier#000000020,107 Commerce Ave,23,47-728-683-2346,2562.2,regular special silent carefully
-21,Supplier#000000021,281 Commerce Ave,0,73-329-953-4587,1698.87,regular slyly pending express
-22,Supplier#000000022,988 Commerce Ave,0,88-594-958-8191,3559.79,furiously unusual unusual silent final silent quickly
-23,Supplier#000000023,397 Commerce Ave,23,43-823-915-6963,7837.68,regular final furiously unusual silent
-24,Supplier#000000024,79 Commerce Ave,22,27-429-980-5045,7751.12,pending furiously slyly silent regular express slyly
-25,Supplier#000000025,619 Commerce Ave,7,54-834-818-4669,4118.15,quickly regular regular blithely special furiously special
-26,Supplier#000000026,460 Commerce Ave,17,93-158-455-8809,8543.34,special final furiously express
-27,Supplier#000000027,259 Commerce Ave,23,13-830-712-9041,3739.13,furiously unusual regular silent
-28,Supplier#000000028,691 Commerce Ave,9,52-338-683-9322,9408.94,slyly furiously blithely quickly
-29,Supplier#000000029,995 Commerce Ave,19,16-829-872-6871,5461.92,blithely silent carefully
-30,Supplier#000000030,751 Commerce Ave,6,41-715-892-3938,8193.13,blithely regular pending
-31,Supplier#000000031,92 Commerce Ave,3,61-687-817-7347,7854.05,carefully pending final pending final carefully
-32,Supplier#000000032,901 Commerce Ave,8,73-192-288-5268,3415.71,final blithely special regular
-33,Supplier#000000033,97 Commerce Ave,16,42-120-720-1997,9802.1,carefully pending special
-34,Supplier#000000034,542 Commerce Ave,0,10-434-493-6017,-695.8,silent quickly furiously unusual blithely unusual unusual
-35,Supplier#000000035,354 Commerce Ave,3,97-258-714-7130,5313.83,carefully quickly unusual pending slyly special
-36,Supplier#000000036,40 Commerce Ave,17,25-926-419-5774,185.53,unusual silent quickly regular blithely furiously furiously furiously
-37,Supplier#000000037,951 Commerce Ave,21,80-951-498-8338,9384.11,silent final final unusual slyly unusual final final
-38,Supplier#000000038,939 Commerce Ave,15,94-824-872-2618,8325.51,blithely express silent
-39,Supplier#000000039,589 Commerce Ave,22,78-634-503-9951,6075.18,express regular unusual furiously regular
-40,Supplier#000000040,446 Commerce Ave,12,20-602-124-9048,147.51,regular final regular slyly express carefully special
-41,Supplier#000000041,852 Commerce Ave,1,34-191-414-9893,906.95,carefully silent special express unusual
-42,Supplier#000000042,988 Commerce Ave,17,16-943-945-8107,7123.94,quickly silent carefully special unusual regular unusual
-43,Supplier#000000043,227 Commerce Ave,22,50-174-831-4335,4448.03,blithely special furiously unusual carefully furiously special
-44,Supplier#000000044,247 Commerce Ave,21,52-281-499-4741,3089.62,special pending unusual carefully quickly regular
-45,Supplier#000000045,585 Commerce Ave,22,90-417-309-5466,3501.24,final final express
-46,Supplier#000000046,923 Commerce Ave,6,72-359-714-1170,5891.91,special slyly pending carefully special pending
-47,Supplier#000000047,163 Commerce Ave,15,18-287-649-6363,841.04,express carefully furiously final silent express silent pending
-48,Supplier#000000048,123 Commerce Ave,12,35-188-668-9158,1208.68,furiously regular pending unusual slyly unusual slyly
-49,Supplier#000000049,826 Commerce Ave,2,40-546-730-7076,3819.2,regular slyly blithely silent
-50,Supplier#000000050,998 Commerce Ave,6,36-842-425-1716,5256.81,final furiously furiously final
-51,Supplier#000000051,206 Commerce Ave,20,17-500-489-3508,9415.03,special unusual unusual blithely regular quickly special
-52,Supplier#000000052,252 Commerce Ave,19,77-394-670-3639,577.01,special carefully final silent blithely
-53,Supplier#000000053,174 Commerce Ave,23,51-479-139-3350,8916.71,unusual final silent slyly slyly pending unusual blithely
-54,Supplier#000000054,578 Commerce Ave,17,19-120-764-8805,9309.31,final carefully final quickly unusual regular express furiously
-55,Supplier#000000055,652 Commerce Ave,14,71-256-565-9789,8673.88,pending blithely unusual furiously
-56,Supplier#000000056,264 Commerce Ave,5,57-857-121-8073,7859.95,special final quickly quickly
-57,Supplier#000000057,412 Commerce Ave,4,90-461-313-7648,3632.55,regular regular furiously regular final blithely
-58,Supplier#000000058,137 Commerce Ave,23,77-310-351-4554,6838.48,unusual quickly blithely blithely quickly silent slyly
-59,Supplier#000000059,419 Commerce Ave,11,92-414-318-7436,554.65,silent regular quickly
-60,Supplier#000000060,979 Commerce Ave,24,89-522-152-4267,1388.97,quickly blithely furiously regular furiously special unusual
-61,Supplier#000000061,582 Commerce Ave,21,32-379-863-3553,6053.62,slyly unusual final regular quickly pending furiously
-62,Supplier#000000062,324 Commerce Ave,19,88-643-852-1578,6438.08,pending special quickly
-63,Supplier#000000063,55 Commerce Ave,10,21-420-465-4326,7179.42,express special blithely express
-64,Supplier#000000064,927 Commerce Ave,14,70-446-820-3870,2187.16,slyly pending quickly
-65,Supplier#000000065,168 Commerce Ave,13,25-645-733-7712,741.09,blithely carefully express quickly unusual pending furiously
-66,Supplier#000000066,932 Commerce Ave,14,22-873-140-3221,8682.54,final unusual special carefully slyly furiously
-67,Supplier#000000067,599 Commerce Ave,18,33-558-120-9057,9412.64,final final pending final unusual blithely carefully
-68,Supplier#000000068,939 Commerce Ave,4,24-909-784-4229,9577.32,express slyly slyly final furiously
-69,Supplier#000000069,507 Commerce Ave,0,89-704-527-3769,3017.38,unusual express silent quickly regular
-70,Supplier#000000070,928 Commerce Ave,5,16-764-344-6023,1894.25,final express furiously blithely blithely express
-71,Supplier#000000071,33 Commerce Ave,4,89-110-852-1314,2329.82,quickly final special carefully
-72,Supplier#000000072,714 Commerce Ave,12,52-475-922-9398,8389.89,final final furiously carefully silent regular
-73,Supplier#000000073,274 Commerce Ave,2,67-787-186-6220,8476.26,special pending slyly
-74,Supplier#000000074,249 Commerce Ave,2,32-482-166-3523,5291.0,slyly quickly special special
-75,Supplier#000000075,827 Commerce Ave,10,89-172-259-8549,5941.03,slyly pending pending carefully unusual
-76,Supplier#000000076,764 Commerce Ave,2,33-193-835-2500,-957.74,unusual special special express silent regular unusual furiously
-77,Supplier#000000077,620 Commerce Ave,22,33-580-394-2003,3867.68,special unusual unusual pending silent furiously carefully
-78,Supplier#000000078,720 Commerce Ave,24,19-292-291-6265,7319.14,pending blithely blithely blithely
-79,Supplier#000000079,519 Commerce Ave,20,46-323-536-5111,8069.15,unusual special quickly carefully express pending special regular
-80,Supplier#000000080,925 Commerce Ave,23,17-734-873-8046,-120.52,regular furiously carefully express slyly quickly carefully blithely
-81,Supplier#000000081,983 Commerce Ave,2,82-368-844-6227,3958.66,slyly final express regular silent carefully unusual unusual
-82,Supplier#000000082,708 Commerce Ave,11,62-576-572-6314,9157.9,regular quickly regular pending slyly regular
-83,Supplier#000000083,26 Commerce Ave,4,50-490-991-3447,3393.6,regular slyly quickly
-84,Supplier#000000084,155 Commerce Ave,18,33-322-197-1268,3304.21,express unusual regular pending
-85,Supplier#000000085,850 Commerce Ave,17,45-333-294-8971,5675.07,regular furiously pending furiously special furiously
-86,Supplier#000000086,69 Commerce Ave,10,71-722-396-3317,1586.68,slyly final special express pending blithely
-87,Supplier#000000087,701 Commerce Ave,19,64-726-224-3120,4826.0,carefully slyly quickly final furiously
-88,Supplier#000000088,65 Commerce Ave,0,67-478-527-5032,1304.02,carefully quickly quickly blithely quickly
-89,Supplier#000000089,488 Commerce Ave,8,81-448-691-6424,6681.62,furiously slyly silent quickly
-90,Supplier#000000090,726 Commerce Ave,18,88-342-932-5081,4374.47,quickly express quickly final pending express
-91,Supplier#000000091,542 Commerce Ave,15,69-717-845-5358,-263.81,slyly slyly express pending quickly special
-92,Supplier#000000092,253 Commerce Ave,7,91-103-435-6835,8073.2,silent slyly furiously regular express quickly
-93,Supplier#000000093,205 Commerce Ave,20,34-711-719-2972,2251.82,carefully unusual slyly
-94,Supplier#000000094,290 Commerce Ave,7,58-533-817-1178,2279.95,pending special blithely slyly
-95,Supplier#000000095,81 Commerce Ave,11,69-894-251-8318,5884.79,pending regular express furiously regular unusual blithely
-96,Supplier#000000096,292 Commerce Ave,5,85-231-430-1277,363.07,silent final express carefully silent
-97,Supplier#000000097,644 Commerce Ave,13,92-431-505-3916,2592.72,blithely express slyly
-98,Supplier#000000098,41 Commerce Ave,16,17-840-834-3160,4463.44,pending pending pending
-99,Supplier#000000099,731 Commerce Ave,7,21-872-468-6850,2719.74,final special final special final slyly
-100,Supplier#000000100,712 Commerce Ave,4,80-942-191-4395,3933.48,slyly quickly unusual
+1,Supplier#000000001,882 Commerce Ave,19,46-737-311-7630,1977.14,furiously slyly unusual carefully unusual regular pending
+2,Supplier#000000002,319 Commerce Ave,4,15-339-587-1687,-875.91,slyly carefully furiously
+3,Supplier#000000003,913 Commerce Ave,14,51-252-916-5524,5686.29,express slyly pending
+4,Supplier#000000004,590 Commerce Ave,22,54-944-229-4664,242.92,carefully pending carefully slyly pending final pending
+5,Supplier#000000005,474 Commerce Ave,2,90-404-674-8678,9064.52,pending pending furiously furiously final carefully silent furiously
+6,Supplier#000000006,100 Commerce Ave,18,27-564-481-7671,835.95,express pending special furiously regular
+7,Supplier#000000007,536 Commerce Ave,3,50-669-404-7536,1709.2,express unusual slyly slyly carefully
+8,Supplier#000000008,817 Commerce Ave,19,63-188-216-8930,8284.16,furiously final special furiously special slyly blithely regular
+9,Supplier#000000009,721 Commerce Ave,7,86-747-886-4384,1723.07,unusual silent slyly unusual unusual pending blithely
+10,Supplier#000000010,153 Commerce Ave,20,12-710-105-1143,7652.82,express quickly slyly regular
+11,Supplier#000000011,698 Commerce Ave,3,43-145-370-6621,6542.14,silent pending blithely
+12,Supplier#000000012,379 Commerce Ave,9,92-235-634-5459,2957.26,quickly regular quickly unusual
+13,Supplier#000000013,204 Commerce Ave,18,11-710-389-1627,7604.81,pending blithely express silent final
+14,Supplier#000000014,216 Commerce Ave,14,62-819-719-6751,5161.87,pending silent silent slyly furiously blithely final special
+15,Supplier#000000015,255 Commerce Ave,3,52-493-502-7742,212.08,final pending express furiously furiously unusual furiously slyly
+16,Supplier#000000016,680 Commerce Ave,20,73-763-382-7977,8354.91,final blithely special silent carefully quickly
+17,Supplier#000000017,806 Commerce Ave,19,68-353-554-7115,9363.42,quickly special furiously pending unusual
+18,Supplier#000000018,93 Commerce Ave,15,41-242-560-8780,6035.11,furiously special unusual unusual furiously furiously
+19,Supplier#000000019,934 Commerce Ave,17,71-528-798-9764,5047.32,slyly express express carefully slyly quickly
+20,Supplier#000000020,67 Commerce Ave,11,44-656-797-8023,3079.14,express quickly silent express silent special unusual pending
+21,Supplier#000000021,182 Commerce Ave,21,57-919-317-6355,3017.81,furiously express pending
+22,Supplier#000000022,975 Commerce Ave,12,66-843-512-9547,641.02,final silent regular blithely carefully furiously pending
+23,Supplier#000000023,50 Commerce Ave,1,87-534-580-7591,4831.95,silent regular furiously blithely
+24,Supplier#000000024,813 Commerce Ave,23,10-421-132-3907,-573.79,special pending express furiously
+25,Supplier#000000025,255 Commerce Ave,9,56-947-182-5132,4500.17,unusual silent pending furiously regular
+26,Supplier#000000026,932 Commerce Ave,4,49-528-765-8645,9416.22,final pending silent regular express furiously
+27,Supplier#000000027,892 Commerce Ave,23,65-663-820-5344,9865.7,express unusual slyly blithely pending regular regular
+28,Supplier#000000028,154 Commerce Ave,14,39-914-280-8580,4380.31,final blithely silent blithely final
+29,Supplier#000000029,289 Commerce Ave,10,86-644-456-5378,2454.85,pending quickly carefully carefully express
+30,Supplier#000000030,975 Commerce Ave,0,30-886-787-6979,1886.94,blithely furiously unusual special carefully silent silent
+31,Supplier#000000031,966 Commerce Ave,3,46-877-524-8386,8837.27,final unusual quickly silent regular furiously slyly
+32,Supplier#000000032,795 Commerce Ave,8,80-326-477-7528,2144.16,slyly quickly final express quickly
+33,Supplier#000000033,826 Commerce Ave,14,81-342-251-9728,-139.93,silent slyly carefully blithely special furiously pending
+34,Supplier#000000034,506 Commerce Ave,3,11-836-924-9230,2021.64,blithely express unusual blithely express blithely
+35,Supplier#000000035,195 Commerce Ave,24,21-872-110-7767,7623.0,final express final unusual slyly unusual furiously special
+36,Supplier#000000036,335 Commerce Ave,16,42-806-711-9290,2161.19,carefully final unusual quickly special silent unusual special
+37,Supplier#000000037,81 Commerce Ave,11,77-297-990-4742,8118.88,quickly furiously pending unusual unusual furiously
+38,Supplier#000000038,574 Commerce Ave,16,14-648-797-2378,1051.79,final silent special regular blithely silent quickly unusual
+39,Supplier#000000039,285 Commerce Ave,2,40-793-327-3871,8701.84,express slyly quickly final express regular furiously unusual
+40,Supplier#000000040,854 Commerce Ave,22,14-945-819-9488,5692.87,quickly quickly slyly unusual quickly
+41,Supplier#000000041,89 Commerce Ave,15,20-257-904-9133,6134.92,regular furiously regular
+42,Supplier#000000042,858 Commerce Ave,23,42-565-797-2806,902.32,carefully express furiously blithely
+43,Supplier#000000043,481 Commerce Ave,2,30-115-895-3058,8008.12,carefully carefully pending regular final regular final
+44,Supplier#000000044,786 Commerce Ave,8,50-454-644-2020,1281.93,final silent slyly furiously carefully
+45,Supplier#000000045,34 Commerce Ave,8,95-323-491-1884,4369.4,pending final regular silent
+46,Supplier#000000046,108 Commerce Ave,11,16-298-703-1389,5960.41,blithely special regular carefully blithely silent
+47,Supplier#000000047,35 Commerce Ave,5,93-413-577-4650,9030.31,pending silent final
+48,Supplier#000000048,77 Commerce Ave,9,44-213-258-5883,3433.44,regular blithely express furiously
+49,Supplier#000000049,858 Commerce Ave,23,38-710-544-2583,4290.44,final carefully furiously special
+50,Supplier#000000050,689 Commerce Ave,21,66-758-730-3409,2652.94,unusual blithely pending
+51,Supplier#000000051,763 Commerce Ave,18,33-531-948-3701,2959.22,pending pending silent unusual final
+52,Supplier#000000052,23 Commerce Ave,19,11-188-699-4854,5931.03,regular furiously final blithely
+53,Supplier#000000053,505 Commerce Ave,23,30-170-530-8270,-95.14,carefully special slyly
+54,Supplier#000000054,994 Commerce Ave,21,90-780-397-3660,7748.44,carefully final express express express slyly slyly
+55,Supplier#000000055,213 Commerce Ave,20,87-209-592-4674,2676.98,slyly special final express regular slyly
+56,Supplier#000000056,734 Commerce Ave,18,97-602-787-1307,5382.88,final quickly regular silent blithely pending pending
+57,Supplier#000000057,261 Commerce Ave,21,83-292-198-1804,5174.54,quickly regular express blithely furiously quickly
+58,Supplier#000000058,527 Commerce Ave,7,82-568-169-9785,1263.5,unusual regular regular
+59,Supplier#000000059,50 Commerce Ave,11,94-966-268-1436,9027.79,pending final pending pending carefully unusual
+60,Supplier#000000060,91 Commerce Ave,17,69-818-428-2345,3304.54,furiously silent special
+61,Supplier#000000061,674 Commerce Ave,13,46-963-660-8412,6461.76,blithely express special silent pending final
+62,Supplier#000000062,281 Commerce Ave,16,21-359-458-7675,7120.63,silent final regular regular express furiously
+63,Supplier#000000063,481 Commerce Ave,12,95-166-281-9073,9785.68,slyly regular pending slyly regular blithely slyly
+64,Supplier#000000064,290 Commerce Ave,22,84-674-692-1235,3311.38,pending unusual express blithely unusual special special
+65,Supplier#000000065,189 Commerce Ave,9,60-613-342-2002,4793.33,silent silent unusual unusual
+66,Supplier#000000066,597 Commerce Ave,19,68-660-907-5749,6274.67,pending express express
+67,Supplier#000000067,703 Commerce Ave,2,62-392-696-8135,3571.88,regular regular blithely silent furiously
+68,Supplier#000000068,781 Commerce Ave,14,62-515-172-6488,585.85,final carefully blithely unusual quickly quickly
+69,Supplier#000000069,95 Commerce Ave,4,44-300-858-1182,572.71,silent furiously furiously
+70,Supplier#000000070,305 Commerce Ave,0,52-197-172-4140,6715.86,silent silent final regular
+71,Supplier#000000071,831 Commerce Ave,15,76-612-150-6110,8133.56,furiously final slyly furiously unusual final final pending
+72,Supplier#000000072,270 Commerce Ave,12,61-183-785-5674,6679.63,furiously unusual blithely quickly slyly
+73,Supplier#000000073,309 Commerce Ave,13,34-770-537-4924,5419.23,quickly regular silent slyly final carefully quickly carefully
+74,Supplier#000000074,434 Commerce Ave,16,11-938-150-5419,9720.05,carefully furiously special final quickly pending blithely express
+75,Supplier#000000075,30 Commerce Ave,7,19-307-178-7428,9212.28,final special blithely blithely final pending
+76,Supplier#000000076,225 Commerce Ave,2,22-184-902-9723,9682.98,final unusual silent slyly slyly unusual slyly slyly
+77,Supplier#000000077,258 Commerce Ave,19,30-495-391-2369,3335.26,furiously final carefully slyly regular silent
+78,Supplier#000000078,813 Commerce Ave,16,51-380-847-3375,7964.77,final silent carefully unusual unusual silent
+79,Supplier#000000079,217 Commerce Ave,4,71-829-711-2137,5329.37,pending quickly final pending
+80,Supplier#000000080,520 Commerce Ave,9,78-809-961-9190,6794.19,carefully final final
+81,Supplier#000000081,359 Commerce Ave,18,83-973-444-8349,7142.25,silent pending silent
+82,Supplier#000000082,877 Commerce Ave,4,95-394-705-2822,-757.57,unusual blithely quickly unusual final carefully
+83,Supplier#000000083,165 Commerce Ave,19,21-606-534-1386,-647.54,special furiously furiously furiously furiously final
+84,Supplier#000000084,82 Commerce Ave,19,45-615-179-7329,4001.56,blithely pending express final pending special
+85,Supplier#000000085,824 Commerce Ave,10,29-339-865-4708,3749.89,carefully regular express express furiously carefully
+86,Supplier#000000086,650 Commerce Ave,9,77-390-828-4502,1700.03,special final final unusual final
+87,Supplier#000000087,657 Commerce Ave,1,24-436-427-7337,5005.41,slyly blithely silent
+88,Supplier#000000088,48 Commerce Ave,19,75-458-358-1493,9837.2,express regular silent carefully unusual pending slyly carefully
+89,Supplier#000000089,209 Commerce Ave,17,16-326-299-9892,8747.2,slyly final unusual
+90,Supplier#000000090,304 Commerce Ave,24,24-718-796-6760,2303.82,special slyly quickly furiously final express silent carefully
+91,Supplier#000000091,572 Commerce Ave,4,25-302-365-3317,6366.74,slyly pending furiously silent unusual regular express blithely
+92,Supplier#000000092,811 Commerce Ave,17,46-419-586-2355,8941.03,unusual regular regular unusual
+93,Supplier#000000093,132 Commerce Ave,11,53-399-570-8928,385.51,blithely special silent
+94,Supplier#000000094,945 Commerce Ave,13,98-785-209-9423,7824.16,blithely express silent quickly quickly final final regular
+95,Supplier#000000095,394 Commerce Ave,20,90-504-854-3635,5681.03,furiously express final pending pending express quickly blithely
+96,Supplier#000000096,174 Commerce Ave,4,68-242-434-2965,9501.3,pending unusual slyly regular express
+97,Supplier#000000097,466 Commerce Ave,15,36-179-342-7038,8202.4,unusual regular quickly
+98,Supplier#000000098,603 Commerce Ave,5,26-442-279-5115,3756.35,silent blithely carefully final special slyly
+99,Supplier#000000099,270 Commerce Ave,21,88-855-619-3956,-663.81,carefully silent special special silent silent express quickly
+100,Supplier#000000100,114 Commerce Ave,15,38-904-728-6619,2528.65,carefully slyly slyly unusual final furiously blithely unusual
+101,Supplier#000000101,628 Commerce Ave,18,21-824-314-4408,-413.67,slyly final final quickly final
+102,Supplier#000000102,740 Commerce Ave,18,86-706-994-6616,1881.22,carefully special regular carefully
+103,Supplier#000000103,356 Commerce Ave,21,21-779-786-2343,6865.47,special silent slyly final slyly slyly special pending
+104,Supplier#000000104,334 Commerce Ave,13,76-212-562-4026,7044.79,furiously slyly regular silent quickly
+105,Supplier#000000105,575 Commerce Ave,2,30-139-458-5268,3528.36,carefully express carefully slyly furiously pending pending special
+106,Supplier#000000106,51 Commerce Ave,13,10-599-361-5870,6593.91,pending pending pending furiously final express
+107,Supplier#000000107,932 Commerce Ave,10,15-473-778-4644,1449.02,final special unusual silent silent
+108,Supplier#000000108,789 Commerce Ave,7,96-313-517-4286,1176.3,final express slyly regular
+109,Supplier#000000109,212 Commerce Ave,11,83-575-526-6345,2822.64,furiously final pending
+110,Supplier#000000110,833 Commerce Ave,6,97-804-532-5632,4404.76,silent blithely express
+111,Supplier#000000111,794 Commerce Ave,1,48-853-505-7602,5837.53,pending blithely blithely unusual silent slyly
+112,Supplier#000000112,347 Commerce Ave,19,74-814-193-4471,2357.86,pending blithely final slyly unusual furiously slyly silent
+113,Supplier#000000113,245 Commerce Ave,9,31-489-460-6087,5500.17,carefully final quickly unusual blithely slyly special slyly
+114,Supplier#000000114,752 Commerce Ave,8,14-906-403-6840,1386.34,quickly slyly carefully quickly furiously
+115,Supplier#000000115,10 Commerce Ave,16,80-156-838-2104,6506.63,pending blithely slyly blithely carefully final
+116,Supplier#000000116,312 Commerce Ave,16,56-205-768-7145,9676.55,slyly special express carefully slyly regular blithely pending
+117,Supplier#000000117,74 Commerce Ave,22,99-523-903-2480,8882.01,quickly final special regular unusual pending slyly
+118,Supplier#000000118,319 Commerce Ave,17,23-493-107-2644,1878.13,regular express express final quickly
+119,Supplier#000000119,977 Commerce Ave,10,40-658-123-9382,728.37,blithely regular furiously quickly carefully carefully
+120,Supplier#000000120,605 Commerce Ave,12,95-873-810-2072,8696.78,silent regular quickly regular unusual quickly
+121,Supplier#000000121,942 Commerce Ave,11,90-690-939-7467,2759.98,carefully blithely express regular carefully
+122,Supplier#000000122,928 Commerce Ave,11,59-945-240-5186,7596.06,unusual carefully pending
+123,Supplier#000000123,895 Commerce Ave,15,98-203-335-6760,7474.57,pending express furiously quickly special
+124,Supplier#000000124,885 Commerce Ave,3,23-586-838-7172,525.42,blithely blithely silent pending quickly blithely furiously express
+125,Supplier#000000125,95 Commerce Ave,18,59-816-393-9985,-942.13,unusual blithely express unusual quickly unusual
+126,Supplier#000000126,61 Commerce Ave,2,76-137-128-7783,5246.21,regular unusual silent silent furiously slyly
+127,Supplier#000000127,976 Commerce Ave,1,37-991-440-8206,3477.16,final pending pending
+128,Supplier#000000128,429 Commerce Ave,22,46-269-108-6364,8653.12,slyly pending special regular
+129,Supplier#000000129,660 Commerce Ave,24,53-228-103-1426,6490.24,express quickly silent slyly carefully unusual
+130,Supplier#000000130,911 Commerce Ave,13,60-961-236-4839,2175.53,furiously special unusual carefully unusual
+131,Supplier#000000131,873 Commerce Ave,23,23-630-835-2622,6992.67,express regular final regular silent
+132,Supplier#000000132,603 Commerce Ave,3,40-540-670-1384,1862.24,carefully pending special final
+133,Supplier#000000133,17 Commerce Ave,17,49-287-553-6444,9634.64,regular unusual silent express
+134,Supplier#000000134,192 Commerce Ave,5,77-634-248-8566,2336.23,silent silent pending final special
+135,Supplier#000000135,834 Commerce Ave,4,63-226-853-8778,4349.23,special furiously slyly carefully express quickly pending
+136,Supplier#000000136,979 Commerce Ave,14,32-120-313-2113,7953.06,special regular carefully pending special slyly carefully
+137,Supplier#000000137,86 Commerce Ave,14,65-272-754-4633,2958.7,silent pending final pending
+138,Supplier#000000138,206 Commerce Ave,17,60-798-557-6771,-913.46,final regular final
+139,Supplier#000000139,515 Commerce Ave,17,58-106-593-2321,4158.82,carefully silent quickly express blithely
+140,Supplier#000000140,225 Commerce Ave,14,83-476-152-6305,990.1,express regular regular special unusual express
+141,Supplier#000000141,336 Commerce Ave,17,65-774-674-3460,5756.05,special blithely pending final quickly quickly
+142,Supplier#000000142,315 Commerce Ave,1,92-992-816-4889,-739.1,quickly silent furiously special carefully slyly quickly pending
+143,Supplier#000000143,514 Commerce Ave,5,92-854-271-3379,2773.26,blithely regular slyly silent silent furiously slyly
+144,Supplier#000000144,447 Commerce Ave,1,50-942-933-3875,-884.92,special express slyly furiously pending
+145,Supplier#000000145,787 Commerce Ave,9,78-775-962-8912,8107.63,blithely silent pending express unusual regular blithely special
+146,Supplier#000000146,302 Commerce Ave,1,52-423-955-4622,8047.45,silent slyly blithely slyly pending silent slyly
+147,Supplier#000000147,416 Commerce Ave,13,44-751-726-7272,1210.27,special final express regular final
+148,Supplier#000000148,419 Commerce Ave,24,64-577-884-9223,3112.29,blithely pending blithely express quickly
+149,Supplier#000000149,423 Commerce Ave,22,40-842-623-6912,2004.87,regular blithely express furiously pending quickly
+150,Supplier#000000150,926 Commerce Ave,0,69-628-790-7224,3358.4,quickly regular final carefully furiously
+151,Supplier#000000151,432 Commerce Ave,22,55-982-699-6086,2222.73,furiously furiously special final express regular final unusual
+152,Supplier#000000152,252 Commerce Ave,22,90-782-327-9068,9490.91,express special final unusual regular slyly quickly carefully
+153,Supplier#000000153,99 Commerce Ave,23,91-839-524-3139,5344.91,furiously final silent pending blithely carefully express quickly
+154,Supplier#000000154,254 Commerce Ave,16,88-598-439-2056,9748.31,slyly silent final furiously blithely quickly special
+155,Supplier#000000155,891 Commerce Ave,17,52-385-551-5830,7148.21,quickly special slyly quickly express special quickly
+156,Supplier#000000156,741 Commerce Ave,11,82-304-210-6877,812.71,special blithely unusual carefully regular unusual regular
+157,Supplier#000000157,985 Commerce Ave,15,14-411-973-4627,-668.68,carefully silent special carefully express final furiously
+158,Supplier#000000158,321 Commerce Ave,11,85-121-458-8289,2509.86,special regular furiously
+159,Supplier#000000159,815 Commerce Ave,4,71-169-753-9322,-42.28,final blithely quickly
+160,Supplier#000000160,182 Commerce Ave,16,14-933-489-1216,3535.65,express quickly unusual
+161,Supplier#000000161,246 Commerce Ave,17,44-794-120-2303,9643.73,slyly slyly express furiously carefully
+162,Supplier#000000162,753 Commerce Ave,4,60-520-742-9542,5768.43,furiously regular blithely
+163,Supplier#000000163,747 Commerce Ave,24,17-412-706-7872,7802.34,unusual final silent final final quickly final pending
+164,Supplier#000000164,439 Commerce Ave,15,78-933-633-7047,1014.41,silent silent express unusual
+165,Supplier#000000165,959 Commerce Ave,18,77-354-244-5792,1047.84,pending express express silent
+166,Supplier#000000166,785 Commerce Ave,21,62-616-567-9953,4435.99,special quickly quickly slyly special blithely regular
+167,Supplier#000000167,460 Commerce Ave,21,58-568-466-1428,1202.55,special quickly pending
+168,Supplier#000000168,705 Commerce Ave,1,80-510-790-4784,5636.68,regular regular silent blithely regular express
+169,Supplier#000000169,213 Commerce Ave,16,66-380-270-5016,1346.97,unusual special regular regular special silent final
+170,Supplier#000000170,242 Commerce Ave,21,45-107-523-9960,8333.07,express blithely carefully blithely final final
+171,Supplier#000000171,788 Commerce Ave,12,86-666-131-9085,9172.69,carefully carefully express express pending
+172,Supplier#000000172,171 Commerce Ave,22,26-703-244-4133,9037.21,carefully special carefully final unusual
+173,Supplier#000000173,246 Commerce Ave,18,31-898-990-4652,5125.74,final pending quickly furiously unusual final blithely final
+174,Supplier#000000174,284 Commerce Ave,9,93-763-781-6144,8618.53,furiously quickly slyly
+175,Supplier#000000175,226 Commerce Ave,0,58-202-408-5910,-836.18,furiously furiously furiously slyly quickly special slyly
+176,Supplier#000000176,624 Commerce Ave,19,22-277-758-6638,8794.6,regular final pending
+177,Supplier#000000177,952 Commerce Ave,1,31-814-127-7699,616.87,silent pending carefully blithely quickly silent slyly quickly
+178,Supplier#000000178,932 Commerce Ave,6,75-441-564-8337,8253.27,regular regular pending
+179,Supplier#000000179,765 Commerce Ave,10,57-404-104-6547,128.28,blithely quickly blithely pending
+180,Supplier#000000180,733 Commerce Ave,3,87-346-893-9284,8169.86,slyly quickly regular unusual slyly
+181,Supplier#000000181,598 Commerce Ave,18,79-221-584-3729,2763.74,special regular slyly carefully regular silent unusual
+182,Supplier#000000182,185 Commerce Ave,8,84-297-680-1583,7988.5,regular quickly blithely
+183,Supplier#000000183,627 Commerce Ave,9,58-203-514-2670,5862.83,quickly quickly blithely unusual unusual pending
+184,Supplier#000000184,130 Commerce Ave,8,46-906-934-2848,7547.88,final carefully furiously carefully blithely carefully regular blithely
+185,Supplier#000000185,707 Commerce Ave,20,98-761-885-3022,-136.35,pending silent quickly blithely furiously
+186,Supplier#000000186,508 Commerce Ave,7,68-758-358-7778,4475.37,special slyly slyly unusual silent carefully
+187,Supplier#000000187,914 Commerce Ave,12,17-563-436-1161,9841.69,carefully quickly blithely special
+188,Supplier#000000188,110 Commerce Ave,0,82-634-113-6642,6261.62,carefully slyly silent slyly slyly regular
+189,Supplier#000000189,883 Commerce Ave,0,61-575-198-5781,-882.63,unusual furiously silent silent silent blithely carefully
+190,Supplier#000000190,654 Commerce Ave,4,84-544-529-7810,1929.02,slyly slyly furiously carefully express
+191,Supplier#000000191,705 Commerce Ave,13,69-368-825-9266,-98.6,quickly carefully furiously quickly final regular unusual
+192,Supplier#000000192,851 Commerce Ave,12,25-734-460-8486,6696.95,special express final pending furiously slyly carefully unusual
+193,Supplier#000000193,671 Commerce Ave,1,27-958-321-9262,2007.47,special final slyly regular final unusual
+194,Supplier#000000194,991 Commerce Ave,7,57-168-971-3486,1707.19,carefully final blithely pending regular unusual special
+195,Supplier#000000195,666 Commerce Ave,19,30-443-532-4661,3755.38,express furiously quickly furiously final slyly regular
+196,Supplier#000000196,758 Commerce Ave,23,49-172-567-9549,4010.63,quickly quickly special
+197,Supplier#000000197,499 Commerce Ave,21,13-631-542-9751,4482.34,furiously blithely blithely carefully carefully special
+198,Supplier#000000198,162 Commerce Ave,2,61-322-675-3491,2968.08,carefully pending blithely furiously pending blithely
+199,Supplier#000000199,902 Commerce Ave,18,73-383-508-8625,3282.48,express slyly pending carefully quickly blithely
+200,Supplier#000000200,745 Commerce Ave,14,24-628-293-1541,8655.6,blithely regular express
+201,Supplier#000000201,301 Commerce Ave,24,75-177-936-6785,9285.12,unusual unusual slyly blithely silent
+202,Supplier#000000202,692 Commerce Ave,11,63-832-597-1809,2192.85,regular quickly pending quickly express
+203,Supplier#000000203,169 Commerce Ave,18,10-646-501-5360,2315.02,carefully carefully regular quickly
+204,Supplier#000000204,238 Commerce Ave,1,25-780-158-2866,-923.96,express carefully express
+205,Supplier#000000205,635 Commerce Ave,4,61-632-828-4972,4506.52,slyly slyly express silent regular
+206,Supplier#000000206,661 Commerce Ave,8,74-436-886-3435,9168.04,final special furiously pending furiously pending
+207,Supplier#000000207,243 Commerce Ave,15,28-608-805-1144,248.54,blithely furiously quickly slyly carefully blithely
+208,Supplier#000000208,923 Commerce Ave,11,10-890-481-6047,2357.34,carefully unusual pending
+209,Supplier#000000209,732 Commerce Ave,20,58-195-661-9060,2122.42,final silent silent blithely quickly
+210,Supplier#000000210,330 Commerce Ave,3,50-258-897-7252,3175.36,regular express furiously
+211,Supplier#000000211,692 Commerce Ave,8,96-656-781-5952,8015.87,silent silent special slyly
+212,Supplier#000000212,54 Commerce Ave,16,65-458-488-7569,5470.56,slyly furiously silent express quickly
+213,Supplier#000000213,867 Commerce Ave,14,99-695-321-3655,-897.17,regular unusual silent
+214,Supplier#000000214,982 Commerce Ave,7,69-309-243-4250,4960.51,pending pending unusual quickly final regular unusual unusual
+215,Supplier#000000215,107 Commerce Ave,0,34-525-337-2066,6473.28,slyly express carefully blithely quickly
+216,Supplier#000000216,230 Commerce Ave,4,75-985-514-9607,6702.19,slyly furiously special final furiously unusual furiously blithely
+217,Supplier#000000217,625 Commerce Ave,13,60-969-637-2450,1114.31,furiously carefully quickly special express
+218,Supplier#000000218,646 Commerce Ave,8,30-695-149-9569,9534.26,carefully furiously quickly carefully blithely quickly slyly unusual
+219,Supplier#000000219,765 Commerce Ave,17,90-416-366-1781,1717.36,silent slyly quickly
+220,Supplier#000000220,698 Commerce Ave,15,53-362-180-7526,1739.19,final quickly unusual
+221,Supplier#000000221,61 Commerce Ave,14,71-376-202-4100,684.5,silent pending special slyly furiously pending carefully
+222,Supplier#000000222,377 Commerce Ave,0,32-341-806-5609,3281.54,furiously final quickly pending special quickly carefully
+223,Supplier#000000223,631 Commerce Ave,6,48-651-151-5922,2055.33,carefully special furiously special
+224,Supplier#000000224,709 Commerce Ave,22,37-662-977-5467,973.68,express regular silent special slyly furiously
+225,Supplier#000000225,161 Commerce Ave,3,27-518-511-9916,2497.16,silent special silent silent unusual pending carefully
+226,Supplier#000000226,717 Commerce Ave,20,69-112-285-2343,3135.44,quickly carefully final silent express
+227,Supplier#000000227,603 Commerce Ave,8,27-928-620-8364,2660.69,silent carefully blithely unusual final carefully
+228,Supplier#000000228,710 Commerce Ave,18,71-884-351-2483,479.26,carefully silent blithely quickly special carefully final
+229,Supplier#000000229,856 Commerce Ave,10,54-545-964-4061,3988.59,special quickly furiously
+230,Supplier#000000230,228 Commerce Ave,18,18-184-335-7179,6417.27,express silent unusual silent slyly carefully final
+231,Supplier#000000231,772 Commerce Ave,6,60-825-603-6435,5996.21,quickly express unusual carefully blithely quickly
+232,Supplier#000000232,880 Commerce Ave,7,29-481-792-8505,7485.54,express special special special slyly
+233,Supplier#000000233,584 Commerce Ave,21,70-874-497-7378,2919.1,slyly carefully special slyly final
+234,Supplier#000000234,492 Commerce Ave,14,71-800-752-5398,9537.49,final final regular slyly
+235,Supplier#000000235,123 Commerce Ave,4,22-664-868-4171,5088.33,special slyly pending regular carefully unusual regular final
+236,Supplier#000000236,902 Commerce Ave,11,93-272-984-4961,2951.27,slyly quickly furiously
+237,Supplier#000000237,286 Commerce Ave,8,69-113-690-9985,5253.14,slyly quickly express carefully
+238,Supplier#000000238,651 Commerce Ave,4,20-223-354-2301,8950.89,unusual regular special slyly slyly silent special
+239,Supplier#000000239,12 Commerce Ave,3,40-479-385-8495,1875.95,quickly furiously regular final pending furiously quickly express
+240,Supplier#000000240,838 Commerce Ave,0,90-990-274-5619,4965.64,regular regular carefully slyly quickly
+241,Supplier#000000241,190 Commerce Ave,3,22-147-754-9740,9035.08,regular final final quickly furiously
+242,Supplier#000000242,101 Commerce Ave,17,29-374-308-6001,2064.02,blithely special furiously final quickly quickly pending express
+243,Supplier#000000243,637 Commerce Ave,23,78-300-422-9453,8477.31,silent regular final unusual final regular
+244,Supplier#000000244,678 Commerce Ave,21,22-158-871-3889,393.64,carefully quickly slyly final special carefully
+245,Supplier#000000245,360 Commerce Ave,5,75-918-424-1635,5535.28,express blithely blithely carefully regular quickly carefully
+246,Supplier#000000246,70 Commerce Ave,1,54-146-468-3211,-851.38,final express final pending regular
+247,Supplier#000000247,258 Commerce Ave,1,45-985-861-9241,1884.86,unusual regular final blithely unusual furiously final
+248,Supplier#000000248,552 Commerce Ave,20,82-392-182-2996,27.57,carefully slyly regular blithely pending quickly express
+249,Supplier#000000249,921 Commerce Ave,0,29-172-415-3331,9315.51,pending special regular blithely carefully
+250,Supplier#000000250,184 Commerce Ave,13,31-419-438-3587,-326.61,final furiously regular furiously slyly pending slyly
+251,Supplier#000000251,761 Commerce Ave,20,45-968-750-8038,-878.33,express final regular
+252,Supplier#000000252,263 Commerce Ave,8,25-205-991-8375,2502.26,regular pending final slyly pending
+253,Supplier#000000253,749 Commerce Ave,13,14-153-899-1727,5843.01,special carefully quickly carefully furiously pending express
+254,Supplier#000000254,640 Commerce Ave,15,44-118-863-5467,9418.9,carefully pending carefully furiously regular final unusual express
+255,Supplier#000000255,75 Commerce Ave,12,78-947-913-6681,6139.4,express pending regular carefully silent unusual blithely
+256,Supplier#000000256,484 Commerce Ave,13,27-690-741-5205,-307.39,unusual pending unusual silent
+257,Supplier#000000257,30 Commerce Ave,2,51-825-113-4786,8037.98,slyly special regular carefully blithely
+258,Supplier#000000258,864 Commerce Ave,8,58-874-757-1431,6840.52,blithely silent slyly furiously
+259,Supplier#000000259,600 Commerce Ave,15,55-303-320-1888,3339.79,blithely unusual silent final
+260,Supplier#000000260,461 Commerce Ave,20,11-994-699-4750,1766.55,unusual express express blithely regular carefully
+261,Supplier#000000261,215 Commerce Ave,24,21-445-753-2647,4548.38,furiously furiously blithely silent final regular carefully
+262,Supplier#000000262,339 Commerce Ave,23,55-669-132-7619,7035.46,pending quickly special unusual final pending carefully silent
+263,Supplier#000000263,592 Commerce Ave,17,21-134-668-5327,2700.42,furiously silent blithely blithely silent furiously quickly carefully
+264,Supplier#000000264,886 Commerce Ave,3,18-599-938-9800,-736.03,furiously carefully silent special regular furiously carefully silent
+265,Supplier#000000265,265 Commerce Ave,10,69-361-699-8335,8800.86,furiously silent final
+266,Supplier#000000266,7 Commerce Ave,13,60-834-948-6885,-75.67,furiously furiously regular slyly quickly
+267,Supplier#000000267,428 Commerce Ave,11,21-837-200-8508,1905.67,furiously pending regular furiously final
+268,Supplier#000000268,895 Commerce Ave,23,71-557-909-8557,5359.6,express carefully furiously
+269,Supplier#000000269,191 Commerce Ave,13,97-858-981-8640,38.62,furiously furiously quickly
+270,Supplier#000000270,439 Commerce Ave,16,55-947-632-4975,8447.19,final final unusual express silent final unusual blithely
+271,Supplier#000000271,476 Commerce Ave,8,40-265-728-7570,1862.79,regular unusual silent furiously furiously carefully carefully
+272,Supplier#000000272,971 Commerce Ave,11,58-294-945-5510,9178.68,special final unusual final final silent regular
+273,Supplier#000000273,362 Commerce Ave,6,72-824-649-7166,3116.11,pending blithely pending final regular
+274,Supplier#000000274,650 Commerce Ave,20,48-422-800-2380,5820.65,unusual furiously silent quickly slyly final pending
+275,Supplier#000000275,856 Commerce Ave,12,59-644-748-7930,9516.85,slyly blithely slyly special furiously blithely regular final
+276,Supplier#000000276,166 Commerce Ave,18,99-376-478-6325,6487.04,express blithely special quickly express
+277,Supplier#000000277,292 Commerce Ave,15,53-276-102-8880,-904.19,unusual express pending unusual
+278,Supplier#000000278,776 Commerce Ave,2,46-203-453-8818,2341.39,blithely unusual pending silent silent
+279,Supplier#000000279,115 Commerce Ave,16,29-742-643-4413,293.02,special regular blithely slyly unusual blithely unusual
+280,Supplier#000000280,528 Commerce Ave,19,45-990-259-1507,5242.0,unusual regular carefully quickly slyly
+281,Supplier#000000281,264 Commerce Ave,5,33-546-373-4716,5537.37,final express unusual silent final carefully
+282,Supplier#000000282,119 Commerce Ave,10,33-207-342-9552,6719.88,express blithely carefully
+283,Supplier#000000283,429 Commerce Ave,16,86-928-363-6064,6383.69,regular silent silent silent
+284,Supplier#000000284,888 Commerce Ave,16,59-634-446-3027,9186.99,furiously unusual quickly slyly pending
+285,Supplier#000000285,792 Commerce Ave,13,83-442-921-9079,9798.47,unusual regular slyly blithely furiously special
+286,Supplier#000000286,21 Commerce Ave,17,99-273-210-3142,1016.22,unusual final regular special unusual blithely
+287,Supplier#000000287,138 Commerce Ave,16,77-577-617-4225,3360.42,furiously blithely blithely unusual quickly carefully unusual quickly
+288,Supplier#000000288,224 Commerce Ave,12,11-345-264-5230,6814.76,quickly silent quickly final silent carefully pending quickly
+289,Supplier#000000289,682 Commerce Ave,23,81-957-217-5588,1556.67,final silent unusual final express regular final
+290,Supplier#000000290,631 Commerce Ave,3,59-124-249-3425,6955.3,slyly blithely pending quickly regular final carefully
+291,Supplier#000000291,853 Commerce Ave,21,58-574-620-2664,6528.99,regular express furiously special
+292,Supplier#000000292,363 Commerce Ave,16,48-568-683-4613,5438.2,unusual unusual slyly unusual silent special silent regular
+293,Supplier#000000293,473 Commerce Ave,3,81-556-210-4531,7588.99,carefully special furiously final silent express
+294,Supplier#000000294,249 Commerce Ave,19,82-671-861-7498,8516.72,carefully final unusual express slyly unusual
+295,Supplier#000000295,857 Commerce Ave,22,92-813-969-2871,1222.24,express unusual furiously carefully blithely
+296,Supplier#000000296,117 Commerce Ave,11,43-903-600-9357,8822.93,regular special furiously quickly furiously
+297,Supplier#000000297,753 Commerce Ave,9,82-140-767-1190,7669.19,special furiously silent blithely
+298,Supplier#000000298,162 Commerce Ave,16,12-925-230-5347,3285.43,silent silent special furiously pending
+299,Supplier#000000299,952 Commerce Ave,10,33-278-633-6040,5662.79,pending regular regular
+300,Supplier#000000300,21 Commerce Ave,5,85-282-915-3614,1005.3,slyly silent unusual pending
+301,Supplier#000000301,828 Commerce Ave,18,80-323-199-9731,1617.1,special unusual blithely unusual pending
+302,Supplier#000000302,804 Commerce Ave,13,85-285-956-3391,9433.64,pending blithely regular carefully carefully
+303,Supplier#000000303,645 Commerce Ave,1,44-706-572-6323,7193.93,unusual quickly unusual express blithely final express
+304,Supplier#000000304,474 Commerce Ave,17,74-909-477-5377,8360.04,silent carefully silent quickly carefully express
+305,Supplier#000000305,585 Commerce Ave,16,87-384-478-1596,302.46,regular express slyly slyly unusual special slyly
+306,Supplier#000000306,599 Commerce Ave,12,31-797-508-2055,6001.62,carefully pending unusual regular pending unusual quickly silent
+307,Supplier#000000307,948 Commerce Ave,21,28-754-530-7491,8216.08,unusual regular final carefully
+308,Supplier#000000308,326 Commerce Ave,12,28-384-139-4542,1286.8,blithely blithely silent unusual express furiously
+309,Supplier#000000309,96 Commerce Ave,24,85-996-213-9000,1329.0,silent blithely final slyly final
+310,Supplier#000000310,343 Commerce Ave,12,44-450-141-6691,7142.93,carefully carefully quickly furiously regular special
+311,Supplier#000000311,820 Commerce Ave,16,39-845-255-7274,2263.58,blithely blithely pending furiously
+312,Supplier#000000312,366 Commerce Ave,19,13-230-427-6008,324.8,express blithely special pending silent pending special
+313,Supplier#000000313,82 Commerce Ave,12,24-561-800-7245,4564.97,regular furiously unusual
+314,Supplier#000000314,33 Commerce Ave,12,89-572-679-6012,-430.61,quickly special blithely final
+315,Supplier#000000315,331 Commerce Ave,21,34-485-493-7414,9190.22,unusual regular blithely pending slyly blithely furiously
+316,Supplier#000000316,6 Commerce Ave,5,43-365-619-7804,8711.64,furiously unusual furiously express
+317,Supplier#000000317,754 Commerce Ave,3,61-139-817-5336,1307.8,silent regular furiously furiously furiously furiously furiously regular
+318,Supplier#000000318,803 Commerce Ave,7,26-806-529-9105,-21.27,slyly silent final carefully pending silent furiously
+319,Supplier#000000319,136 Commerce Ave,14,21-834-420-3012,7297.5,carefully furiously special pending special regular
+320,Supplier#000000320,824 Commerce Ave,1,70-981-319-7727,5013.31,quickly unusual pending silent carefully
+321,Supplier#000000321,227 Commerce Ave,15,82-343-919-3067,2447.61,carefully slyly quickly express final silent furiously final
+322,Supplier#000000322,240 Commerce Ave,15,49-548-272-8507,-693.37,regular slyly silent unusual slyly regular carefully express
+323,Supplier#000000323,859 Commerce Ave,5,64-215-957-2826,8978.53,regular regular final carefully blithely
+324,Supplier#000000324,881 Commerce Ave,6,57-134-896-3059,1480.23,final blithely carefully
+325,Supplier#000000325,174 Commerce Ave,8,80-922-573-9781,1894.19,special pending special special
+326,Supplier#000000326,263 Commerce Ave,24,34-837-797-8073,8089.59,unusual regular final express final silent carefully final
+327,Supplier#000000327,903 Commerce Ave,20,95-135-321-7202,9943.9,pending silent quickly
+328,Supplier#000000328,614 Commerce Ave,20,75-834-807-8746,-247.14,furiously blithely special special express
+329,Supplier#000000329,362 Commerce Ave,7,60-727-836-7696,2757.36,special unusual unusual special slyly regular silent
+330,Supplier#000000330,159 Commerce Ave,9,92-553-517-5513,7102.23,pending slyly slyly blithely pending final furiously
+331,Supplier#000000331,824 Commerce Ave,2,26-150-595-3679,7057.43,special regular furiously regular
+332,Supplier#000000332,381 Commerce Ave,5,67-665-488-3054,1051.02,express slyly quickly
+333,Supplier#000000333,324 Commerce Ave,20,84-736-336-2865,5297.93,final furiously quickly
+334,Supplier#000000334,289 Commerce Ave,12,78-492-766-3581,6110.83,carefully unusual quickly quickly blithely special blithely
+335,Supplier#000000335,790 Commerce Ave,19,62-533-897-9954,8816.03,pending silent special pending final final quickly regular
+336,Supplier#000000336,297 Commerce Ave,8,10-986-119-8796,5.79,quickly unusual unusual pending furiously
+337,Supplier#000000337,430 Commerce Ave,15,53-751-519-1034,4395.72,furiously pending pending furiously special express express
+338,Supplier#000000338,363 Commerce Ave,9,75-267-352-9778,674.24,special silent pending slyly silent blithely
+339,Supplier#000000339,305 Commerce Ave,6,96-238-854-3029,1397.35,express special furiously
+340,Supplier#000000340,740 Commerce Ave,15,10-931-596-9193,-841.28,pending special furiously silent silent final quickly regular
+341,Supplier#000000341,636 Commerce Ave,1,96-815-949-7345,6812.44,silent final pending regular furiously unusual
+342,Supplier#000000342,992 Commerce Ave,19,27-787-920-5435,3637.22,unusual pending silent express blithely express
+343,Supplier#000000343,151 Commerce Ave,10,51-915-261-3646,4961.05,special slyly quickly special slyly furiously
+344,Supplier#000000344,584 Commerce Ave,0,65-485-871-3560,6995.81,express final regular pending final furiously express unusual
+345,Supplier#000000345,913 Commerce Ave,11,90-311-916-5485,8104.32,quickly express pending quickly furiously unusual carefully slyly
+346,Supplier#000000346,763 Commerce Ave,21,94-707-421-7297,4359.52,carefully unusual carefully blithely final pending furiously
+347,Supplier#000000347,814 Commerce Ave,12,11-853-875-2170,6402.59,quickly slyly unusual regular
+348,Supplier#000000348,915 Commerce Ave,20,78-717-177-3112,9169.97,regular blithely unusual final blithely
+349,Supplier#000000349,225 Commerce Ave,16,45-515-311-4235,3135.18,regular blithely slyly
+350,Supplier#000000350,45 Commerce Ave,12,64-969-948-1111,7693.41,furiously quickly carefully
+351,Supplier#000000351,771 Commerce Ave,19,50-416-264-3330,-936.25,unusual blithely regular slyly carefully
+352,Supplier#000000352,310 Commerce Ave,5,95-307-972-4612,5671.17,furiously quickly quickly unusual express carefully
+353,Supplier#000000353,517 Commerce Ave,3,35-889-520-3996,3938.27,unusual furiously silent final slyly final special carefully
+354,Supplier#000000354,9 Commerce Ave,13,88-749-523-2087,3431.47,slyly unusual unusual furiously pending silent
+355,Supplier#000000355,945 Commerce Ave,9,51-624-234-2563,7508.9,silent furiously final silent special quickly final
+356,Supplier#000000356,224 Commerce Ave,3,76-509-331-6541,6510.91,slyly special quickly final silent
+357,Supplier#000000357,227 Commerce Ave,20,87-664-329-7689,1938.65,special regular furiously special carefully
+358,Supplier#000000358,94 Commerce Ave,23,55-639-752-8915,2478.45,pending slyly express silent slyly furiously carefully special
+359,Supplier#000000359,177 Commerce Ave,18,33-528-274-1778,9042.38,pending quickly slyly
+360,Supplier#000000360,725 Commerce Ave,17,63-173-387-7872,3348.91,quickly express pending pending express carefully regular
+361,Supplier#000000361,576 Commerce Ave,14,18-346-687-9508,5424.25,pending special furiously quickly special quickly carefully
+362,Supplier#000000362,794 Commerce Ave,24,47-449-944-2582,9652.95,final final special express special
+363,Supplier#000000363,943 Commerce Ave,24,69-131-840-6824,3000.47,regular pending furiously
+364,Supplier#000000364,677 Commerce Ave,14,20-236-500-9565,-429.46,unusual regular express unusual special
+365,Supplier#000000365,147 Commerce Ave,3,65-502-666-5758,9846.36,blithely unusual furiously
+366,Supplier#000000366,511 Commerce Ave,0,12-958-598-3489,9163.28,regular pending blithely regular pending blithely
+367,Supplier#000000367,249 Commerce Ave,18,93-670-392-7198,204.02,pending carefully carefully pending furiously special slyly slyly
+368,Supplier#000000368,892 Commerce Ave,0,59-792-543-8596,2704.89,furiously slyly furiously blithely carefully special blithely
+369,Supplier#000000369,971 Commerce Ave,20,83-614-500-5624,7734.55,carefully slyly carefully carefully carefully
+370,Supplier#000000370,352 Commerce Ave,12,17-486-845-1995,6855.04,furiously blithely blithely special blithely
+371,Supplier#000000371,264 Commerce Ave,9,98-790-155-8540,3769.69,blithely blithely final final
+372,Supplier#000000372,37 Commerce Ave,6,27-420-301-8324,2608.3,special unusual silent
+373,Supplier#000000373,501 Commerce Ave,22,69-797-982-4283,8359.91,slyly carefully unusual
+374,Supplier#000000374,695 Commerce Ave,14,97-148-371-4383,5508.47,final express special pending express unusual
+375,Supplier#000000375,63 Commerce Ave,10,86-910-952-2515,-84.11,special regular blithely furiously blithely furiously regular
+376,Supplier#000000376,923 Commerce Ave,7,11-947-830-9415,7190.83,express slyly quickly special regular slyly
+377,Supplier#000000377,171 Commerce Ave,7,67-112-888-9403,7075.74,regular carefully carefully express special
+378,Supplier#000000378,70 Commerce Ave,8,41-400-547-9028,4617.56,blithely pending regular
+379,Supplier#000000379,542 Commerce Ave,22,41-302-335-4795,7818.45,special slyly pending pending blithely
+380,Supplier#000000380,149 Commerce Ave,24,51-399-204-5558,8761.76,carefully special express express slyly special
+381,Supplier#000000381,249 Commerce Ave,15,78-453-955-6626,-413.17,slyly silent blithely special furiously furiously blithely
+382,Supplier#000000382,318 Commerce Ave,3,73-687-868-7176,6579.89,furiously silent pending silent unusual final express furiously
+383,Supplier#000000383,575 Commerce Ave,11,48-516-976-6253,3221.18,special quickly blithely furiously
+384,Supplier#000000384,754 Commerce Ave,2,22-207-309-9443,4043.93,special regular unusual pending express final
+385,Supplier#000000385,112 Commerce Ave,9,34-386-422-8348,2629.97,slyly regular quickly quickly special slyly blithely
+386,Supplier#000000386,704 Commerce Ave,15,82-975-341-7081,9423.95,furiously express special carefully express silent
+387,Supplier#000000387,563 Commerce Ave,13,81-127-251-8976,8139.56,special unusual furiously carefully carefully
+388,Supplier#000000388,913 Commerce Ave,20,68-467-296-2924,4132.63,blithely pending regular carefully carefully
+389,Supplier#000000389,993 Commerce Ave,9,39-197-971-7607,-138.83,quickly unusual regular special express slyly silent quickly
+390,Supplier#000000390,855 Commerce Ave,18,26-884-601-9681,7261.92,unusual silent special silent express final
+391,Supplier#000000391,444 Commerce Ave,19,20-707-249-9568,9752.4,silent regular pending blithely special blithely
+392,Supplier#000000392,376 Commerce Ave,18,73-547-241-7612,208.02,carefully unusual final pending special pending
+393,Supplier#000000393,719 Commerce Ave,22,12-460-505-2482,6676.84,regular silent unusual silent express
+394,Supplier#000000394,515 Commerce Ave,15,99-657-699-1225,4363.36,unusual special pending final express blithely
+395,Supplier#000000395,774 Commerce Ave,8,78-430-685-2194,2738.78,express slyly express pending final
+396,Supplier#000000396,974 Commerce Ave,10,95-998-659-9415,9816.79,slyly express carefully carefully slyly unusual blithely
+397,Supplier#000000397,618 Commerce Ave,4,98-963-963-2569,9048.4,carefully furiously slyly furiously final pending furiously
+398,Supplier#000000398,121 Commerce Ave,8,74-645-320-9362,6354.11,quickly unusual pending furiously blithely carefully
+399,Supplier#000000399,243 Commerce Ave,12,40-724-518-4123,8938.0,special special quickly slyly
+400,Supplier#000000400,89 Commerce Ave,15,80-185-988-7421,7529.97,blithely blithely special
+401,Supplier#000000401,187 Commerce Ave,20,85-385-691-5421,5290.29,quickly quickly special special express quickly pending
+402,Supplier#000000402,955 Commerce Ave,20,10-383-515-7212,3424.92,furiously furiously express pending slyly furiously
+403,Supplier#000000403,626 Commerce Ave,9,29-224-255-4078,6376.99,final unusual slyly
+404,Supplier#000000404,543 Commerce Ave,16,57-563-910-6619,7869.52,final carefully pending special special special
+405,Supplier#000000405,30 Commerce Ave,5,21-153-186-8417,3117.89,unusual slyly quickly pending regular pending silent quickly
+406,Supplier#000000406,550 Commerce Ave,12,29-908-620-7394,6962.13,regular blithely silent slyly special express
+407,Supplier#000000407,811 Commerce Ave,14,88-318-391-6552,9585.56,quickly blithely regular furiously
+408,Supplier#000000408,153 Commerce Ave,15,60-529-762-4919,9639.58,blithely carefully silent special slyly
+409,Supplier#000000409,121 Commerce Ave,24,22-689-841-6511,3946.46,blithely final furiously blithely carefully regular
+410,Supplier#000000410,120 Commerce Ave,21,75-766-400-8198,306.62,special regular quickly
+411,Supplier#000000411,804 Commerce Ave,17,72-993-438-1589,3570.1,blithely carefully carefully regular express furiously
+412,Supplier#000000412,37 Commerce Ave,22,51-707-622-3448,9953.43,slyly pending regular
+413,Supplier#000000413,643 Commerce Ave,22,69-886-461-3787,7996.71,pending blithely unusual
+414,Supplier#000000414,399 Commerce Ave,9,57-116-546-9448,7522.48,blithely furiously silent unusual express furiously unusual furiously
+415,Supplier#000000415,766 Commerce Ave,19,66-760-591-3667,3134.47,blithely carefully pending quickly unusual express
+416,Supplier#000000416,773 Commerce Ave,16,46-358-526-5671,542.5,final pending pending regular blithely slyly quickly
+417,Supplier#000000417,482 Commerce Ave,2,27-727-410-7271,8191.99,pending pending carefully pending regular special
+418,Supplier#000000418,264 Commerce Ave,20,68-300-993-6002,293.4,final carefully carefully unusual carefully unusual
+419,Supplier#000000419,675 Commerce Ave,18,32-321-566-7526,4600.01,slyly pending special blithely quickly unusual
+420,Supplier#000000420,43 Commerce Ave,20,98-636-273-1175,2206.84,quickly quickly silent quickly express carefully special
+421,Supplier#000000421,436 Commerce Ave,17,80-625-585-1254,8991.81,carefully blithely blithely carefully
+422,Supplier#000000422,486 Commerce Ave,11,68-247-461-3165,7040.56,carefully express pending blithely
+423,Supplier#000000423,920 Commerce Ave,24,45-229-837-4350,4371.64,special furiously silent furiously final final express quickly
+424,Supplier#000000424,909 Commerce Ave,9,80-797-422-7314,1042.16,slyly blithely furiously carefully unusual final slyly
+425,Supplier#000000425,77 Commerce Ave,21,27-901-352-2635,217.24,silent special express furiously furiously
+426,Supplier#000000426,76 Commerce Ave,10,19-522-330-4788,3602.72,quickly furiously slyly regular
+427,Supplier#000000427,421 Commerce Ave,2,30-741-573-1898,4335.19,special special express
+428,Supplier#000000428,756 Commerce Ave,18,93-418-908-9666,273.89,blithely slyly carefully final carefully
+429,Supplier#000000429,287 Commerce Ave,18,54-768-919-6635,1260.75,silent slyly special quickly pending final
+430,Supplier#000000430,179 Commerce Ave,11,44-119-838-6395,3022.28,slyly unusual furiously
+431,Supplier#000000431,647 Commerce Ave,18,47-340-171-4962,2492.76,express final special final quickly regular regular quickly
+432,Supplier#000000432,150 Commerce Ave,22,41-504-640-4442,9361.56,silent blithely carefully regular
+433,Supplier#000000433,744 Commerce Ave,16,68-880-702-4801,4364.0,special quickly silent final blithely final
+434,Supplier#000000434,407 Commerce Ave,23,53-855-419-9216,6441.65,pending special blithely quickly special final
+435,Supplier#000000435,50 Commerce Ave,24,33-934-890-2161,3271.38,carefully express quickly special
+436,Supplier#000000436,445 Commerce Ave,6,95-336-343-9019,5547.6,furiously silent furiously unusual quickly final blithely quickly
+437,Supplier#000000437,294 Commerce Ave,20,44-918-116-7581,6094.25,slyly final pending silent furiously final express express
+438,Supplier#000000438,336 Commerce Ave,4,24-692-690-9953,-250.53,express unusual pending carefully
+439,Supplier#000000439,353 Commerce Ave,8,32-530-767-7083,2365.51,silent regular special
+440,Supplier#000000440,594 Commerce Ave,13,41-946-322-3497,4081.5,express furiously final quickly blithely
+441,Supplier#000000441,161 Commerce Ave,2,16-251-534-9375,5327.34,furiously blithely pending unusual
+442,Supplier#000000442,648 Commerce Ave,24,21-531-586-9965,279.04,slyly express express express silent regular
+443,Supplier#000000443,915 Commerce Ave,12,16-640-956-5797,5618.68,unusual unusual special regular unusual special quickly
+444,Supplier#000000444,547 Commerce Ave,8,40-764-485-2708,9300.0,furiously regular silent silent regular
+445,Supplier#000000445,221 Commerce Ave,6,96-418-343-9346,9238.62,express quickly regular unusual blithely quickly regular furiously
+446,Supplier#000000446,518 Commerce Ave,11,12-544-502-8737,6801.79,regular regular pending express special final slyly
+447,Supplier#000000447,895 Commerce Ave,24,71-827-835-3858,343.4,regular carefully blithely furiously silent express
+448,Supplier#000000448,192 Commerce Ave,7,19-338-336-5155,9974.49,special quickly carefully unusual slyly quickly
+449,Supplier#000000449,55 Commerce Ave,24,37-882-421-5014,1300.52,silent blithely final
+450,Supplier#000000450,591 Commerce Ave,17,69-570-341-4727,4322.13,carefully furiously express carefully
+451,Supplier#000000451,921 Commerce Ave,17,85-670-471-7764,6999.4,final silent blithely blithely
+452,Supplier#000000452,944 Commerce Ave,9,76-849-236-7967,6655.7,special regular pending special silent unusual
+453,Supplier#000000453,831 Commerce Ave,0,11-534-516-7725,2891.48,unusual pending final
+454,Supplier#000000454,105 Commerce Ave,13,10-421-692-6769,5049.16,blithely regular quickly special furiously blithely regular
+455,Supplier#000000455,837 Commerce Ave,22,55-734-854-4209,2366.33,express blithely furiously quickly pending silent pending special
+456,Supplier#000000456,401 Commerce Ave,6,15-625-488-3084,22.9,blithely carefully quickly
+457,Supplier#000000457,359 Commerce Ave,23,93-702-206-6341,9271.64,final carefully express
+458,Supplier#000000458,725 Commerce Ave,4,94-905-755-2828,4373.98,quickly unusual unusual carefully unusual unusual special
+459,Supplier#000000459,63 Commerce Ave,8,75-411-428-4423,5446.85,pending regular regular express regular final
+460,Supplier#000000460,914 Commerce Ave,0,68-831-920-5660,5517.5,special special carefully special
+461,Supplier#000000461,423 Commerce Ave,10,37-612-985-1923,2790.83,blithely express slyly silent carefully final slyly
+462,Supplier#000000462,725 Commerce Ave,10,56-804-859-3489,9881.72,furiously blithely furiously blithely
+463,Supplier#000000463,146 Commerce Ave,16,94-132-302-2318,3458.31,quickly blithely silent
+464,Supplier#000000464,415 Commerce Ave,16,75-506-213-8198,555.42,express special express
+465,Supplier#000000465,455 Commerce Ave,8,42-981-311-7742,4622.08,special unusual regular pending quickly furiously
+466,Supplier#000000466,48 Commerce Ave,24,84-267-379-1030,9202.56,special blithely special final blithely silent
+467,Supplier#000000467,257 Commerce Ave,13,31-167-487-5817,7970.56,silent quickly express pending carefully furiously
+468,Supplier#000000468,448 Commerce Ave,14,87-416-206-8283,5060.75,unusual quickly quickly slyly
+469,Supplier#000000469,729 Commerce Ave,11,28-610-387-8687,8152.2,pending slyly blithely quickly silent regular
+470,Supplier#000000470,719 Commerce Ave,10,55-172-486-2064,5849.62,carefully furiously unusual pending pending special special
+471,Supplier#000000471,327 Commerce Ave,17,84-793-605-1254,5310.01,silent blithely express final blithely express express silent
+472,Supplier#000000472,799 Commerce Ave,1,99-157-294-6121,4874.1,carefully carefully carefully regular pending furiously blithely slyly
+473,Supplier#000000473,839 Commerce Ave,15,90-552-812-6900,2993.07,silent final carefully final quickly
+474,Supplier#000000474,783 Commerce Ave,19,17-645-251-4730,635.66,blithely carefully blithely unusual silent express quickly express
+475,Supplier#000000475,801 Commerce Ave,14,32-110-901-3016,-492.53,carefully regular quickly quickly slyly final regular express
+476,Supplier#000000476,798 Commerce Ave,10,82-273-281-3423,8650.24,silent blithely slyly express
+477,Supplier#000000477,626 Commerce Ave,24,44-597-792-5178,7375.01,pending unusual silent
+478,Supplier#000000478,66 Commerce Ave,5,70-837-926-8266,-627.8,regular silent express final blithely regular final unusual
+479,Supplier#000000479,670 Commerce Ave,13,61-270-616-9157,3788.08,silent quickly unusual silent
+480,Supplier#000000480,542 Commerce Ave,0,25-702-305-1598,3703.22,special regular slyly express
+481,Supplier#000000481,868 Commerce Ave,10,45-511-963-8749,6341.71,quickly silent carefully regular express slyly
+482,Supplier#000000482,301 Commerce Ave,1,65-957-359-3199,6703.09,regular regular final slyly quickly slyly final blithely
+483,Supplier#000000483,400 Commerce Ave,23,19-704-342-2691,5686.31,express slyly carefully silent carefully
+484,Supplier#000000484,415 Commerce Ave,16,63-521-945-4907,4553.28,special furiously regular quickly carefully quickly
+485,Supplier#000000485,948 Commerce Ave,4,96-460-791-2430,7822.32,blithely carefully carefully carefully
+486,Supplier#000000486,480 Commerce Ave,17,77-424-111-9335,6558.43,pending furiously unusual furiously special final
+487,Supplier#000000487,996 Commerce Ave,17,35-936-941-9417,9565.32,silent furiously special express slyly express
+488,Supplier#000000488,979 Commerce Ave,13,22-644-664-8491,86.25,carefully express unusual furiously
+489,Supplier#000000489,919 Commerce Ave,8,49-537-924-9852,2672.86,furiously special silent unusual
+490,Supplier#000000490,627 Commerce Ave,16,34-250-388-3000,-311.7,slyly carefully regular express pending silent
+491,Supplier#000000491,984 Commerce Ave,14,66-343-122-4052,90.09,silent blithely carefully unusual unusual silent
+492,Supplier#000000492,23 Commerce Ave,4,30-759-593-3431,4899.67,express carefully blithely furiously
+493,Supplier#000000493,33 Commerce Ave,13,38-440-152-4457,1074.44,silent silent final unusual silent unusual special express
+494,Supplier#000000494,527 Commerce Ave,5,36-587-105-1610,4778.41,special blithely unusual special quickly regular blithely
+495,Supplier#000000495,46 Commerce Ave,18,55-971-589-4395,8454.53,silent silent pending pending slyly slyly
+496,Supplier#000000496,786 Commerce Ave,2,80-911-699-9437,9386.2,express quickly silent express carefully special quickly
+497,Supplier#000000497,440 Commerce Ave,14,59-994-744-3856,5014.76,furiously unusual final
+498,Supplier#000000498,985 Commerce Ave,2,67-501-501-9483,6678.24,carefully pending blithely
+499,Supplier#000000499,515 Commerce Ave,5,30-125-874-3034,9220.76,furiously express quickly quickly pending
+500,Supplier#000000500,231 Commerce Ave,5,66-248-466-2218,88.06,pending furiously blithely pending express unusual
+501,Supplier#000000501,199 Commerce Ave,1,98-625-771-6015,9490.12,special silent furiously express express pending
+502,Supplier#000000502,416 Commerce Ave,0,14-784-588-4499,-861.68,regular pending express
+503,Supplier#000000503,714 Commerce Ave,10,78-819-951-5228,7450.82,quickly quickly silent special silent slyly regular
+504,Supplier#000000504,694 Commerce Ave,21,53-231-384-1575,3316.27,final pending blithely slyly furiously special
+505,Supplier#000000505,212 Commerce Ave,8,33-203-713-8288,7424.51,unusual unusual unusual final unusual quickly slyly
+506,Supplier#000000506,546 Commerce Ave,4,14-276-754-6629,3701.17,regular unusual final regular unusual furiously carefully
+507,Supplier#000000507,735 Commerce Ave,16,58-102-933-8556,6219.02,final pending slyly pending silent express silent
+508,Supplier#000000508,933 Commerce Ave,9,39-149-209-3033,9395.3,final special unusual blithely pending pending
+509,Supplier#000000509,189 Commerce Ave,16,83-476-624-6868,5875.93,final blithely express carefully silent
+510,Supplier#000000510,301 Commerce Ave,24,40-800-857-8180,1726.87,unusual regular furiously furiously quickly final regular special
+511,Supplier#000000511,577 Commerce Ave,12,45-639-967-4481,1881.03,special blithely special blithely
+512,Supplier#000000512,808 Commerce Ave,15,19-200-266-3512,2386.64,blithely special silent special quickly silent regular
+513,Supplier#000000513,80 Commerce Ave,8,48-734-966-1560,9370.97,regular unusual furiously regular special
+514,Supplier#000000514,735 Commerce Ave,0,66-922-992-2440,-378.48,pending pending pending final slyly regular final
+515,Supplier#000000515,172 Commerce Ave,6,24-760-901-2723,4878.97,silent special furiously pending pending carefully
+516,Supplier#000000516,916 Commerce Ave,5,54-970-925-2076,2461.83,quickly regular carefully express carefully final furiously
+517,Supplier#000000517,993 Commerce Ave,21,36-751-654-7055,7512.88,unusual blithely furiously regular slyly
+518,Supplier#000000518,318 Commerce Ave,15,60-409-292-9929,-334.92,regular final slyly quickly unusual final pending
+519,Supplier#000000519,109 Commerce Ave,21,36-479-866-3315,6264.23,unusual furiously slyly unusual quickly
+520,Supplier#000000520,409 Commerce Ave,18,44-544-114-9221,6069.71,carefully slyly final carefully blithely quickly
+521,Supplier#000000521,910 Commerce Ave,10,73-233-162-3394,2849.25,furiously express furiously express blithely express furiously
+522,Supplier#000000522,277 Commerce Ave,8,84-771-635-3507,5849.65,silent blithely special quickly
+523,Supplier#000000523,470 Commerce Ave,1,76-254-413-6144,-786.26,carefully blithely regular final furiously
+524,Supplier#000000524,684 Commerce Ave,17,55-260-915-4303,9970.48,furiously quickly express pending special silent slyly
+525,Supplier#000000525,281 Commerce Ave,18,92-690-541-6197,163.45,blithely express slyly special quickly unusual furiously carefully
+526,Supplier#000000526,904 Commerce Ave,15,81-932-963-4317,5905.89,unusual special pending express final
+527,Supplier#000000527,248 Commerce Ave,20,11-944-868-8661,1050.71,slyly special regular pending slyly
+528,Supplier#000000528,442 Commerce Ave,6,71-130-624-3669,1030.46,slyly express quickly final express
+529,Supplier#000000529,929 Commerce Ave,1,39-117-275-7525,930.1,regular slyly silent carefully blithely final blithely
+530,Supplier#000000530,701 Commerce Ave,24,46-785-678-3518,6853.6,quickly carefully pending
+531,Supplier#000000531,421 Commerce Ave,6,67-564-284-8316,6865.76,express final pending express carefully
+532,Supplier#000000532,296 Commerce Ave,1,65-681-649-3310,9630.01,unusual blithely express regular quickly carefully
+533,Supplier#000000533,112 Commerce Ave,6,40-973-643-9924,2144.02,quickly unusual silent express final
+534,Supplier#000000534,86 Commerce Ave,23,19-576-752-8393,4103.6,furiously express regular
+535,Supplier#000000535,972 Commerce Ave,19,50-798-651-6647,4181.8,unusual slyly regular furiously blithely blithely regular
+536,Supplier#000000536,489 Commerce Ave,7,55-721-890-3923,-28.34,silent silent quickly furiously blithely express blithely unusual
+537,Supplier#000000537,290 Commerce Ave,20,66-992-521-6520,9385.71,blithely quickly pending regular furiously
+538,Supplier#000000538,847 Commerce Ave,13,39-166-984-9370,3006.96,carefully unusual pending slyly
+539,Supplier#000000539,547 Commerce Ave,13,57-226-498-3679,6300.63,slyly unusual blithely carefully express pending slyly
+540,Supplier#000000540,832 Commerce Ave,6,62-276-691-6167,840.62,quickly special silent special carefully special regular final
+541,Supplier#000000541,844 Commerce Ave,19,17-854-360-6006,9760.33,slyly final pending special
+542,Supplier#000000542,798 Commerce Ave,1,38-916-837-3993,195.55,pending unusual furiously final furiously regular carefully regular
+543,Supplier#000000543,19 Commerce Ave,20,18-718-655-4115,5549.82,quickly slyly regular
+544,Supplier#000000544,784 Commerce Ave,15,62-706-302-3158,2633.4,pending regular silent
+545,Supplier#000000545,430 Commerce Ave,8,29-900-286-4225,6710.9,unusual regular special special furiously
+546,Supplier#000000546,448 Commerce Ave,14,80-586-394-5323,4549.12,carefully blithely pending quickly unusual regular unusual
+547,Supplier#000000547,830 Commerce Ave,4,34-685-314-7449,5788.18,carefully express slyly blithely
+548,Supplier#000000548,721 Commerce Ave,21,53-827-108-4909,7044.92,slyly blithely silent special final regular regular
+549,Supplier#000000549,284 Commerce Ave,2,92-739-850-6367,1853.25,blithely furiously regular quickly express pending final
+550,Supplier#000000550,168 Commerce Ave,5,85-874-312-8670,2068.14,slyly slyly blithely blithely regular special
+551,Supplier#000000551,425 Commerce Ave,14,74-213-989-6022,8106.19,pending carefully silent
+552,Supplier#000000552,613 Commerce Ave,18,87-418-135-1103,6492.6,special express pending quickly final carefully slyly
+553,Supplier#000000553,396 Commerce Ave,3,34-330-426-3251,1833.05,carefully carefully silent carefully
+554,Supplier#000000554,841 Commerce Ave,21,89-380-688-9019,6896.45,pending furiously unusual express special blithely
+555,Supplier#000000555,430 Commerce Ave,22,79-812-598-9163,6950.78,final quickly express final blithely special
+556,Supplier#000000556,608 Commerce Ave,6,12-821-666-6756,8702.99,quickly final unusual express special slyly silent
+557,Supplier#000000557,75 Commerce Ave,17,91-603-384-9934,255.94,special express blithely furiously blithely quickly blithely pending
+558,Supplier#000000558,705 Commerce Ave,5,23-442-805-2013,3625.51,carefully express slyly furiously quickly special silent
+559,Supplier#000000559,475 Commerce Ave,8,35-929-950-6840,9985.01,unusual final furiously quickly
+560,Supplier#000000560,152 Commerce Ave,19,58-722-267-5350,4645.29,pending express express silent quickly express pending
+561,Supplier#000000561,225 Commerce Ave,1,58-838-651-3322,6682.41,express furiously furiously furiously
+562,Supplier#000000562,899 Commerce Ave,2,93-231-328-9811,1934.58,pending unusual pending special pending carefully
+563,Supplier#000000563,13 Commerce Ave,5,52-361-227-1388,8031.65,express quickly pending special pending quickly carefully slyly
+564,Supplier#000000564,464 Commerce Ave,7,86-457-731-8530,5955.6,pending special special regular silent quickly furiously
+565,Supplier#000000565,663 Commerce Ave,13,19-591-259-2532,-378.02,final quickly slyly silent blithely special
+566,Supplier#000000566,42 Commerce Ave,22,31-220-537-8812,-758.18,slyly silent slyly slyly
+567,Supplier#000000567,504 Commerce Ave,19,40-838-819-4062,388.55,silent silent final regular
+568,Supplier#000000568,383 Commerce Ave,19,57-936-973-5662,1494.83,unusual express pending final unusual
+569,Supplier#000000569,297 Commerce Ave,17,30-215-842-1974,8002.96,special unusual furiously carefully blithely final slyly unusual
+570,Supplier#000000570,105 Commerce Ave,20,56-310-140-3235,8259.49,final quickly final quickly silent regular
+571,Supplier#000000571,152 Commerce Ave,4,78-234-698-7052,5040.7,silent unusual final unusual quickly pending
+572,Supplier#000000572,6 Commerce Ave,11,23-706-635-4046,751.15,express slyly carefully final
+573,Supplier#000000573,851 Commerce Ave,1,42-615-453-6251,6928.97,unusual regular pending final quickly carefully carefully silent
+574,Supplier#000000574,947 Commerce Ave,10,38-310-278-7082,9124.12,silent slyly silent final
+575,Supplier#000000575,176 Commerce Ave,23,69-804-223-4292,3509.52,quickly quickly special special pending
+576,Supplier#000000576,75 Commerce Ave,8,32-123-874-8384,4661.75,express quickly furiously
+577,Supplier#000000577,18 Commerce Ave,20,31-584-544-6283,2784.27,final unusual regular pending special regular regular
+578,Supplier#000000578,34 Commerce Ave,22,99-396-927-4676,7669.33,regular regular blithely blithely quickly regular carefully
+579,Supplier#000000579,828 Commerce Ave,19,14-465-864-6148,7504.33,regular pending final unusual
+580,Supplier#000000580,258 Commerce Ave,1,86-525-966-3605,2208.68,carefully silent pending silent regular
+581,Supplier#000000581,485 Commerce Ave,5,81-316-756-1972,8596.2,regular quickly special final quickly regular carefully
+582,Supplier#000000582,779 Commerce Ave,14,47-638-385-7706,4294.34,pending blithely pending unusual special carefully carefully furiously
+583,Supplier#000000583,453 Commerce Ave,7,14-200-893-6478,473.94,carefully silent furiously blithely pending
+584,Supplier#000000584,789 Commerce Ave,0,47-385-888-9501,6639.32,final express silent furiously quickly special special
+585,Supplier#000000585,599 Commerce Ave,12,76-662-927-3460,6451.1,regular regular regular express
+586,Supplier#000000586,560 Commerce Ave,3,91-617-244-2961,3237.06,express unusual unusual
+587,Supplier#000000587,26 Commerce Ave,11,34-354-291-9994,5924.05,final quickly quickly
+588,Supplier#000000588,577 Commerce Ave,5,64-323-887-7723,2589.31,blithely slyly carefully
+589,Supplier#000000589,967 Commerce Ave,11,73-571-100-7528,8023.36,carefully express special furiously unusual
+590,Supplier#000000590,67 Commerce Ave,11,62-766-838-5713,3293.68,carefully regular blithely furiously special silent blithely
+591,Supplier#000000591,98 Commerce Ave,7,58-839-996-9737,5604.8,slyly unusual silent
+592,Supplier#000000592,91 Commerce Ave,16,64-483-774-6319,8529.94,special carefully silent express
+593,Supplier#000000593,264 Commerce Ave,13,54-212-835-4737,-129.23,final carefully pending silent final express
+594,Supplier#000000594,917 Commerce Ave,20,56-475-505-4079,2979.83,express pending regular furiously furiously blithely blithely special
+595,Supplier#000000595,284 Commerce Ave,1,92-529-151-6543,1493.33,final regular carefully furiously pending
+596,Supplier#000000596,594 Commerce Ave,14,14-965-458-9103,8428.15,pending unusual pending
+597,Supplier#000000597,213 Commerce Ave,21,91-433-457-4910,-186.83,unusual final furiously silent special
+598,Supplier#000000598,840 Commerce Ave,3,67-194-939-5886,2424.09,carefully furiously quickly pending final blithely special furiously
+599,Supplier#000000599,629 Commerce Ave,4,67-848-872-4248,8685.91,unusual quickly final express final final slyly
+600,Supplier#000000600,121 Commerce Ave,8,80-752-503-1952,-57.09,silent silent furiously furiously pending
+601,Supplier#000000601,835 Commerce Ave,24,51-435-472-1737,976.57,regular unusual quickly regular express final special express
+602,Supplier#000000602,862 Commerce Ave,18,92-183-389-5255,3693.8,slyly final silent pending silent quickly
+603,Supplier#000000603,714 Commerce Ave,16,27-697-453-6825,246.16,silent carefully blithely blithely
+604,Supplier#000000604,887 Commerce Ave,12,66-198-711-5148,2435.71,furiously quickly special express
+605,Supplier#000000605,803 Commerce Ave,8,48-676-177-6144,1060.23,final silent final special regular special
+606,Supplier#000000606,311 Commerce Ave,18,95-107-709-6028,1468.81,quickly unusual carefully furiously
+607,Supplier#000000607,994 Commerce Ave,3,99-522-983-1693,5024.61,pending furiously silent silent silent express silent
+608,Supplier#000000608,681 Commerce Ave,2,71-593-351-5973,7154.31,quickly regular silent express special
+609,Supplier#000000609,961 Commerce Ave,10,31-632-655-2866,2249.27,special slyly blithely
+610,Supplier#000000610,415 Commerce Ave,7,88-605-884-6390,2717.75,silent furiously final
+611,Supplier#000000611,80 Commerce Ave,0,99-418-797-1037,1557.93,furiously express quickly pending carefully express carefully furiously
+612,Supplier#000000612,990 Commerce Ave,1,28-778-763-1599,4135.96,pending slyly special regular furiously quickly final
+613,Supplier#000000613,705 Commerce Ave,10,84-731-374-4629,82.47,slyly quickly slyly quickly special furiously unusual
+614,Supplier#000000614,195 Commerce Ave,19,63-806-466-8338,6012.55,silent special unusual pending
+615,Supplier#000000615,451 Commerce Ave,16,12-715-160-7236,385.32,blithely pending special slyly silent slyly
+616,Supplier#000000616,691 Commerce Ave,1,97-436-102-9367,1834.96,carefully special carefully express pending
+617,Supplier#000000617,103 Commerce Ave,13,60-946-459-1700,2220.08,pending silent regular final carefully slyly
+618,Supplier#000000618,940 Commerce Ave,3,17-734-284-3123,936.51,blithely blithely silent pending quickly quickly
+619,Supplier#000000619,93 Commerce Ave,1,63-487-517-8858,9007.37,slyly final blithely express
+620,Supplier#000000620,419 Commerce Ave,23,71-521-359-5162,3826.44,special special unusual
+621,Supplier#000000621,409 Commerce Ave,10,69-194-191-8494,-924.92,special regular furiously pending quickly silent
+622,Supplier#000000622,533 Commerce Ave,3,78-323-980-9970,7653.77,express regular final express regular
+623,Supplier#000000623,421 Commerce Ave,14,56-860-479-8391,8339.54,unusual unusual slyly express
+624,Supplier#000000624,697 Commerce Ave,19,89-797-444-3189,1961.66,unusual unusual regular regular special express special final
+625,Supplier#000000625,385 Commerce Ave,3,69-962-256-6692,-423.8,express furiously quickly blithely
+626,Supplier#000000626,822 Commerce Ave,14,95-707-399-3745,2133.57,furiously carefully express
+627,Supplier#000000627,392 Commerce Ave,20,26-949-885-7416,-874.08,quickly special pending special special pending silent slyly
+628,Supplier#000000628,493 Commerce Ave,0,78-736-566-7923,6446.78,blithely unusual unusual slyly carefully pending
+629,Supplier#000000629,483 Commerce Ave,6,56-120-781-5177,5080.63,quickly blithely slyly slyly slyly carefully carefully
+630,Supplier#000000630,307 Commerce Ave,5,96-650-443-1683,4888.63,blithely express regular
+631,Supplier#000000631,241 Commerce Ave,24,35-627-323-7301,9183.89,carefully silent express
+632,Supplier#000000632,53 Commerce Ave,5,85-572-616-2134,1964.05,silent final carefully express unusual regular
+633,Supplier#000000633,446 Commerce Ave,9,46-446-299-9129,9428.79,slyly regular express quickly silent special
+634,Supplier#000000634,117 Commerce Ave,22,12-164-405-5110,7868.69,slyly furiously blithely
+635,Supplier#000000635,771 Commerce Ave,19,14-616-430-6475,3914.04,final blithely furiously pending
+636,Supplier#000000636,642 Commerce Ave,7,50-336-274-6903,9534.89,furiously carefully carefully regular slyly silent final
+637,Supplier#000000637,429 Commerce Ave,6,95-280-501-3553,7924.95,unusual silent furiously pending furiously blithely silent slyly
+638,Supplier#000000638,787 Commerce Ave,23,31-426-472-6469,714.53,pending quickly final silent unusual
+639,Supplier#000000639,689 Commerce Ave,16,27-463-528-6323,3503.69,unusual special express silent blithely silent pending special
+640,Supplier#000000640,743 Commerce Ave,1,56-976-806-3463,2698.35,regular express regular carefully silent
+641,Supplier#000000641,933 Commerce Ave,3,95-296-655-8268,9867.89,furiously unusual final silent
+642,Supplier#000000642,243 Commerce Ave,22,93-975-728-9246,7167.39,regular unusual express express blithely slyly
+643,Supplier#000000643,560 Commerce Ave,9,80-217-212-7640,7751.54,pending special pending quickly quickly blithely slyly pending
+644,Supplier#000000644,64 Commerce Ave,4,31-495-765-5789,-901.41,unusual regular silent pending carefully blithely
+645,Supplier#000000645,64 Commerce Ave,8,91-677-732-7058,9109.28,silent carefully unusual quickly unusual
+646,Supplier#000000646,679 Commerce Ave,0,34-327-786-5619,-563.98,final silent pending unusual quickly pending pending
+647,Supplier#000000647,60 Commerce Ave,11,98-907-616-5430,4646.67,silent unusual express furiously
+648,Supplier#000000648,915 Commerce Ave,8,18-363-180-8198,6043.46,pending express furiously
+649,Supplier#000000649,287 Commerce Ave,4,40-294-986-2336,7841.73,furiously regular quickly final
+650,Supplier#000000650,151 Commerce Ave,20,46-637-427-8999,8040.45,regular silent blithely
+651,Supplier#000000651,464 Commerce Ave,3,91-510-941-7658,6660.54,quickly blithely pending unusual final express blithely pending
+652,Supplier#000000652,327 Commerce Ave,2,38-793-775-4266,3930.62,slyly express carefully
+653,Supplier#000000653,423 Commerce Ave,20,64-148-667-1279,4087.95,furiously pending slyly pending regular pending quickly regular
+654,Supplier#000000654,102 Commerce Ave,2,55-201-823-1980,8560.01,unusual final slyly regular carefully unusual express
+655,Supplier#000000655,31 Commerce Ave,11,14-898-582-7516,9262.22,slyly pending special pending
+656,Supplier#000000656,411 Commerce Ave,14,21-477-431-3692,5694.97,quickly slyly unusual
+657,Supplier#000000657,780 Commerce Ave,24,66-229-167-4810,4780.69,slyly furiously silent final silent pending
+658,Supplier#000000658,96 Commerce Ave,10,94-551-378-4399,-223.55,special pending regular
+659,Supplier#000000659,100 Commerce Ave,21,60-160-774-5721,3442.56,pending carefully slyly special
+660,Supplier#000000660,624 Commerce Ave,17,57-841-318-9210,9775.31,pending silent express furiously blithely special
+661,Supplier#000000661,180 Commerce Ave,15,29-471-539-2726,7811.04,furiously furiously final blithely carefully silent regular
+662,Supplier#000000662,694 Commerce Ave,1,47-738-767-6907,9622.33,furiously unusual regular
+663,Supplier#000000663,528 Commerce Ave,17,15-109-787-3595,2675.08,blithely silent blithely
+664,Supplier#000000664,345 Commerce Ave,8,12-478-307-1178,5038.3,blithely special final pending final
+665,Supplier#000000665,536 Commerce Ave,22,59-654-852-2858,9000.26,pending silent pending final express carefully furiously
+666,Supplier#000000666,560 Commerce Ave,19,73-553-998-8477,5550.31,special silent blithely carefully special special unusual final
+667,Supplier#000000667,904 Commerce Ave,6,21-817-223-9965,8329.77,carefully unusual blithely slyly silent
+668,Supplier#000000668,445 Commerce Ave,3,19-480-218-6335,2483.61,final unusual quickly slyly slyly
+669,Supplier#000000669,118 Commerce Ave,9,54-581-166-7466,5226.8,unusual special unusual express regular quickly regular
+670,Supplier#000000670,888 Commerce Ave,11,65-547-305-5435,8682.12,furiously slyly special carefully special final
+671,Supplier#000000671,201 Commerce Ave,11,99-149-474-9496,9708.85,furiously unusual express final slyly special furiously slyly
+672,Supplier#000000672,312 Commerce Ave,13,21-317-622-9287,8038.39,slyly carefully regular pending express express unusual quickly
+673,Supplier#000000673,683 Commerce Ave,18,75-153-148-2723,4230.64,furiously regular unusual pending pending regular silent
+674,Supplier#000000674,943 Commerce Ave,16,33-608-467-9069,9224.5,final pending carefully slyly regular furiously silent
+675,Supplier#000000675,444 Commerce Ave,7,74-442-593-5120,3915.86,express pending special
+676,Supplier#000000676,368 Commerce Ave,4,98-871-197-4705,6545.02,special final express express unusual slyly express final
+677,Supplier#000000677,496 Commerce Ave,13,18-888-450-2923,6281.73,slyly blithely slyly
+678,Supplier#000000678,149 Commerce Ave,4,96-799-969-2990,4612.34,blithely furiously carefully blithely unusual regular final blithely
+679,Supplier#000000679,287 Commerce Ave,8,52-519-225-5695,2489.16,carefully furiously furiously carefully regular express regular
+680,Supplier#000000680,664 Commerce Ave,8,68-794-184-5890,8511.15,pending furiously pending carefully
+681,Supplier#000000681,433 Commerce Ave,2,86-177-370-5532,3521.99,carefully express unusual quickly quickly special pending unusual
+682,Supplier#000000682,197 Commerce Ave,13,87-697-255-8745,6248.77,special blithely blithely regular furiously
+683,Supplier#000000683,573 Commerce Ave,14,87-465-909-4268,-168.86,quickly furiously special unusual regular
+684,Supplier#000000684,534 Commerce Ave,7,56-867-982-9717,3095.68,unusual blithely unusual silent carefully
+685,Supplier#000000685,79 Commerce Ave,3,74-353-911-6944,-518.23,unusual unusual final express
+686,Supplier#000000686,134 Commerce Ave,6,71-980-530-4787,4823.29,furiously furiously express slyly regular
+687,Supplier#000000687,277 Commerce Ave,15,45-352-742-7684,4289.96,regular special silent
+688,Supplier#000000688,404 Commerce Ave,15,46-306-607-9785,3486.72,unusual silent special special pending silent carefully
+689,Supplier#000000689,889 Commerce Ave,14,63-283-252-1152,3678.16,silent regular carefully carefully
+690,Supplier#000000690,396 Commerce Ave,22,27-381-231-7983,2145.38,special express quickly
+691,Supplier#000000691,465 Commerce Ave,17,84-207-561-9905,-448.82,unusual carefully final pending silent special silent regular
+692,Supplier#000000692,240 Commerce Ave,8,54-932-968-6148,1097.04,express express silent furiously special special
+693,Supplier#000000693,899 Commerce Ave,3,13-106-991-5714,8688.66,silent regular quickly
+694,Supplier#000000694,763 Commerce Ave,10,44-862-741-7438,4007.9,special silent quickly silent
+695,Supplier#000000695,882 Commerce Ave,17,26-161-438-1212,5120.19,silent slyly silent carefully slyly
+696,Supplier#000000696,399 Commerce Ave,22,37-985-335-6943,7443.78,quickly special quickly unusual regular
+697,Supplier#000000697,365 Commerce Ave,1,30-466-464-2885,4889.86,unusual regular silent express slyly carefully
+698,Supplier#000000698,809 Commerce Ave,23,56-259-641-1410,2832.35,furiously special silent furiously unusual blithely
+699,Supplier#000000699,206 Commerce Ave,22,12-330-766-2233,6078.68,quickly express special regular carefully carefully
+700,Supplier#000000700,834 Commerce Ave,21,93-137-751-8331,4089.88,express quickly carefully furiously pending express
+701,Supplier#000000701,963 Commerce Ave,4,27-867-154-1051,6922.09,furiously furiously carefully unusual slyly
+702,Supplier#000000702,864 Commerce Ave,8,48-731-727-7651,7253.62,unusual unusual pending quickly furiously blithely express slyly
+703,Supplier#000000703,111 Commerce Ave,6,84-479-255-1583,6055.76,blithely regular carefully blithely blithely regular furiously
+704,Supplier#000000704,473 Commerce Ave,19,54-681-496-7972,1879.91,regular express carefully
+705,Supplier#000000705,287 Commerce Ave,8,70-797-458-8798,8752.24,unusual blithely pending slyly
+706,Supplier#000000706,457 Commerce Ave,1,41-204-962-7958,7028.57,regular regular carefully slyly express final
+707,Supplier#000000707,527 Commerce Ave,12,60-292-433-7068,1100.92,final furiously regular slyly silent
+708,Supplier#000000708,70 Commerce Ave,9,57-198-306-6487,5851.63,blithely regular pending final silent unusual pending
+709,Supplier#000000709,86 Commerce Ave,8,16-663-512-7768,1596.96,unusual final regular quickly carefully silent
+710,Supplier#000000710,452 Commerce Ave,0,38-866-128-7238,9908.01,final blithely quickly quickly slyly special
+711,Supplier#000000711,989 Commerce Ave,18,51-851-758-3635,9641.54,furiously slyly unusual regular final blithely pending blithely
+712,Supplier#000000712,711 Commerce Ave,7,59-768-340-2775,2032.4,blithely carefully special blithely slyly
+713,Supplier#000000713,509 Commerce Ave,14,67-971-182-7883,-386.4,final special special slyly final carefully
+714,Supplier#000000714,310 Commerce Ave,17,76-158-452-2489,7971.09,furiously regular carefully furiously express
+715,Supplier#000000715,528 Commerce Ave,4,32-693-913-3609,3568.18,slyly blithely pending quickly carefully regular
+716,Supplier#000000716,146 Commerce Ave,6,17-220-572-8558,7965.1,carefully express pending express regular slyly final
+717,Supplier#000000717,597 Commerce Ave,7,33-199-703-5886,1357.17,furiously unusual slyly blithely unusual regular
+718,Supplier#000000718,661 Commerce Ave,3,40-286-246-3943,8241.78,regular carefully special
+719,Supplier#000000719,473 Commerce Ave,2,43-449-498-8232,9725.12,silent pending express blithely final pending silent
+720,Supplier#000000720,746 Commerce Ave,11,44-234-264-9704,8219.01,express express silent carefully furiously unusual quickly
+721,Supplier#000000721,841 Commerce Ave,16,94-988-686-7077,8826.09,blithely regular final slyly quickly pending carefully
+722,Supplier#000000722,141 Commerce Ave,12,13-280-185-2434,95.76,quickly slyly silent special quickly express
+723,Supplier#000000723,645 Commerce Ave,21,63-419-211-5494,1977.59,carefully regular quickly slyly
+724,Supplier#000000724,191 Commerce Ave,11,17-473-166-9461,6273.04,slyly pending quickly blithely slyly carefully pending
+725,Supplier#000000725,793 Commerce Ave,16,47-397-833-3478,327.8,final carefully special slyly
+726,Supplier#000000726,955 Commerce Ave,8,72-717-611-4327,-186.64,regular silent unusual final silent
+727,Supplier#000000727,858 Commerce Ave,14,11-376-771-7955,4610.33,pending slyly final carefully quickly
+728,Supplier#000000728,199 Commerce Ave,16,35-175-742-4953,9174.56,slyly express silent
+729,Supplier#000000729,801 Commerce Ave,16,47-653-627-8014,3152.3,special express final regular express
+730,Supplier#000000730,275 Commerce Ave,23,69-349-294-5351,8721.44,slyly slyly unusual pending
+731,Supplier#000000731,978 Commerce Ave,18,53-148-440-2694,2098.95,blithely carefully carefully
+732,Supplier#000000732,607 Commerce Ave,22,71-719-574-9782,9821.8,carefully regular quickly regular
+733,Supplier#000000733,52 Commerce Ave,23,73-160-668-8566,1631.5,final furiously silent furiously express special special slyly
+734,Supplier#000000734,259 Commerce Ave,13,34-185-782-6785,8786.59,blithely blithely carefully carefully special furiously express final
+735,Supplier#000000735,543 Commerce Ave,19,15-929-712-1499,8359.64,carefully carefully blithely pending quickly quickly special carefully
+736,Supplier#000000736,646 Commerce Ave,23,98-514-700-8043,7795.95,furiously furiously blithely final express
+737,Supplier#000000737,690 Commerce Ave,5,76-900-725-2253,-340.79,express express silent regular pending
+738,Supplier#000000738,754 Commerce Ave,17,47-255-852-6503,7833.53,pending carefully furiously furiously
+739,Supplier#000000739,412 Commerce Ave,18,38-233-833-5731,9170.95,slyly pending quickly special carefully
+740,Supplier#000000740,821 Commerce Ave,7,61-376-833-5282,1211.74,blithely silent slyly carefully regular
+741,Supplier#000000741,874 Commerce Ave,23,71-597-253-5919,2339.76,special blithely pending express express final special carefully
+742,Supplier#000000742,967 Commerce Ave,8,85-680-399-3992,5339.22,final blithely quickly carefully slyly special pending special
+743,Supplier#000000743,964 Commerce Ave,1,52-110-411-5303,1059.63,silent silent blithely blithely express special blithely
+744,Supplier#000000744,696 Commerce Ave,16,13-209-225-2798,2673.45,express final special special carefully slyly
+745,Supplier#000000745,289 Commerce Ave,0,85-865-866-4983,7964.2,unusual carefully silent quickly
+746,Supplier#000000746,804 Commerce Ave,21,39-581-705-2130,3457.04,regular unusual slyly final slyly regular silent
+747,Supplier#000000747,382 Commerce Ave,5,25-888-803-2691,8040.28,express blithely carefully pending
+748,Supplier#000000748,838 Commerce Ave,4,13-476-111-3713,5114.53,regular slyly carefully silent final regular blithely
+749,Supplier#000000749,857 Commerce Ave,23,54-973-298-7290,4963.23,express carefully carefully silent express
+750,Supplier#000000750,756 Commerce Ave,1,91-649-769-6849,5337.05,silent final slyly unusual silent
+751,Supplier#000000751,366 Commerce Ave,17,62-294-191-7957,964.64,slyly furiously carefully silent special slyly special special
+752,Supplier#000000752,178 Commerce Ave,5,21-162-366-5390,2076.26,unusual furiously blithely blithely
+753,Supplier#000000753,642 Commerce Ave,6,70-409-154-9867,7471.26,special slyly silent
+754,Supplier#000000754,931 Commerce Ave,1,47-800-338-4136,5691.03,final blithely unusual final unusual final regular furiously
+755,Supplier#000000755,398 Commerce Ave,5,57-600-623-9853,9867.18,regular slyly carefully special slyly unusual
+756,Supplier#000000756,490 Commerce Ave,4,93-999-468-5786,8473.75,regular carefully unusual blithely
+757,Supplier#000000757,441 Commerce Ave,6,95-837-771-7878,5182.26,final special furiously blithely regular
+758,Supplier#000000758,677 Commerce Ave,15,32-140-830-1730,5314.91,special furiously express silent express quickly furiously special
+759,Supplier#000000759,444 Commerce Ave,3,26-358-466-6644,1129.7,express pending unusual pending furiously final pending quickly
+760,Supplier#000000760,235 Commerce Ave,5,76-347-393-9435,6549.86,special pending regular carefully quickly
+761,Supplier#000000761,835 Commerce Ave,16,26-773-365-9263,1175.3,regular quickly blithely carefully final silent
+762,Supplier#000000762,188 Commerce Ave,17,77-515-460-9820,7876.45,carefully quickly special furiously
+763,Supplier#000000763,132 Commerce Ave,17,17-464-954-5854,7601.38,quickly blithely unusual
+764,Supplier#000000764,465 Commerce Ave,17,75-405-587-6840,9998.46,blithely pending furiously quickly express final
+765,Supplier#000000765,318 Commerce Ave,19,20-668-980-2328,8607.22,special carefully carefully pending
+766,Supplier#000000766,169 Commerce Ave,15,51-613-229-6545,644.76,regular silent final carefully pending regular unusual
+767,Supplier#000000767,849 Commerce Ave,10,50-425-905-6449,9199.82,express silent carefully regular unusual pending
+768,Supplier#000000768,785 Commerce Ave,0,85-620-856-1029,3819.16,slyly express pending
+769,Supplier#000000769,783 Commerce Ave,24,90-858-869-3903,8636.41,blithely express blithely silent
+770,Supplier#000000770,248 Commerce Ave,16,79-981-717-9655,5358.78,furiously blithely carefully blithely
+771,Supplier#000000771,821 Commerce Ave,8,57-212-958-1826,4814.16,unusual unusual final
+772,Supplier#000000772,648 Commerce Ave,4,57-639-301-7407,9727.96,silent carefully slyly special carefully
+773,Supplier#000000773,676 Commerce Ave,8,13-130-526-5093,-802.96,blithely unusual quickly pending
+774,Supplier#000000774,578 Commerce Ave,13,80-879-985-4551,6312.93,silent final final regular special unusual unusual
+775,Supplier#000000775,618 Commerce Ave,8,95-166-861-6526,4509.89,blithely express regular express furiously
+776,Supplier#000000776,582 Commerce Ave,9,81-478-549-1359,-955.05,regular pending regular
+777,Supplier#000000777,201 Commerce Ave,22,25-187-549-5650,2491.43,carefully carefully furiously final blithely silent special
+778,Supplier#000000778,725 Commerce Ave,22,24-751-388-3477,-750.85,final slyly pending
+779,Supplier#000000779,100 Commerce Ave,24,19-264-615-9372,7164.59,regular special final silent final
+780,Supplier#000000780,877 Commerce Ave,17,62-950-609-1512,8406.44,express silent slyly pending blithely carefully unusual unusual
+781,Supplier#000000781,377 Commerce Ave,15,63-344-249-4982,-800.35,express pending regular pending
+782,Supplier#000000782,823 Commerce Ave,15,61-646-832-2571,5379.08,slyly carefully slyly unusual
+783,Supplier#000000783,449 Commerce Ave,0,15-929-402-4361,3395.03,express regular pending silent slyly slyly blithely
+784,Supplier#000000784,686 Commerce Ave,11,10-336-773-3021,2467.22,express pending quickly special
+785,Supplier#000000785,398 Commerce Ave,21,66-468-449-8905,731.99,furiously furiously final express unusual
+786,Supplier#000000786,710 Commerce Ave,2,42-278-583-3344,3302.92,pending silent quickly blithely quickly unusual regular
+787,Supplier#000000787,300 Commerce Ave,3,34-581-444-8243,4659.98,furiously regular unusual
+788,Supplier#000000788,593 Commerce Ave,14,84-927-153-5034,4256.17,blithely silent unusual
+789,Supplier#000000789,529 Commerce Ave,5,90-164-924-1059,1376.67,furiously blithely carefully slyly final
+790,Supplier#000000790,953 Commerce Ave,16,58-947-730-4455,2511.06,quickly unusual unusual carefully slyly carefully
+791,Supplier#000000791,574 Commerce Ave,20,24-608-252-4656,5036.56,pending carefully unusual silent furiously
+792,Supplier#000000792,780 Commerce Ave,13,60-708-318-3957,3053.21,quickly furiously pending special silent
+793,Supplier#000000793,838 Commerce Ave,15,44-942-212-5993,8842.67,furiously carefully silent blithely express silent
+794,Supplier#000000794,704 Commerce Ave,20,59-448-519-8334,3917.46,unusual pending special
+795,Supplier#000000795,30 Commerce Ave,17,62-698-622-3141,-423.14,final regular regular quickly special furiously carefully
+796,Supplier#000000796,735 Commerce Ave,6,39-530-486-5083,3350.37,final express express pending special
+797,Supplier#000000797,339 Commerce Ave,15,61-239-608-1734,6748.8,blithely regular carefully
+798,Supplier#000000798,654 Commerce Ave,10,19-964-811-2275,4964.53,special final furiously
+799,Supplier#000000799,46 Commerce Ave,10,27-908-640-6909,2731.26,slyly pending special furiously
+800,Supplier#000000800,592 Commerce Ave,19,60-271-271-7214,6755.93,unusual carefully slyly quickly unusual unusual quickly
+801,Supplier#000000801,594 Commerce Ave,8,53-645-596-1710,4817.45,express unusual pending final unusual regular blithely quickly
+802,Supplier#000000802,603 Commerce Ave,6,75-149-634-7805,707.27,special pending furiously silent furiously blithely
+803,Supplier#000000803,489 Commerce Ave,0,59-379-761-2577,9714.22,carefully quickly carefully carefully quickly regular express unusual
+804,Supplier#000000804,277 Commerce Ave,8,35-456-301-4799,5444.59,regular silent quickly
+805,Supplier#000000805,71 Commerce Ave,23,16-914-910-6566,-190.68,blithely pending final special carefully final slyly
+806,Supplier#000000806,976 Commerce Ave,19,53-743-697-9767,5276.31,blithely express quickly carefully final
+807,Supplier#000000807,276 Commerce Ave,3,57-561-994-5006,4676.52,quickly furiously furiously carefully final blithely special
+808,Supplier#000000808,354 Commerce Ave,0,48-257-915-2468,2744.21,pending blithely pending slyly slyly
+809,Supplier#000000809,495 Commerce Ave,14,98-898-637-4630,7466.18,special blithely express unusual
+810,Supplier#000000810,564 Commerce Ave,17,80-132-100-1759,-260.53,regular carefully pending
+811,Supplier#000000811,509 Commerce Ave,3,54-673-903-5920,5424.21,special special special blithely express slyly unusual
+812,Supplier#000000812,227 Commerce Ave,17,19-714-789-9987,3127.63,special final regular slyly quickly
+813,Supplier#000000813,290 Commerce Ave,3,17-379-798-5853,6414.9,unusual unusual special carefully quickly unusual final silent
+814,Supplier#000000814,620 Commerce Ave,9,75-408-937-4569,1073.99,final express blithely carefully regular slyly
+815,Supplier#000000815,239 Commerce Ave,6,82-175-437-9443,1061.06,blithely slyly final final
+816,Supplier#000000816,153 Commerce Ave,19,47-802-960-4281,6205.05,quickly special carefully unusual slyly slyly
+817,Supplier#000000817,921 Commerce Ave,10,99-543-264-7749,5495.41,slyly furiously carefully final regular
+818,Supplier#000000818,899 Commerce Ave,7,78-262-838-8354,9312.27,furiously quickly regular silent silent silent
+819,Supplier#000000819,214 Commerce Ave,18,84-457-827-1176,3468.53,express unusual quickly carefully carefully blithely express express
+820,Supplier#000000820,978 Commerce Ave,24,80-114-827-7658,8558.25,unusual furiously quickly
+821,Supplier#000000821,77 Commerce Ave,9,11-499-418-8009,-649.58,pending regular silent unusual unusual silent
+822,Supplier#000000822,327 Commerce Ave,21,37-103-366-1942,4520.87,silent furiously pending furiously blithely carefully express regular
+823,Supplier#000000823,321 Commerce Ave,8,62-393-501-5774,4078.18,blithely express special
+824,Supplier#000000824,800 Commerce Ave,1,75-515-451-2215,9548.34,furiously unusual slyly
+825,Supplier#000000825,900 Commerce Ave,22,38-165-176-8638,-702.45,slyly quickly carefully unusual special special express blithely
+826,Supplier#000000826,872 Commerce Ave,24,80-925-259-8438,4341.53,silent blithely regular
+827,Supplier#000000827,98 Commerce Ave,5,68-387-364-4673,1970.32,silent blithely unusual carefully
+828,Supplier#000000828,201 Commerce Ave,12,18-526-352-2429,9546.22,final furiously blithely
+829,Supplier#000000829,914 Commerce Ave,3,27-210-795-1822,2615.63,unusual final unusual
+830,Supplier#000000830,924 Commerce Ave,4,52-785-434-2545,-622.17,carefully express blithely silent
+831,Supplier#000000831,628 Commerce Ave,20,27-115-641-7286,9856.94,final final furiously quickly furiously final pending slyly
+832,Supplier#000000832,63 Commerce Ave,7,90-651-650-5567,4450.08,blithely final silent special
+833,Supplier#000000833,831 Commerce Ave,11,50-433-206-3773,1719.77,carefully pending slyly quickly silent
+834,Supplier#000000834,597 Commerce Ave,17,62-649-581-7880,6156.92,carefully blithely carefully slyly special
+835,Supplier#000000835,341 Commerce Ave,14,85-363-819-8992,1292.06,furiously blithely blithely furiously furiously slyly slyly
+836,Supplier#000000836,204 Commerce Ave,7,90-314-855-3342,8128.35,unusual pending furiously
+837,Supplier#000000837,48 Commerce Ave,16,56-509-306-9210,5289.73,pending express pending blithely
+838,Supplier#000000838,508 Commerce Ave,4,41-568-802-6693,945.59,blithely silent regular carefully special pending pending
+839,Supplier#000000839,59 Commerce Ave,18,85-451-727-2474,6821.8,silent final unusual
+840,Supplier#000000840,816 Commerce Ave,10,18-118-474-1856,4471.18,express furiously quickly
+841,Supplier#000000841,863 Commerce Ave,8,97-653-319-5238,8722.19,silent regular silent
+842,Supplier#000000842,195 Commerce Ave,4,23-274-893-7003,350.95,slyly furiously carefully pending silent unusual silent quickly
+843,Supplier#000000843,775 Commerce Ave,3,87-235-585-2932,1556.71,furiously carefully regular regular final
+844,Supplier#000000844,880 Commerce Ave,11,53-854-907-3458,5148.74,carefully quickly final final regular
+845,Supplier#000000845,78 Commerce Ave,21,80-282-322-2207,6505.92,regular regular silent special slyly slyly
+846,Supplier#000000846,344 Commerce Ave,3,38-454-808-9152,6593.28,unusual silent unusual carefully blithely special blithely slyly
+847,Supplier#000000847,631 Commerce Ave,7,71-354-145-3938,4876.96,pending furiously regular furiously blithely
+848,Supplier#000000848,18 Commerce Ave,19,72-893-505-4620,344.38,special carefully carefully silent quickly
+849,Supplier#000000849,705 Commerce Ave,3,25-726-979-1729,8867.69,silent express express furiously
+850,Supplier#000000850,62 Commerce Ave,3,61-479-673-6469,8894.72,final furiously express regular
+851,Supplier#000000851,959 Commerce Ave,21,42-677-920-8784,5215.92,regular special blithely furiously quickly unusual
+852,Supplier#000000852,244 Commerce Ave,2,97-702-143-9091,6229.74,furiously quickly slyly express express furiously silent
+853,Supplier#000000853,24 Commerce Ave,16,95-644-814-9334,6318.78,quickly final carefully special special carefully final
+854,Supplier#000000854,39 Commerce Ave,9,58-475-748-8976,689.1,carefully final quickly quickly carefully silent quickly
+855,Supplier#000000855,297 Commerce Ave,10,43-750-802-1915,64.66,pending slyly quickly special pending
+856,Supplier#000000856,954 Commerce Ave,7,17-858-262-9906,166.6,regular special express pending unusual final quickly slyly
+857,Supplier#000000857,586 Commerce Ave,5,65-742-875-4001,4828.83,express furiously express unusual
+858,Supplier#000000858,309 Commerce Ave,9,46-519-880-8899,2465.59,unusual quickly express slyly silent silent express slyly
+859,Supplier#000000859,772 Commerce Ave,22,57-254-246-9293,4699.78,slyly pending furiously slyly unusual
+860,Supplier#000000860,836 Commerce Ave,2,25-829-673-1705,2821.06,blithely blithely pending
+861,Supplier#000000861,923 Commerce Ave,24,30-827-148-8328,2036.1,blithely silent unusual final regular quickly
+862,Supplier#000000862,66 Commerce Ave,24,24-704-416-4170,7649.99,carefully pending carefully regular
+863,Supplier#000000863,602 Commerce Ave,2,71-600-513-8417,8489.43,blithely final carefully furiously furiously pending
+864,Supplier#000000864,201 Commerce Ave,4,96-141-166-7949,-168.72,furiously special final silent special pending
+865,Supplier#000000865,937 Commerce Ave,21,46-517-173-8380,2939.98,regular carefully blithely special furiously
+866,Supplier#000000866,662 Commerce Ave,12,19-317-741-3282,2411.48,blithely slyly slyly
+867,Supplier#000000867,926 Commerce Ave,9,80-983-545-9888,6702.83,regular quickly regular
+868,Supplier#000000868,603 Commerce Ave,4,17-911-875-3112,4907.46,quickly furiously furiously blithely
+869,Supplier#000000869,225 Commerce Ave,9,91-883-563-1870,3203.4,furiously express final express
+870,Supplier#000000870,57 Commerce Ave,4,47-504-460-4438,6385.41,blithely express blithely regular silent
+871,Supplier#000000871,379 Commerce Ave,0,59-606-132-2432,6602.9,special special carefully carefully
+872,Supplier#000000872,188 Commerce Ave,23,82-641-385-9878,2815.15,unusual special furiously furiously final final carefully furiously
+873,Supplier#000000873,560 Commerce Ave,14,69-107-944-5784,1662.95,blithely slyly final regular
+874,Supplier#000000874,416 Commerce Ave,5,50-356-160-4918,8434.74,carefully pending unusual unusual express express quickly
+875,Supplier#000000875,97 Commerce Ave,3,54-378-410-1670,6334.6,pending final final regular final
+876,Supplier#000000876,317 Commerce Ave,10,61-654-939-5775,8984.99,slyly furiously pending quickly express special silent pending
+877,Supplier#000000877,671 Commerce Ave,2,41-809-887-2454,2689.48,final silent blithely final quickly express
+878,Supplier#000000878,834 Commerce Ave,2,80-672-382-1587,8925.19,slyly slyly silent final carefully
+879,Supplier#000000879,33 Commerce Ave,17,11-691-388-2028,6269.46,final silent pending quickly silent pending
+880,Supplier#000000880,227 Commerce Ave,16,54-921-992-5639,4058.79,blithely regular quickly final unusual quickly pending unusual
+881,Supplier#000000881,5 Commerce Ave,12,71-575-343-2872,4306.87,slyly furiously regular carefully
+882,Supplier#000000882,330 Commerce Ave,18,17-870-446-5779,8352.1,express silent pending blithely
+883,Supplier#000000883,942 Commerce Ave,24,59-105-309-2315,5861.01,regular silent express final furiously blithely
+884,Supplier#000000884,219 Commerce Ave,21,84-441-753-6240,6440.54,carefully unusual slyly quickly special
+885,Supplier#000000885,837 Commerce Ave,8,63-765-224-2768,5177.06,final express express regular furiously slyly
+886,Supplier#000000886,442 Commerce Ave,11,97-133-162-3641,7981.3,quickly regular final
+887,Supplier#000000887,777 Commerce Ave,14,77-602-162-1971,5700.04,blithely special slyly silent silent express silent
+888,Supplier#000000888,208 Commerce Ave,20,19-917-833-3260,4560.56,pending quickly silent silent express express
+889,Supplier#000000889,397 Commerce Ave,18,53-567-869-2248,4297.85,special unusual quickly
+890,Supplier#000000890,108 Commerce Ave,21,26-872-898-7137,8264.14,blithely unusual express
+891,Supplier#000000891,727 Commerce Ave,14,93-737-385-4271,5459.12,quickly silent blithely slyly special carefully carefully
+892,Supplier#000000892,858 Commerce Ave,4,80-647-375-6623,7354.79,express final final express slyly final blithely
+893,Supplier#000000893,126 Commerce Ave,14,97-522-964-6296,6874.3,blithely carefully slyly slyly silent pending quickly special
+894,Supplier#000000894,886 Commerce Ave,2,38-404-780-6289,5351.27,special slyly unusual furiously
+895,Supplier#000000895,515 Commerce Ave,10,56-978-522-9769,6669.16,quickly carefully unusual special quickly
+896,Supplier#000000896,965 Commerce Ave,16,20-136-501-4632,6785.31,furiously quickly silent special
+897,Supplier#000000897,75 Commerce Ave,3,30-796-845-5604,7202.91,unusual express express regular
+898,Supplier#000000898,611 Commerce Ave,10,16-900-419-5046,1707.43,quickly unusual unusual regular final
+899,Supplier#000000899,778 Commerce Ave,18,89-238-625-3581,-999.64,furiously furiously regular regular express
+900,Supplier#000000900,63 Commerce Ave,4,53-196-861-4549,-980.38,pending blithely unusual unusual special slyly
+901,Supplier#000000901,228 Commerce Ave,9,42-416-780-1738,788.96,unusual pending unusual silent final quickly carefully
+902,Supplier#000000902,867 Commerce Ave,2,39-725-908-9616,1730.64,regular express blithely regular unusual special
+903,Supplier#000000903,710 Commerce Ave,12,16-739-172-1574,7863.27,unusual silent regular regular final express
+904,Supplier#000000904,922 Commerce Ave,7,74-511-230-1666,-69.56,express final quickly
+905,Supplier#000000905,423 Commerce Ave,3,28-641-612-6369,3893.94,slyly quickly unusual unusual
+906,Supplier#000000906,94 Commerce Ave,12,97-241-981-9812,7922.04,unusual silent blithely
+907,Supplier#000000907,152 Commerce Ave,19,55-642-381-6400,2775.85,silent blithely express special blithely furiously pending
+908,Supplier#000000908,425 Commerce Ave,19,57-676-516-7677,5197.8,unusual furiously unusual furiously final
+909,Supplier#000000909,313 Commerce Ave,7,59-997-850-5004,7205.49,express furiously silent furiously express silent pending unusual
+910,Supplier#000000910,627 Commerce Ave,13,67-157-844-6265,8049.18,silent regular pending unusual final blithely
+911,Supplier#000000911,701 Commerce Ave,12,25-721-813-9780,3457.56,final express furiously
+912,Supplier#000000912,361 Commerce Ave,17,53-985-168-3894,8523.93,express furiously special silent
+913,Supplier#000000913,269 Commerce Ave,5,61-446-436-4650,9221.97,carefully silent quickly regular
+914,Supplier#000000914,665 Commerce Ave,16,97-845-524-1087,9074.27,carefully quickly pending pending carefully carefully silent
+915,Supplier#000000915,671 Commerce Ave,8,84-797-465-6397,3436.14,furiously express special quickly special regular pending
+916,Supplier#000000916,25 Commerce Ave,12,45-506-567-7768,1044.15,carefully silent special carefully carefully
+917,Supplier#000000917,322 Commerce Ave,22,10-626-999-5733,7346.99,quickly blithely slyly pending special unusual regular
+918,Supplier#000000918,857 Commerce Ave,14,71-366-213-9323,5822.18,blithely final quickly carefully regular special unusual blithely
+919,Supplier#000000919,128 Commerce Ave,16,34-963-376-4710,4657.88,carefully special blithely blithely
+920,Supplier#000000920,919 Commerce Ave,13,68-911-676-9359,2330.73,furiously final slyly carefully special silent
+921,Supplier#000000921,108 Commerce Ave,16,88-168-649-3753,3709.59,special slyly silent blithely express silent special
+922,Supplier#000000922,357 Commerce Ave,19,80-661-421-3963,5974.32,special quickly final carefully regular carefully furiously
+923,Supplier#000000923,458 Commerce Ave,20,54-801-241-4570,4485.95,special special final quickly express
+924,Supplier#000000924,917 Commerce Ave,22,74-570-429-1158,-268.89,carefully special carefully express carefully pending
+925,Supplier#000000925,233 Commerce Ave,13,43-749-987-3327,9083.07,special furiously slyly carefully
+926,Supplier#000000926,892 Commerce Ave,18,26-379-744-6052,4949.42,furiously unusual silent furiously slyly
+927,Supplier#000000927,699 Commerce Ave,20,52-324-496-9258,8108.41,express final quickly blithely
+928,Supplier#000000928,459 Commerce Ave,16,64-435-969-4421,225.26,final express final express express final quickly slyly
+929,Supplier#000000929,819 Commerce Ave,15,97-705-128-7979,1528.47,quickly silent carefully furiously blithely slyly special
+930,Supplier#000000930,881 Commerce Ave,24,17-879-559-8791,7453.72,carefully special quickly
+931,Supplier#000000931,848 Commerce Ave,24,70-630-713-4826,3066.41,silent special pending express quickly final blithely
+932,Supplier#000000932,664 Commerce Ave,9,44-594-986-5170,8329.61,final furiously final
+933,Supplier#000000933,937 Commerce Ave,3,57-202-309-6457,7591.87,carefully final carefully
+934,Supplier#000000934,298 Commerce Ave,15,52-894-170-3453,4371.25,blithely special silent furiously special
+935,Supplier#000000935,305 Commerce Ave,16,62-239-459-7777,940.46,carefully express special regular
+936,Supplier#000000936,844 Commerce Ave,14,18-856-100-6869,30.21,unusual final blithely slyly slyly special quickly final
+937,Supplier#000000937,563 Commerce Ave,7,36-434-724-8003,2856.3,carefully slyly furiously furiously blithely final slyly
+938,Supplier#000000938,648 Commerce Ave,11,25-700-644-7624,6619.61,regular unusual regular express
+939,Supplier#000000939,235 Commerce Ave,14,70-719-946-1186,7773.91,carefully final blithely slyly blithely special furiously
+940,Supplier#000000940,649 Commerce Ave,22,24-378-260-8855,9331.54,carefully blithely blithely express blithely
+941,Supplier#000000941,81 Commerce Ave,17,18-110-339-4945,2754.49,special slyly quickly furiously
+942,Supplier#000000942,551 Commerce Ave,20,68-236-650-1121,-610.0,regular special unusual final furiously furiously final pending
+943,Supplier#000000943,863 Commerce Ave,19,67-168-107-9713,2427.28,unusual slyly pending final furiously
+944,Supplier#000000944,524 Commerce Ave,8,48-595-519-5985,1620.21,slyly slyly silent carefully
+945,Supplier#000000945,846 Commerce Ave,7,64-900-711-3239,2065.36,final unusual carefully unusual special final quickly furiously
+946,Supplier#000000946,235 Commerce Ave,24,11-733-211-7655,-729.17,carefully carefully carefully unusual blithely pending pending furiously
+947,Supplier#000000947,431 Commerce Ave,21,18-333-491-3715,1179.72,express final pending quickly slyly furiously unusual blithely
+948,Supplier#000000948,334 Commerce Ave,3,47-458-910-7513,3378.34,slyly pending carefully blithely
+949,Supplier#000000949,139 Commerce Ave,0,88-623-964-5230,6506.75,furiously silent final final regular final
+950,Supplier#000000950,415 Commerce Ave,8,71-110-853-4021,2642.38,silent blithely furiously
+951,Supplier#000000951,109 Commerce Ave,14,23-535-455-7195,6168.48,final furiously quickly pending silent special
+952,Supplier#000000952,371 Commerce Ave,11,86-339-495-4968,7729.91,blithely furiously slyly silent special blithely regular
+953,Supplier#000000953,553 Commerce Ave,23,22-516-661-2203,9103.46,quickly final regular special special blithely pending
+954,Supplier#000000954,540 Commerce Ave,17,46-446-977-4214,7202.36,express unusual silent slyly silent furiously quickly
+955,Supplier#000000955,184 Commerce Ave,2,92-301-751-3868,5405.45,slyly furiously unusual
+956,Supplier#000000956,126 Commerce Ave,17,47-278-638-4270,8792.48,furiously silent quickly slyly
+957,Supplier#000000957,382 Commerce Ave,17,58-785-282-2568,8688.7,regular furiously furiously express silent express
+958,Supplier#000000958,975 Commerce Ave,22,48-625-329-4293,936.79,pending pending regular regular
+959,Supplier#000000959,663 Commerce Ave,24,17-296-941-2046,8724.18,quickly express furiously carefully carefully silent pending unusual
+960,Supplier#000000960,693 Commerce Ave,15,29-653-976-3008,4863.31,furiously final express special silent express
+961,Supplier#000000961,631 Commerce Ave,24,52-101-906-1918,-516.05,final special silent blithely slyly carefully
+962,Supplier#000000962,475 Commerce Ave,10,85-766-837-4203,839.6,furiously pending quickly regular express express special
+963,Supplier#000000963,8 Commerce Ave,14,57-606-207-3888,4410.42,slyly express silent furiously slyly quickly final
+964,Supplier#000000964,174 Commerce Ave,2,94-272-205-7453,8255.15,slyly slyly quickly silent final pending
+965,Supplier#000000965,775 Commerce Ave,20,71-673-662-1133,8704.19,pending carefully quickly blithely
+966,Supplier#000000966,393 Commerce Ave,2,89-109-288-2709,3031.8,slyly final pending slyly final unusual express final
+967,Supplier#000000967,599 Commerce Ave,15,44-632-978-7434,6110.51,unusual final final carefully
+968,Supplier#000000968,935 Commerce Ave,16,31-798-170-2084,552.88,quickly slyly regular carefully carefully pending special carefully
+969,Supplier#000000969,167 Commerce Ave,22,45-545-370-1877,9817.68,furiously unusual slyly
+970,Supplier#000000970,274 Commerce Ave,5,49-680-370-2657,6654.51,quickly pending special carefully final carefully express
+971,Supplier#000000971,59 Commerce Ave,8,11-762-157-3362,4940.34,carefully slyly slyly final
+972,Supplier#000000972,140 Commerce Ave,12,20-434-358-8520,2705.71,pending express silent regular
+973,Supplier#000000973,579 Commerce Ave,8,62-560-888-1378,6305.87,regular quickly carefully special
+974,Supplier#000000974,561 Commerce Ave,14,25-651-464-5982,9483.88,unusual slyly express unusual blithely unusual pending quickly
+975,Supplier#000000975,483 Commerce Ave,3,36-934-197-8222,422.49,carefully special quickly quickly express express unusual silent
+976,Supplier#000000976,814 Commerce Ave,9,19-790-118-5266,-90.64,regular special carefully silent unusual slyly
+977,Supplier#000000977,413 Commerce Ave,4,64-413-563-1789,4620.78,special silent pending express slyly quickly express blithely
+978,Supplier#000000978,566 Commerce Ave,2,42-204-910-7717,9470.9,furiously special unusual silent unusual pending
+979,Supplier#000000979,888 Commerce Ave,23,18-296-683-3269,1206.36,furiously final unusual special final regular furiously quickly
+980,Supplier#000000980,193 Commerce Ave,12,52-633-967-3420,8688.74,regular express slyly silent silent unusual blithely
+981,Supplier#000000981,361 Commerce Ave,9,96-880-251-1251,-237.25,pending pending blithely
+982,Supplier#000000982,692 Commerce Ave,4,53-657-609-8750,151.04,special unusual furiously furiously special special quickly
+983,Supplier#000000983,282 Commerce Ave,1,78-231-477-3846,9066.49,unusual quickly unusual regular carefully final
+984,Supplier#000000984,453 Commerce Ave,14,76-279-846-4511,6551.24,pending quickly unusual silent unusual
+985,Supplier#000000985,258 Commerce Ave,8,27-858-507-4951,50.16,final regular special final express silent final pending
+986,Supplier#000000986,476 Commerce Ave,7,80-803-589-9158,7824.69,final pending slyly regular
+987,Supplier#000000987,210 Commerce Ave,17,99-518-462-4310,2064.41,quickly quickly slyly
+988,Supplier#000000988,467 Commerce Ave,2,60-335-900-6923,6271.23,slyly regular quickly
+989,Supplier#000000989,685 Commerce Ave,14,75-158-356-3288,572.9,final final unusual
+990,Supplier#000000990,946 Commerce Ave,5,48-350-434-7717,9664.7,blithely furiously express furiously
+991,Supplier#000000991,889 Commerce Ave,11,87-796-277-3044,6798.02,pending unusual furiously carefully quickly unusual carefully
+992,Supplier#000000992,35 Commerce Ave,20,14-333-724-8302,8373.67,pending carefully unusual special special express furiously carefully
+993,Supplier#000000993,894 Commerce Ave,7,23-918-956-3881,1799.66,unusual unusual blithely
+994,Supplier#000000994,1 Commerce Ave,3,39-471-127-6395,3588.44,express unusual slyly slyly regular
+995,Supplier#000000995,83 Commerce Ave,21,11-360-422-7350,-121.99,pending pending final slyly carefully unusual furiously
+996,Supplier#000000996,315 Commerce Ave,18,80-974-927-1080,8540.21,slyly pending unusual
+997,Supplier#000000997,264 Commerce Ave,12,46-369-697-2550,2526.58,quickly quickly silent
+998,Supplier#000000998,684 Commerce Ave,10,40-819-395-2047,4643.6,express quickly final regular final pending regular
+999,Supplier#000000999,731 Commerce Ave,14,76-294-415-6065,9216.42,express regular regular
+1000,Supplier#000001000,269 Commerce Ave,4,66-171-998-8999,417.87,special slyly slyly carefully special

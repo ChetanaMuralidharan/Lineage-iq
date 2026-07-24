@@ -12,15 +12,17 @@ build_mau:
       warehouse: compute_wh
   target: dev
 pipeline_platform:
+  target: dev
+
   outputs:
     dev:
-      account: RGNNREH-EJ85746
-      database: PIPELINE_PLATFORM
-      password: Mypuppyl@vesch33s3
-      role: ACCOUNTADMIN
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
+      user: "{{ env_var('SNOWFLAKE_USER') }}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD') }}"
+      role: "{{ env_var('SNOWFLAKE_ROLE', 'ACCOUNTADMIN') }}"
+      warehouse: "{{ env_var('SNOWFLAKE_WAREHOUSE', 'COMPUTE_WH') }}"
+      database: "{{ env_var('SNOWFLAKE_DATABASE', 'PIPELINE_PLATFORM') }}"
       schema: DBT_DEV
       threads: 4
-      type: snowflake
-      user: CHETANAMURALI
-      warehouse: COMPUTE_WH
-  target: dev
+      client_session_keep_alive: false

@@ -1,8 +1,27 @@
+# Environment and credentials
 .env
+*.env
+!.env.example
+
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+.pytest_cache/
 venv/
-target/
-dbt_packages/
-logs/
-.vscode/"tpch_data_raw/" 
+.venv/
+
+# dbt generated files
+dbt_project/logs/
+dbt_project/**/target/
+dbt_project/**/dbt_packages/
+dbt_project/.user.yml
+
+# Generated data
+tpch_data/
+*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
+
+.zip

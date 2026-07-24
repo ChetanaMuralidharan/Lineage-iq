@@ -33,11 +33,13 @@ def load_csv_to_postgres(table_name: str, engine):
     # but keeps the schema we defined
     # we use 'append' since we already created the tables with proper types
     df.to_sql(
-        name=table_name,
-        con=engine,
-        if_exists='append',
-        index=False
-    )
+    name=table_name,
+    con=engine,
+    if_exists="replace",
+    index=False,
+    chunksize=10000,
+    method="multi"
+)
     print(f"  Loaded {len(df)} rows into {table_name}")
 
 if __name__ == "__main__":

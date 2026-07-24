@@ -1,4 +1,4 @@
-version: '3.8'
+# version: '3.8'
 services:
   postgres:
     image: postgres:15
@@ -8,7 +8,7 @@ services:
       POSTGRES_PASSWORD: tpch_pass
       POSTGRES_DB: tpch
     ports:
-      - "5432:5432"
+      - "5433:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
     networks:
@@ -36,12 +36,12 @@ services:
       AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
       AIRFLOW__WEBSERVER__SECRET_KEY: 'lineageiq-secret-key-2024'
       AIRFLOW__CORE__FERNET_KEY: 'ZmDfcTF7_60GrrY167zsiPd67pEvs0aGOv2oasOM1Pg='
-      SNOWFLAKE_ACCOUNT: RGNNREH-EJ85746
-      SNOWFLAKE_USER: CHETANAMURALI
-      SNOWFLAKE_PASSWORD: Mypuppyl@vesch33s3
-      SNOWFLAKE_ROLE: ACCOUNTADMIN
-      SNOWFLAKE_WAREHOUSE: COMPUTE_WH
-      SNOWFLAKE_DATABASE: PIPELINE_PLATFORM
+      SNOWFLAKE_ACCOUNT: ${SNOWFLAKE_ACCOUNT}
+      SNOWFLAKE_USER: ${SNOWFLAKE_USER}
+      SNOWFLAKE_PASSWORD: ${SNOWFLAKE_PASSWORD}
+      SNOWFLAKE_ROLE: ${SNOWFLAKE_ROLE}
+      SNOWFLAKE_WAREHOUSE: ${SNOWFLAKE_WAREHOUSE}
+      SNOWFLAKE_DATABASE: ${SNOWFLAKE_DATABASE}
       PG_HOST: lineageiq-tpch-db
       PG_PORT: 5432
       PG_USER: tpch_user
